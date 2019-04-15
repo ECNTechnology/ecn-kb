@@ -15,7 +15,7 @@ Note that you can click '**Register**' on the right hand side if you do not alre
 Once logged in, click '**My Services**' and select your Business SIP service from under the '**Voice**' menu.
 
 
-## Direct or Trunk Mode?
+# Direct or Trunk Mode?
 
 There are a few fundamental differences between **Direct Mode** and **Trunk Mode**.
 
