@@ -31,6 +31,12 @@ Coming Soon!
 Coming Soon!
 :::
 
+### Configuring Voip Service
+
+::: tip
+Coming Soon!
+:::
+
 ### Changing your WiFi Name
 
 ::: tip
