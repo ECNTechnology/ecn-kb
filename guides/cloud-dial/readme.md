@@ -5,8 +5,10 @@ date: 2019-04-16T09:15:16.967Z
 CloudDial Documentation.
 
 ## CloudDial Sign-In Options
+::: tip
+Contact your Administrator for your CloudDial URL
+:::
 
-Contact your administrator for your companies CloudDial login URL and enter that into Google Chrome.
 
 ![clouddial login screen](/images/clouddial-login.png)
 
