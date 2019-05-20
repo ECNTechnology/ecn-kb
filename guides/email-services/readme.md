@@ -175,7 +175,7 @@ Click on the tab across the top labelled, **Outgoing Server**
 
 <img style="width: auto; height: 350px;" src="/images/webnow-windows-outlook2016-image9.png">
 
-Tick the box next to **My outgoing server (SMTP) requires authentication**. Leave **Use same settings as my incoming mail server**. 
+Tick the box next to **My outgoing server (SMTP) requires authentication**. Leave **Use same settings as my incoming mail server** selected.
 
 Finally, select the third tab across the top, labelled **Advanced**
 
@@ -428,6 +428,96 @@ You will find setup instructions for your **_@ecn.net.au_** account for most com
 ::: tip
 Coming Soon!
 :::
+
+### Windows - Outlook 2016
+
+- - -
+
+The following guide will walk you through configuring your custom domain @ecn.net.au email address on **Microsoft Outlook 2016** for Windows.
+
+You will need to start by opening the start menu:
+
+<img style="width: auto; height: 350px;" src="/images/ecn-email-windows-outlook2016-image1.png">
+
+Type to search for control panel and then select the **Control Panel Desktop App**.
+
+<img style="width: auto; height: 300px;" src="/images/ecn-email-windows-outlook2016-image2.png">
+
+Click inside the search bar in the top right and then type mail. Once the search completes, click on **Mail (32-bit)**.
+
+<img style="width: auto; height: 350px;" src="/images/ecn-email-windows-outlook2016-image3.png">
+
+Click on the button labelled **Add...**
+
+<img style="width: auto; height: 350px;" src="/images/ecn-email-windows-outlook2016-image4.png">
+
+Type in a name for the new mail profile, and then click **OK**
+
+NOTE: This can be anything you like, it will not affect the login process, it is for your reference ONLY.
+
+<img style="width: auto; height: 350px;" src="/images/ecn-email-windows-outlook2016-image5.png">
+
+Select the button next to **Manual setup or additional server types**, and then click **Next >**
+
+<img style="width: auto; height: 350px;" src="/images/ecn-email-windows-outlook2016-image6.png">
+
+Select the button next to **POP or IMAP**, and then click **Next >**
+
+<img style="width: auto; height: 350px;" src="/images/ecn-email-windows-outlook2016-image7.png">
+
+Fill in the details as per the following:
+
+**Login Credentials**
+
+•	**Username:** Your email address
+
+•	**Password:** Your Password
+
+•	**Incoming Mail Server:** mail.ecn.net.au
+
+•	**Outgoing Mail Server:** mail.ecn.net.au
+
+Click on **More Settings ...**
+
+<img style="width: auto; height: 350px;" src="/images/ecn-email-windows-outlook2016-image8.png">
+
+Click on the tab across the top labelled, **Outgoing Server**
+
+<img style="width: auto; height: 350px;" src="/images/ecn-email-windows-outlook2016-image9.png">
+
+Tick the box next to **My outgoing server (SMTP) requires authentication**. Leave **Use same settings as my incoming mail server** selected.
+
+Finally, select the third tab across the top, labelled **Advanced**
+
+<img style="width: auto; height: 350px;" src="/images/ecn-email-windows-outlook2016-image10.png">
+
+Edit the fields as per below:
+
+**Incoming server:**
+
+•	**Encryption type:** Auto
+
+•	**Port:** 143
+
+**Outgoing server:**
+
+•	**Encryption type:** Auto
+
+•	**Port:** 465
+
+Finally, click on **OK**
+
+<img style="width: auto; height: 350px;" src="/images/ecn-email-windows-outlook2016-image11.png">
+
+Now click on **Next >**
+
+<img style="width: auto; height: 350px;" src="/images/ecn-email-windows-outlook2016-image12.png">
+
+Outlook will now check on the settings we have configured. Once the checks succeed, click **Close**
+
+<img style="width: auto; height: 350px;" src="/images/ecn-email-windows-outlook2016-image13.png">
+
+Click on **Finish** to complete the setup process. You can now open Outlook to begin using your email account
 
 ### Windows - Outlook 2019
 
