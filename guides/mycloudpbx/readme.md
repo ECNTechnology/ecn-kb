@@ -1,12 +1,12 @@
 ---
-title: myCloudPBX Articles
+title: Management Portal
 date: 2019-04-11T05:32:12.066Z
 ---
 Use the menu on the left hand side of the screen to select the user guide for your device.
 
-## ECN Management Portal
+## Management Portal
 
-Use the ECN Portal to setup your individual emails, set passwords, configure email forwarding & auto-replies.
+Use the myCloudPBX Management Portal to setup your individual emails, set passwords, configure email forwarding & auto-replies.
 
 ### Logging into the PBX Management Portal
 
