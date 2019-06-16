@@ -2,8 +2,8 @@
 title: Virtual FAX
 date: 2019-06-16T05:54:38.243Z
 ---
-**Virtual FAX**
-
+# **Virtual FAX**
+----
 There are three steps to configuring Virtual FAX.
 
 * Enabling the Virtual FAX Plugin
