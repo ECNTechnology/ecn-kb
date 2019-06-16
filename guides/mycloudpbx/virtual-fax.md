@@ -10,7 +10,7 @@ There are three steps to configuring Virtual FAX.
 * Enabling outbound Virtual senders.
 * Configuring a number for inbound Virtual FAX.
 
-### Enable Virtual FAX
+### Enable Virtual FAX 
 
 - - -
 
