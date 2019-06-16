@@ -2,7 +2,8 @@
 title: Holiday Conditions
 date: 2019-06-16T05:49:34.324Z
 ---
-**Holidays Conditions**
+# **Holidays Conditions**
+----
 
 This guide will help you configure a Holiday Condition for your PBX.
 
