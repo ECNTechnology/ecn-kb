@@ -13,9 +13,8 @@ There are two ways to access the myCloudPBX conference bridge.
 **Note:** Each inbound call on your conference line will count toward you PBX channel count. If you are unsure how many channels you have available, contact your administrator.
 :::
 
-**Creating an dedicated inbound conference number**
+## Creating an dedicated inbound conference number
 
-- - -
 
 From the PBX homepage, select '**_Call Routing_**.
 
@@ -52,9 +51,7 @@ Your changes are now ready to '**_Apply_**' to your PBX.
 
 Click '**_Apply PBX Changes_**'.
 
-**Creating a virtual extension**
-
-- - -
+## Creating a virtual extension
 
 Creating a virtual extension directly to the conference room will allow you to reduce the number of channels in use during your conference.
 
