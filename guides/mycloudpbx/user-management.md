@@ -2,7 +2,7 @@
 title: User Management
 date: 2019-06-16T04:38:53.125Z
 ---
-### My Account Settings
+## My Account Settings
 
 From anywhere inside the Management Portal you can click '**My Account**' in the top right hand corner to edit your user account.
 
@@ -18,7 +18,7 @@ Client correspondence, newsletters and general updates are a great way to keep o
 
 Click '**Save**' when you are finished.
 
-### Portal User Management
+## Portal User Management
 
 An administrator can also create new / modify existing portal users.
 
@@ -30,7 +30,7 @@ Hover over '_**My Admin**_' and click on '_**Portal Users**_'.
 
 On this screen you can click on an existing email address to modify that user.
 
-#### Editing an existing user
+### Editing an existing user
 
 Click on the user you wish to modify.
 
