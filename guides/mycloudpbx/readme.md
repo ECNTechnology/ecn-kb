@@ -2,7 +2,8 @@
 title: Accessing the Management Portals
 date: 2019-04-11T05:32:12.066Z
 ---
-**myCloudPBX Management Portals**
+# **myCloudPBX Management Portals**
+----
 
 Use the myCloudPBX Management Portal to setup your individual emails, set passwords, configure email forwarding & auto-replies.
 
