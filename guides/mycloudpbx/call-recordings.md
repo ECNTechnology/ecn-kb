@@ -95,7 +95,7 @@ From the PBX homepage, hover over "**_Addons_**' and select '**_Call Recordings_
 
 On the following screen you will be able to set your login credentials for FTP access.
 
-# Call Recording Encryption
+## Call Recording Encryption
 
 To comply with data protection regulations and to provide enhanced security, myCloudPBX provides the option to encrypt call recordings with a user provided public key.
 
