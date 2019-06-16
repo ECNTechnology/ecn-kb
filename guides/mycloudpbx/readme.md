@@ -30,23 +30,6 @@ Click '_**My Services**_' to view your services.
 
 Expand the '_**Voice**_' list and select the PBX you wish to manage.
 
-### My Account Settings
-
-From anywhere inside the Management Portal you can click '**My Account**' in the top right hand corner to edit your user account.
-
-<img style="width: auto; height: auto;" src="/images/my_account.png">
-
-Make sure you fill in this page accurately as we will use this information to contact you in the event of an issue.
-
-You can specify the type of notifications you wish to receive based on your role.
-
-::: tip
-Client correspondence, newsletters and general updates are a great way to keep on top of any new features we add to our products!
-:::
-
-Click '**Save**' when you are finished.
-
-
 
 ### Hosted PBX Dashboard
 
