@@ -1,5 +1,5 @@
 ---
-title: Management Portal
+title: Accessing the Management Portal
 date: 2019-04-11T05:32:12.066Z
 ---
 Use the menu on the left hand side of the screen to select the user guide for your device.
