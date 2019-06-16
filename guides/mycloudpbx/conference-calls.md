@@ -2,7 +2,7 @@
 title: Conference Calls
 date: 2019-06-16T05:36:46.888Z
 ---
-## Conference Calls
+**Conference Calls**
 
 There are two ways to access the myCloudPBX conference bridge.
 
