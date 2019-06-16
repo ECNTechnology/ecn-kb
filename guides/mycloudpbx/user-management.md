@@ -4,7 +4,7 @@ date: 2019-06-16T04:38:53.125Z
 ---
 
 
-## Portal User Management
+**Portal User Management**
 
 An administrator can also create new / modify existing portal users.
 
@@ -16,7 +16,7 @@ Hover over '_**My Admin**_' and click on '_**Portal Users**_'.
 
 On this screen you can click on an existing email address to modify that user.
 
-### Editing another user
+## Editing another user
 
 Click on the user you wish to modify.
 
@@ -39,7 +39,7 @@ To disable user access, select '**_inactive_**' from the '**_Status_**' menu.
 
 When you have finished making changes, click '**_Save_**'.
 
-### Edit your own user account settings
+## Edit your own user account settings
 
 From anywhere inside the Management Portal you can click '**My Account**' in the top right hand corner to edit your user account.
 
