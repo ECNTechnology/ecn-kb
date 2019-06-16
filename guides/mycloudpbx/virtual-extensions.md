@@ -2,7 +2,9 @@
 title: Virtual Extensions
 date: 2019-06-16T05:52:10.594Z
 ---
-## Virtual Extensions (Speed Dials)
+
+# Virtual Extensions (Speed Dials)
+----
 
 To begin, select '**_Virtual Extensions_**' <img style="width: 50px; height: auto;" src="/images/pbx-virtualextensions-icon.png"> from the PBX homepage, then click '_**Add Virtual Extension**_'.
 
