@@ -2,7 +2,8 @@
 title: Blacklisting Numbers
 date: 2019-06-16T04:53:57.274Z
 ---
-**Blacklisting Numbers**
+# **Blacklisting Numbers**
+----
 
 In the event you wish to block a number from calling you, add it to the myCloudPBX Blacklist.
 
