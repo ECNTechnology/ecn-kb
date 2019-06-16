@@ -2,7 +2,8 @@
 title: Personal Voicemail
 date: 2019-06-16T05:50:52.036Z
 ---
-**Personal Voicemail**
+# Personal Voicemail
+----
 
 Each extension has the option to have personal voicemail enabled. This voicemail will only plan if an extension is _**directly dialled**_ (not part of a ring group).
 
