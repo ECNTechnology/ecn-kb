@@ -2,6 +2,9 @@
 title: Call Recordings
 date: 2019-06-16T05:34:33.518Z
 ---
+# Call Recordings
+----
+
 Call recordings can be enabled for inbound calls (per call route), outbound calls (per extensions), or both.
 
 ## Enabling Call Recordings
