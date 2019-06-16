@@ -2,19 +2,11 @@
 title: Personal Voicemail
 date: 2019-06-16T05:50:52.036Z
 ---
-## Personal Voicemail
+**Personal Voicemail**
 
 Each extension has the option to have personal voicemail enabled. This voicemail will only plan if an extension is _**directly dialled**_ (not part of a ring group).
 
-### Accessing Voicemail
-
-To access the Voicemail system, dial **777** from your phone, or press the _**Voicemail Button**_ on your handset if it has one.
-
-The voicemail system will then prompt you to enter your _**PIN**_ followed by the **\#** key.
-
-Once authenticated to the voicemail system, you will be able to follow the prompts to record your personal voicemail messages, and listen to voicemails left for you.
-
-### Enable Voicemail on Extension
+## Enable Voicemail on Extension
 
 To configure voicemail on an extension, click on the <img style="width: 50px; height: auto;" src="/images/pbx-officeandusers-icon.png"> icon from the PBX homepage.
 
@@ -39,3 +31,13 @@ Scroll down the page and click '_**Save**_' when you are finished.
 Your changes are now ready to '**_Apply_**' to your PBX.
 
 Click '**_Apply PBX Changes_**'.
+
+
+## Accessing Voicemail
+
+To access the Voicemail system, dial **777** from your phone, or press the _**Voicemail Button**_ on your handset if it has one.
+
+The voicemail system will then prompt you to enter your _**PIN**_ followed by the **\#** key.
+
+Once authenticated to the voicemail system, you will be able to follow the prompts to record your personal voicemail messages, and listen to voicemails left for you.
+
