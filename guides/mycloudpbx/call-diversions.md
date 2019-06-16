@@ -2,7 +2,7 @@
 title: Call Diversions
 date: 2019-06-16T04:56:17.099Z
 ---
-## Call Diversions
+**Call Diversions**
 
 Call diversions can be enabled in a number of ways, the easiest of which is to enable '**_Call Forward All_**' on the inbound route.
 
