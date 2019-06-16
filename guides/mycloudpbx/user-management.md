@@ -2,21 +2,7 @@
 title: User Management
 date: 2019-06-16T04:38:53.125Z
 ---
-## My Account Settings
 
-From anywhere inside the Management Portal you can click '**My Account**' in the top right hand corner to edit your user account.
-
-<img style="width: auto; height: auto;" src="/images/my_account.png">
-
-Make sure you fill in this page accurately as we will use this information to contact you in the event of an issue.
-
-You can specify the type of notifications you wish to receive based on your role.
-
-::: tip
-Client correspondence, newsletters and general updates are a great way to keep on top of any new features we add to our products!
-:::
-
-Click '**Save**' when you are finished.
 
 ## Portal User Management
 
@@ -30,7 +16,7 @@ Hover over '_**My Admin**_' and click on '_**Portal Users**_'.
 
 On this screen you can click on an existing email address to modify that user.
 
-### Editing an existing user
+### Editing another user
 
 Click on the user you wish to modify.
 
@@ -52,3 +38,19 @@ The '**_Role_**' menu allows you to choose from a number of options including, A
 To disable user access, select '**_inactive_**' from the '**_Status_**' menu.
 
 When you have finished making changes, click '**_Save_**'.
+
+### Edit your own user account settings
+
+From anywhere inside the Management Portal you can click '**My Account**' in the top right hand corner to edit your user account.
+
+<img style="width: auto; height: auto;" src="/images/my_account.png">
+
+Make sure you fill in this page accurately as we will use this information to contact you in the event of an issue.
+
+You can specify the type of notifications you wish to receive based on your role.
+
+::: tip
+Client correspondence, newsletters and general updates are a great way to keep on top of any new features we add to our products!
+:::
+
+Click '**Save**' when you are finished.
