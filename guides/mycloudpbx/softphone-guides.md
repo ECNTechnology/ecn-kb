@@ -3,11 +3,12 @@ title: Softphone Guides
 date: 2019-06-16T04:10:10.042Z
 ---
 # myCloudPBX Softphone Guides
-----
+
+- - -
+
 ## Windows Guides
-<a href="http://ecn.net.au/~support/myCloudPBXQuickStartGuideWindows.pdf" download>
-  <p>Quick Start Guide - Windows</p>
-</a>
+
+<p><a href="https://www.ecn.net.au/~support/myCloudPBXQuickStartGuideWindows.pdf" target="_blank">Quick Start Guide - Windows</a></p>
 
 ## OSX Guides
 
