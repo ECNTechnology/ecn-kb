@@ -3,12 +3,16 @@ title: Emergency Routing
 date: 2019-06-18T02:58:59.798Z
 ---
 # Emergency Routing and Failover
+----
 
-myCloudPBX Emergency Routing will monitor your phones and proactively route calls to an alternate activity in the event your monitored phones are not responding.
+myCloudPBX Emergency Routing provides automatic routing of a call to an alternate activity in the event that all selected extensions are not online. This feature can provide automatic failover in the event of an on-site issue (such as a power outage or Internet issue).
+
+Note that you may choose between 1 and 3 extensions, however all selected extensions must be offline for the emergency activity to be used.
 
 This alternate activity can be anything you like, such as a custom voicemail message or even a mobile number.
 
-## Configure Emergency Routing
+# Configure Emergency Routing
+----
 
 This guide assumes you are already logged into the myCloudPBX Management Portal and have selected your PBX.
 
