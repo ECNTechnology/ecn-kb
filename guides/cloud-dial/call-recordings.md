@@ -2,7 +2,7 @@
 title: Call Recordings
 date: 2019-06-20T00:18:40.664Z
 ---
-## Call Recordings
+# Call Recordings
 
 ::: tip
 **New Feature:** In order to meet PCIDSS Compliance, we have enhanced the call recording functionality to enable an Agent to '**mute**' a recording while taking payment or other personal information.
