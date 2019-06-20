@@ -2,6 +2,7 @@
 title: Wrapup Reasons
 date: 2019-06-20T01:17:55.360Z
 ---
+
 # Wrap Up Reasons
 
 A Wrap Up reason allows the agent to click a single button when ending the call to signify the outcome of the call for easy reporting.
@@ -42,5 +43,18 @@ Choose between '**_success_**' or '**_failed_**'.
 
 Click '**_Save_** when finished.
 
+<img style="width: auto; height: auto;" src="/images/clouddial_wrapup_5.png">
 
+## Adding Wrap Up Reasons To New Campaigns
 
+To create a new campaign, you'll need to be on the '**_Campaign Management_**' screen.
+
+<img style="width: auto; height: auto;" src="/images/clouddial-blaster-1.png">
+
+From the '**_New Campaign_**' menu, choose any campaign type **except** '_Blaster Campaign_'.
+
+Proceed as normal until you get to the '**_Wrap Up_**' tab.
+
+<img style="width: auto; height: auto;" src="/images/clouddial_wrapup_4.png">
+
+On this screen you can still manually add adhoc Wrap Up reasons by simply typing them in and clicking '_**Save**_' however you can also choose from the dropdown menu
