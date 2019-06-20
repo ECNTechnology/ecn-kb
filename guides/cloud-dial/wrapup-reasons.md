@@ -18,7 +18,29 @@ This guide will show you how.
 
 From the '_**Settings**_' menu, click '_**Wrap Up Reasons**_'.
 
-<img style="width: 1120px; height: auto;" src="/images/clouddial_wrapup_2.png">
+<img style="width: auto; height: auto;" src="/images/clouddial_wrapup_2.png">
+
+Here you can edit your existing Wrap Up reasons. 
+
+::: tip
+If you had any old Wrap Up reasons, they will now be in the 'Default' category.
+:::
+
+Choose the category from the dropdown menu.
+
+Click '**_Edit_**' to adjust as needed.
+
+<img style="width: auto; height: auto;" src="/images/clouddial_wrapup_3.png">
+
+Here you will be able to edit or create a new Wrap Up reason.
+
+From the '**_Category_**' dropdown menu, you can either select an existing category to add to, or create a new category.
+
+Give you Wrap Up reason a descriptive name (This will be what the Agents will see).
+
+Choose between '**_success_**' or '**_failed_**'.
+
+Click '**_Save_** when finished.
 
 
-<img style="width: 1120px; height: auto;" src="/images/clouddial_wrapup_3.png">
+
