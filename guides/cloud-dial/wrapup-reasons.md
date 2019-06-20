@@ -57,4 +57,8 @@ Proceed as normal until you get to the '**_Wrap Up_**' tab.
 
 <img style="width: auto; height: auto;" src="/images/clouddial_wrapup_4.png">
 
-On this screen you can still manually add adhoc Wrap Up reasons by simply typing them in and clicking '_**Save**_' however you can also choose from the dropdown menu
+On this screen you can still manually add adhoc Wrap Up reasons by simply typing them in and clicking '_**Save**_' however you can also choose to add all of the Wrap Up reasons from a category by selecting the category from the dropdown menu.
+
+::: tip
+You can even add multiple categories to the same campaign.
+:::
