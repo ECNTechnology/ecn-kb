@@ -1,5 +1,5 @@
 ---
-title: Cloud Dial Guides
+title: Cloud Dial
 date: 2019-04-16T09:15:16.967Z
 ---
 ## About Cloud Dial
