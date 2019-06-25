@@ -1,5 +1,5 @@
 ---
-title: '@ecn.net.au Email Guides'
+title: '@ecn.net.au Guides'
 date: 2019-06-25T03:13:42.036Z
 ---
 # Guides for @ecn.net.au accounts
