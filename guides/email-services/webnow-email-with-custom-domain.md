@@ -1,5 +1,5 @@
 ---
-title: WebNow Email with Custom Domain
+title: WebNow Email
 date: 2019-06-25T02:51:19.470Z
 ---
 <img style="width: 400px; height: auto;" src="/images/webnowlogo.png">
