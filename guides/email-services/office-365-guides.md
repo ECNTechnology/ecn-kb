@@ -8,7 +8,7 @@ date: 2019-06-25T02:39:36.226Z
 
 The following guides contain the steps needed to configure your Office 365 Email account on your devices.
 
-## Password Recovery
+## Password Recovery 
 
 - - -
 
