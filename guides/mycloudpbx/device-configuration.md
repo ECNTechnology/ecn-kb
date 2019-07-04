@@ -37,7 +37,7 @@ Click on the '**_Basic_**‘ tab.
 
 It is strongly recommended that you reset the above passwords immediately.
 
-Click on the '**_Advanced Settings_**‘ tab.
+Click on the '**_Admin_**‘ tab.
 
 ![](/images/grandstream_ht802_passwordreset2.png)
 
@@ -47,17 +47,12 @@ It is strongly recommended that you reset the above password immediately.
 Not resetting the above passwords can lead to toll fraud and very high bills.
 :::
 
-
-Click '_**Apply**_‘ when finished.
-
 #### Disable HTTP access
 
 Click on the '**_Basic_**' tab.
 
-* Set the 'Web Access Mode‘ to HTTPS only.
+* Set '_**Web Access Mode**_‘ to HTTPS only.
 * Set '_**Disable SSH**_' to 'Yes'.
-
-Click '_**Apply**_‘ when finished.
 
 ### Network Settings
 
@@ -69,15 +64,20 @@ Click '_**Apply**_‘ when finished.
 
 You will need to reboot the device for your changes to apply correctly.
 
-### Advanced Settings
+### SIP Configuration
 
-Click on the '**_Advanced Settings_**’ tab.
+Click on the '_**FXS PORT1**_’ tab.
 
-* Set '**_3CX Auto Provision_**' to 'NO‘
+* Set ‘_**Account Active**_’ to 'Yes‘.
+* Set '_**Primary SIP Server**_’ to the PBX domain. (EG: pinetree.mycloudpbx.com.au)
+* Set '_**SIP Transport**_‘ to 'TCP’.
+* Set '_**NAT Traversal**_‘ to 'Keep-Alive’.
+* Set '_**SIP User ID**_‘ to the ’Extension Number’.
+* Set '_**Authenticate ID**_‘ to the 'Extension Number’.
+* Set '_**Authenticate Password**_‘ to the 'Extension Password’.
+* Set '_**Register Expiration**_‘ to '1’. (minutes)
+* Set '_**Reregister before Expiration**_‘ to '15’. (seconds)
+* Set '_**Enable SIP OPTIONS Keep Alive**_‘ to 'YES’.
+* Set the ’'_**Preferred Vocoder**_‘ order as follows.
 
-* Set '**_Disable Direct IP Call_**' to 'YES‘
-
-* Set '**_NTP Server_**' to '0.au.pool.ntp.org‘
-
-Click '_**Apply**_‘ when finished.
-
+![](/images/grandstream_codecs.png)
