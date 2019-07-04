@@ -37,7 +37,7 @@ Click on the '**_Basic_**‘ tab.
 
 It is strongly recommended that you reset the above passwords immediately.
 
-Click on the '**_Admin_**‘ tab.
+Click on the '**_Advanced Settings_**‘ tab.
 
 ![](/images/grandstream_ht802_passwordreset2.png)
 
@@ -47,12 +47,17 @@ It is strongly recommended that you reset the above password immediately.
 Not resetting the above passwords can lead to toll fraud and very high bills.
 :::
 
+
+Click '_**Apply**_‘ when finished.
+
 #### Disable HTTP access
 
 Click on the '**_Basic_**' tab.
 
 * Set the 'Web Access Mode‘ to HTTPS only.
 * Set '_**Disable SSH**_' to 'Yes'.
+
+Click '_**Apply**_‘ when finished.
 
 ### Network Settings
 
@@ -63,3 +68,16 @@ You can configure your needed network settings on this page.
 Click '_**Apply**_‘ when finished.
 
 You will need to reboot the device for your changes to apply correctly.
+
+### Advanced Settings
+
+Click on the '**_Advanced Settings_**’ tab.
+
+* Set '**_3CX Auto Provision_**' to 'NO‘
+
+* Set '**_Disable Direct IP Call_**' to 'YES‘
+
+* Set '**_NTP Server_**' to '0.au.pool.ntp.org‘
+
+Click '_**Apply**_‘ when finished.
+
