@@ -6,7 +6,10 @@ date: 2019-07-03T23:53:06.420Z
 
 ## Grandstream HT802
 
-### Find the IP Address of the HT802
+
+### Logging into the HT802s management portal
+
+#### Find the IP Address of the HT802
 
 * Plug an analog phone into the FX1 Port
 * Dial \*\** (triple star).
@@ -14,7 +17,7 @@ date: 2019-07-03T23:53:06.420Z
 
 The devices IP Address will be now read back to you.
 
-### Logging into the HT802s management portal
+Enter the IP Address into your web browser.
 
 ![](/images/grandstream_ht802_loginscreen.png)
 
@@ -26,5 +29,8 @@ If this is a new HT802, Grandstream set the default credentials to:
 
 Click '**_Login_**‘
 
-### Security Settings
+### Network and Security Settings
+
+
+
 
