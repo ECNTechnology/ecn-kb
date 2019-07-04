@@ -25,19 +25,19 @@ If this is a new HT802, Grandstream set the default credentials to:
 * **Username:** admin
 * **Password:** admin
 
-Click '_**Login**_‘
+Click '**_Login_**‘
 
 ### Security Settings
 
 #### Reset Admin, User, and Viewer passwords.
 
-Click on the '_**Basic**_‘ tab.
+Click on the '**_Basic_**‘ tab.
 
 ![](/images/gramdstrea_ht802_passwordreset1.png)
 
 It is strongly recommended that you reset the above passwords immediately.
 
-Click on the '_**Admin**_‘ tab.
+Click on the '**_Admin_**‘ tab.
 
 ![](/images/grandstream_ht802_passwordreset2.png)
 
@@ -49,35 +49,35 @@ Not resetting the above passwords can lead to toll fraud and very high bills.
 
 #### Disable HTTP access
 
-Click on the '_**Basic**_' tab.
+Click on the '**_Basic_**' tab.
 
-* Set '**_Web Access Mode_**‘ to HTTPS only.
-* Set '**_Disable SSH_**' to 'Yes'.
+* Set '_**Web Access Mode**_‘ to HTTPS only.
+* Set '_**Disable SSH**_' to 'Yes'.
 
 ### Network Settings
 
-Click on the '**_Basic_**‘ tab.
+Click on the '_**Basic**_‘ tab.
 
 You can configure your needed network settings on this page.
 
-Click '**_Apply_**‘ when finished.
+Click '_**Apply**_‘ when finished.
 
 You will need to reboot the device for your changes to apply correctly.
 
 ### SIP Configuration
 
-Click on the '**_FXS PORT1_**’ tab.
+Click on the '_**FXS PORT1**_’ tab.
 
-* Set ‘**_Account Active_**’ to 'Yes‘.
-* Set '**_Primary SIP Server_**’ to the PBX domain. (EG: pinetree.mycloudpbx.com.au)
-* Set '**_SIP Transport_**‘ to 'TCP’.
-* Set '**_NAT Traversal_**‘ to 'Keep-Alive’.
-* Set '**_SIP User ID_**‘ to the ’Extension Number’.
-* Set '**_Authenticate ID_**‘ to the 'Extension Number’.
-* Set '**_Authenticate Password_**‘ to the 'Extension Password’.
-* Set '**_Register Expiration_**‘ to '1’. (minutes)
-* Set '**_Reregister before Expiration_**‘ to '15’. (seconds)
-* Set '**_Enable SIP OPTIONS Keep Alive_**‘ to 'YES’.
-* Set the ’'**_Preferred Vocoder_**‘ order as follows.
+* Set ‘_**Account Active**_’ to 'Yes‘.
+* Set '_**Primary SIP Server**_’ to the PBX domain. (EG: pinetree.mycloudpbx.com.au)
+* Set '_**SIP Transport**_‘ to 'TCP’.
+* Set '_**NAT Traversal**_‘ to 'Keep-Alive’.
+* Set '_**SIP User ID**_‘ to the ’Extension Number’.
+* Set '_**Authenticate ID**_‘ to the 'Extension Number’.
+* Set '_**Authenticate Password**_‘ to the 'Extension Password’.
+* Set '_**Register Expiration**_‘ to '1’. (minutes)
+* Set '_**Reregister before Expiration**_‘ to '15’. (seconds)
+* Set '_**Enable SIP OPTIONS Keep Alive**_‘ to 'YES’.
+* Set the ’'_**Preferred Vocoder**_‘ order as follows.
 
 ![](/images/grandstream_codecs.png)
