@@ -23,9 +23,9 @@ Enter the IP Address into your web browser.
 
 If this is a new HT802, Grandstream set the default credentials to:
 
-**Username:** admin
+* **Username:** admin
 
-**Password:** admin
+* **Password:** admin
 
 Click '**_Login_**‘
 
