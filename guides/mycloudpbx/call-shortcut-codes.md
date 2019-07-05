@@ -4,41 +4,47 @@ date: 2019-07-05T03:55:10.651Z
 ---
 # myCloudPBX Call Codes
 
+## Eavesdropping
+
+Eavesdropping enables the ability to listen, or 'eavesdrop‘ on a call. This is useful for call centre training operations where a supervisor or manager can listen in to an agents live call and provide realtime feedback.
+
+[Click here to learn more.](https://kb.ecn.net.au/guides/mycloudpbx/eavesdropping.html)
+
 ## In-Call Shortcuts
 
 #### Group Intercept
 
 * Used to pickup a ringing call from within a Pickup Group. Dial **\*\*** to pickup a call ringing on a different handset.
-::: tip 
-Note: This only works when in the same '**_pickup group_**'.
-::: 
+  ::: tip 
+  Note: This only works when in the same '_**pickup group**_'.
+  ::: 
 
 #### Direct Intercept
+
 * Used to pickup a ringing call on any extension on the PBX. Dial **\*\*** followed by the extension number you wish to pickup.
-::: tip
-EG: **\*\*** 101
-:::
+  ::: tip
+  EG: **\*\*** 101
+  :::
 
 ## Voicemail
 
 #### Accessing Personal Voicemail
 
-* Dial **_777_** to access your Voicemail. Enter your **_PIN_** when prompted.
+* Dial _**777**_ to access your Voicemail. Enter your _**PIN**_ when prompted.
 
 #### Accessing Another Users Voicemail
 
-* Dial **_778_** to access another users Voicemail. Enter the **_Extension Number_** followed by the **_PIN_** when prompted.
+* Dial _**778**_ to access another users Voicemail. Enter the _**Extension Number**_ followed by the _**PIN**_ when prompted.
 
 #### Directly Dial Another Users Voicemail
 
-* Dial **_6_** followed by the **_Extension Number_** of the user.
-
+* Dial _**6**_ followed by the _**Extension Number**_ of the user.
 
 ## Vertical Service Codes
 
 #### Enable Click-to-Dial
 
-* Dial **_12345_** to enable Click-to-Dial.
+* Dial _**12345**_ to enable Click-to-Dial.
 
 #### **Delayed Echo Test:**
 
