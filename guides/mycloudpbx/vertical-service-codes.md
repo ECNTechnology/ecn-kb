@@ -12,10 +12,10 @@ date: 2019-07-05T03:12:26.152Z
 
 * Same as delayed echo test,  only instant. Dial **9196** and we'll repeat back to you.
 
-#### Milliwatt Test:\*\*
+#### Milliwatt Test:
 
 * Dial **9197** for a Milliwatt Test.
 
-#### Music On Hold Test:\*\*
+#### Music On Hold Test:
 
 * Dial **9199** to listen to you Music on Hold Stream.
