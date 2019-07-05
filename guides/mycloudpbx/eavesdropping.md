@@ -11,7 +11,7 @@ This is useful for call centre training operations where a supervisor or manager
 
 ## Enable Eavesdropping on the PBX.
 
-From within the myCloudPBX portal, hover over '_**add-ons**_' and click '_**configure add-ons**_’.
+From within the myCloudPBX portal, hover over '**_add-ons_**' and click '**_configure add-ons_**’.
 
 ![](/images/addons.png)
 
@@ -27,8 +27,21 @@ After enabling eavesdropping, all extensions will now have the ability to enable
 
 Eavesdropping & Eavesdropping Privacy are configured on a per extension basis.
 
-From the myCloudPBX Portal, click on '**_Offices & Users_**‘.
-
 ![](/images/officesandusers.png)
 
+From the myCloudPBX Portal, click on '_**Offices & Users**_‘.
+
+Select the extension you wish to modify.
+
 ![](/images/eavesdropping_enable.png)
+
+* To allow an extension to eavesdrop on others, select '_**Enable EavesDropping**_'.
+
+![](/images/eavesdropping_privacy.png)
+
+* Selecting '**_Enable Extension Privacy_**‘ will ensure that noone can eavesdrop on the extension. (useful for management etc.)
+
+::: tip
+Select both options to have the best of both worlds
+:::
+ 
