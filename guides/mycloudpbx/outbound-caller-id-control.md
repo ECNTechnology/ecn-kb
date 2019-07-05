@@ -29,7 +29,7 @@ Once inside the add-ons screen, enable the 'Advanced Outbound Caller ID Control�
 
 Scroll to the bottom of the page, and click '**Save**‘.
 
-## Configure
+## Configure Outbound Caller ID Control
 
 From within the myCloudPBX portal, hover over '_**add-ons**_' and click '_**Advanced Outbound Call Control**_’.
 
