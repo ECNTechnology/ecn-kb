@@ -59,6 +59,6 @@ These controls are based on the direction of the call.
 
 #### **For Incoming Calls:**
 * Press **1** to speak with the _**PBX User**_.
-* Press **2*8 to speak with the _**Remote Party**_.
+* Press **2** to speak with the _**Remote Party**_.
 * Press **3** to engage _**3 way chat**_.
 * Press **0** to Mute yourself.
