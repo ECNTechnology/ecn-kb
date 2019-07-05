@@ -6,25 +6,39 @@ date: 2019-07-05T03:55:10.651Z
 
 ## In-Call Shortcuts
 
-#### Group Intercept:
+#### Group Intercept
 
 * Used to pickup a ringing call from within a Pickup Group. Dial **\*\*** to pickup a call ringing on a different handset.
 ::: tip 
 Note: This only works when in the same '**_pickup group_**'.
 ::: 
 
-#### Direct Extension Intercept:
+#### Direct Intercept
 * Used to pickup a ringing call on any extension on the PBX. Dial **\*\*** followed by the extension number you wish to pickup.
 ::: tip
 EG: **\*\*** 101
 :::
 
+## Voicemail
+
+#### Accessing Personal Voicemail
+
+* Dial **_777_** to access your Voicemail. Enter your **_PIN_** when prompted.
+
+#### Accessing Another Users Voicemail
+
+* Dial **_778_** to access another users Voicemail. Enter the **_Extension Number_** followed by the **_PIN_** when prompted.
+
+#### Directly Dial Another Users Voicemail
+
+* Dial **_6_** followed by the **_Extension Number_** of the user.
+
 
 ## Vertical Service Codes
 
-#### Initial PBX Activation:
+#### Enable Click-to-Dial
 
-* Dial **54321** to activate your PBX and commence billing.
+* Dial **_12345_** to enable Click-to-Dial.
 
 #### **Delayed Echo Test:**
 
