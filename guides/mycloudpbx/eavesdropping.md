@@ -19,7 +19,7 @@ Once inside the add-ons screen, enable the 'eavesdropping‘ option.
 
 Scroll to the bottom of the page, and click '**Save**‘.
 
-::: tip\
+::: tip
 After enabling eavesdropping, all extensions will now have the ability to enable eavesdropping & eavesdropping privacy.
 :::
 
