@@ -9,13 +9,13 @@ date: 2019-07-05T03:55:10.651Z
 #### Group Intercept
 
 * Used to pickup a ringing call from within a Pickup Group. Dial **\*\*** to pickup a call ringing on a different handset.
-::: TIP 
+::: tip 
 Note: This only works when in the same '**_pickup group_**'.
 ::: 
 
 #### Direct Intercept
 * Used to pickup a ringing call on any extension on the PBX. Dial **\*\*** followed by the extension number you wish to pickup.
-::: TIP
+::: tip
 EG: **\*\*** 101
 :::
 
