@@ -10,6 +10,15 @@ Outbound caller ID control provides the ability to dynamically select your outbo
 
 9 dynamic outbound caller ID numbers can be made available using this feature.
 
+#### Usage:
+
+Dial the prefix, followed by the number you wish to dial.
+::: tip
+**Example:** If the prefix is 1 and the number you wish to dial is 0731051xxx.
+
+**Dial:** 1 0731051xxx.
+:::
+
 ## Enable Outbound Caller ID Control
 
 From within the myCloudPBX portal, hover over '_**add-ons**_' and click '_**configure add-ons**_’.
