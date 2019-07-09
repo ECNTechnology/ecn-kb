@@ -2,7 +2,7 @@
 title: Network Requirements
 date: 2019-07-09T09:45:17.071Z
 ---
-# myCloudPBX Hosted Voice Requirements
+# myCloudPBX Hosted Voice Network Requirements
 
 The following document outlines the requirements of the myCloudPBX Hosted Voice platform. 
 
@@ -11,8 +11,9 @@ It is highly recommended that your network environment meets or exceeds the belo
 Unexpected issues may arise if your network environment is not compatible with the below requirements. 
 
 # Customer Environment Requirements
+ 
 
-<table style="height: 600px; width: 796px; border-color: black; float: left;" border="black">
+<table style="height: 700px; width: 796px; border-color: black; float: left;" border="black">
 <tbody>
 <tr>
 <td style="width: 150px; text-align: left;"><strong>Customer Environment Requirements</strong></td>
