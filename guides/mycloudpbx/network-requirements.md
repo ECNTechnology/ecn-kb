@@ -12,7 +12,7 @@ Unexpected issues may arise if your network environment is not compatible with t
 
 # Customer Environment Requirements
  
-<table class="editorDemoTable" style="vertical-align: top;" border="black">
+<table class="editorDemoTable" style="vertical-align: top; border-style: none;" border="black">
 <thead>
 <tr>
 <td style="background-color: rgba(29, 119, 209, 0.1); width: 140px; text-align: center;">Customer Environment Requirements</td>
