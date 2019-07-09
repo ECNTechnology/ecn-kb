@@ -16,12 +16,12 @@ Unexpected issues may arise if your network environment is not compatible with t
 <table style="height: 700px; width: 796px; border-color: black; float: left;" border="black">
 <tbody>
 <tr>
-<td style="width: 150px; text-align: left;"><strong>Customer Environment Requirements</strong></td>
-<td style="width: 468px; text-align: left;"><strong>&nbsp; &nbsp; &nbsp;Description</strong></td>
+<td style="width: 150px; text-align: center;"><strong>Customer Environment Requirements</strong></td>
+<td style="width: 468px; text-align: center;"><strong>&nbsp; &nbsp; &nbsp;Description</strong></td>
 </tr>
 <tr>
 <td style="width: 114px;"><strong>IP Routing</strong></td>
-<td style="width: 468px; text-align: left;">
+<td style="width: 468px;">
 <div class="page" title="Page 1">
 <div class="section">
 <div class="layoutArea">
@@ -38,7 +38,7 @@ Unexpected issues may arise if your network environment is not compatible with t
 </tr>
 <tr>
 <td style="width: 114px;"><strong>LAN Environment</strong></td>
-<td style="width: 468px; text-align: left;">
+<td style="width: 468px;">
 <div class="page" title="Page 1">
 <div class="section">
 <div class="layoutArea">
