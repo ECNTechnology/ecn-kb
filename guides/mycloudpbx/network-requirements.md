@@ -13,7 +13,7 @@ Unexpected issues may arise if your network environment is not compatible with t
 # Customer Environment Requirements
  
 
-<table style="height: 700px; width: 796px; border-color: black; float: left;" border="black">
+<table style="height: 800px; width: 796px; border-color: black;" border="black">
 <tbody>
 <tr>
 <td style="width: 150px; text-align: center;"><strong>Customer Environment Requirements</strong></td>
