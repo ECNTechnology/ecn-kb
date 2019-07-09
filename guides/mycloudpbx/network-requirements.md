@@ -55,7 +55,8 @@ LAN switches that are able to cope with a high count of Packets Per Second (50 t
 
 The following firewall configurations are required for myCloudPBX Hosted Voice phones to successfully register to the myCloudPBX Hosted Voice registration servers and successfully receive/initiate inbound and outbound calls:
 
-<table border="1" style="height: 185px; width: 100%; border-collapse: collapse; border-style: none;">
+
+<table border="1" style="height: 190px; width: 100%; border-collapse: collapse; border-style: none;">
 <tbody>
 <tr style="height: 21px;">
 <td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;"><strong>Firewall Ports</strong></td>
@@ -77,3 +78,35 @@ The following firewall configurations are required for myCloudPBX Hosted Voice p
 </tr>
 </tbody>
 </table>
+
+# Auto Provisioning
+
+Phones on the myClouedPBX Hosted Voice platform can be enabled for auto-provisioning. 
+
+The following DHCP options will be required for auto-provisioning to work correctly:
+
+
+<table border="1" style="height: 190px; width: 100%; border-collapse: collapse; border-style: none;">
+<tbody>
+<tr style="height: 21px;">
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;"><b>DHCP Option</b></td>
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;"><b>Value</b></td>
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;"><b>Support Phones</b></td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 25%; height: 21px;">66</td>
+<td style="width: 25%; height: 21px;"><span style="font-weight: 400;">ps.mycloudpbx.com.au</span></td>
+<td style="width: 25%; height: 21px;">Cisco, Linksys &amp; Yealink</td>
+</tr>
+<tr style="height: 21px;">
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;">
+<p>160</p>
+</td>
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;"><span style="font-weight: 400;">ps.mycloudpbx.com.au</span></td>
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;">Polycom</td>
+</tr>
+</tbody>
+</table>
+<p><br /><br /></p>
+<p></p>
+<p></p>
