@@ -15,8 +15,8 @@ Unexpected issues may arise if your network environment is not compatible with t
 <table class="editorDemoTable" style="vertical-align: top;" border="black">
 <thead>
 <tr>
-<td style="width: 140px; text-align: center;">Customer Environment Requirements</td>
-<td style="width: 514px; text-align: center;">Description</td>
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 140px; text-align: center;">Customer Environment Requirements</td>
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 514px; text-align: center;">Description</td>
 </tr>
 </thead>
 <tbody>
@@ -29,7 +29,7 @@ Unexpected issues may arise if your network environment is not compatible with t
 </td>
 </tr>
 <tr>
-<td style="background-color: rgba(29, 119, 209, 0.1); “"width: 140px;"><b>LAN Environment</b></td>
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 140px;"><b>LAN Environment</b></td>
 <td style="background-color: rgba(29, 119, 209, 0.1); width: 514px;">
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">Cabling (</span><b>Category 5e</b><span style="font-weight: 400;"> cable or better between compatible PoE network switch and handset).</span></p>
