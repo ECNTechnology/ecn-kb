@@ -33,7 +33,19 @@ Unexpected issues may arise if your network environment is not compatible with t
 <td style="background-color: rgba(29, 119, 209, 0.1); width: 600px;">
 <p>&nbsp;</p>
 <p><span style="font-weight: 400;">Cabling (</span><b>Category 5e</b><span style="font-weight: 400;"> cable or better between compatible PoE network switch and handset).</span></p>
-<p><span><br />Connectivity to a switch (with uplink for Internet access) via a RJ-45 port using </span><b>Category 5e </b><span>or better cabling.</span></p>
+<p><span><br />Connectivity to a switch (with uplink for Internet access) via a RJ-45 port using </span><b>Category 5e </b><span>or better cabling.</span></p>Power over Ethernet (PoE) allowing for a draw of 2.4 – 10.5 W per phone OR; individual power pack and general power outlet (GPO) per phone.
+
+
+
+DHCP server with available IP addresses in a subnet with Internet connectivity.
+
+DHCP Server providing option 66 and option 160 if auto-provisioning is to be used.
+
+A single VLAN for both data and phones OR; a voice VLAN and data VLAN both with Internet connectivity.
+
+IP connectivity between PC’s and phones.
+
+LAN switches that are able to cope with a high count of Packets Per Second (50 to 100 packets per call per user). 
 </td>
 </tr>
 </tbody>
