@@ -13,58 +13,39 @@ Unexpected issues may arise if your network environment is not compatible with t
 # Customer Environment Requirements
  
 
-<table style="height: 800px; width: 796px; border-color: black;" border="black">
+<table>
 <tbody>
 <tr>
-<td style="width: 150px; text-align: center;"><strong>Customer Environment Requirements</strong></td>
-<td style="width: 468px; text-align: center;"><strong>&nbsp; &nbsp; &nbsp;Description</strong></td>
-</tr>
-<tr>
-<td style="width: 114px;"><strong>IP Routing</strong></td>
-<td style="width: 468px;">
-<div class="page" title="Page 1">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>Connection​ ​to​ ​an​ ​ADSL2​ ​(or​ ​better,​ ​Ethernet​ ​recommended) Internet​ ​connection.</p>
-<p>Full​ ​IP​ ​connectivity​ ​to​ ​ECN​ ​Hosted​ ​Voice​ ​registration​ ​servers​ ​on the​ ​following​ ​range​ ​&ndash;​ ​203.201.155.0​ ​/24</p>
-<p>Full​ ​IP​ ​connectivity​ ​to​ ​ECN​ ​Hosted​ ​Voice​ ​provisioning​ ​servers​ ​on the​ ​following​ ​range​ ​&ndash;​ ​203.22.70.0​ ​/24</p>
-<p>A​ ​static​ ​public​ ​IP​ ​address​ ​that​ ​has​ ​been​ ​added​ ​to​ ​the​ ​Firewall Rules​ ​management​ ​section​ ​in​ ​the​ ​MyECN​ ​portal.​ ​This​ ​is​ ​the public​ ​IP​ ​address​ ​used​ ​by​ ​ECN​ ​Hosted​ ​Voice​ ​phones.</p>
-</div>
-</div>
-</div>
-</div>
-</td>
-</tr>
-<tr>
-<td style="width: 114px;"><strong>LAN Environment</strong></td>
-<td style="width: 468px;">
-<div class="page" title="Page 1">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>Cabling​ ​(Category​ ​5​ ​cable​ ​or​ ​better​ ​between​ ​compatible​ ​network switch​ ​and​ ​handset).</p>
-<p>Connectivity​ ​to​ ​a​ ​switch​ ​(with​ ​uplink​ ​for​ ​Internet​ ​access)​ ​via​ ​a RJ-45​ ​port​ ​using​ ​Category​ ​5​ ​or​ ​better​ ​cabling.</p>
-<p>Power​ ​over​ ​Ethernet​ ​(PoE)​ ​allowing​ ​for​ ​a​ ​draw​ ​of​ ​2.4​ ​&ndash;​ ​10.5​ ​W per​ ​phone​ ​OR;​ ​individual​ ​power​ ​pack​ ​and​ ​general​ ​power​ ​outlet (GPO)​ ​per​ ​phone.</p>
-<p>DHCP​ ​server​ ​with​ ​available​ ​IP​ ​addresses​ ​in​ ​a​ ​subnet​ ​with Internet​ ​connectivity.</p>
-<p>DHCP​ ​Server​ ​providing​ ​option​ ​66​ ​and​ ​option​ ​160​ ​if auto-provisioning​ ​is​ ​to​ ​be​ ​used.</p>
-<div class="page" title="Page 2">
-<div class="section">
-<div class="layoutArea">
-<div class="column">
-<p>A​ ​single​ ​VLAN​ ​for​ ​both​ ​data​ ​and​ ​phones​ ​OR;​ ​a​ ​voice​ ​VLAN​ ​and data​ ​VLAN​ ​both​ ​with​ ​Internet​ ​connectivity.</p>
-<p>IP​ ​connectivity​ ​between​ ​PC&rsquo;s​ ​and​ ​phones.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+<td>
+<p><b>Customer Environment Requirements</b></p>
 </td>
 </tr>
 </tbody>
 </table>
-
+<table class="editorDemoTable" style="vertical-align: top;">
+<thead>
+<tr>
+<td style="width: 140px; text-align: center;">Customer Environment Requirements</td>
+<td style="width: 514px; text-align: center;">Description</td>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="min-width: 140px; width: 140px;"><span style="font-weight: 400;">IP Routing and hardware</span></td>
+<td style="width: 514px;">
+<p><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">Connection to an NBN 25M speed tier or </span><b>better </b><span style="font-weight: 400;">(Ethernet or Fibre highly recommended) Internet connection.</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Available bandwidth of 100 Kbps </span><b>per concurrent call </b><span style="font-weight: 400;">(both download and upload). </span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">A Netcomm NL1901ACV or Netcomm NF18ACV or </span><b>better </b><span style="font-weight: 400;">for </span><b>4</b><span style="font-weight: 400;"> or </span><b>fewer </b><span style="font-weight: 400;">concurrent users. </span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Business/Enterprise class gateway/firewall (example: Cisco 800 or greater/Cisco Meraki/Cyberoam/etc</span><span style="font-weight: 400;">)</span><span style="font-weight: 400;"> or </span><b>better </b><span style="font-weight: 400;">for </span><b>5</b><span style="font-weight: 400;"> or </span><b>more </b><span style="font-weight: 400;">concurrent users.</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">SIP ALG protocol </span><b>must </b><span style="font-weight: 400;">be </span><b>disabled.</b><b><br /></b><b><br /></b><b>QoS enabled</b><span style="font-weight: 400;"> to provide high priority to Hosted Voice traffic to/from the ECN Hosted Voice server ranges on the following IP subnets: 203.201.155.0/24, 203.22.70.0/24, 27.127.227.0/24, 27.127.233.0/24 (any packet inspection should also be disabled)</span><span style="font-weight: 400;"><br /><b><br />Full IP connectivity</b><span> to ECN Hosted Voice registration servers on the following ranges &ndash; 203.201.155.0 /24, 27.127.227.0/24, 27.127.233.0/24 (any packet inspection should also be disabled).<br /><br /></span></span></p>
+<b>Full IP connectivity</b><span style="font-weight: 400;"><span style="font-weight: 400;"> to ECN Hosted Voice provisioning servers on the following range &ndash; 203.22.70.0 /24 (any packet inspection should also be disabled).<br /><br /></span></span>
+<p><span style="font-weight: 400;">A static public IP address that has been added to the Firewall Rules management section in the MyECN portal. This is the public IP address used by ECN Hosted Voice phones.</span></p>
+</td>
+</tr>
+<tr>
+<td style="width: 140px;"><b>LAN Environment</b></td>
+<td style="background-color: rgba(0, 0, 0, 0.1); width: 514px;">
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Cabling (</span><b>Category 5e</b><span style="font-weight: 400;"> cable or better between compatible PoE network switch and handset).</span></p>
+<p><span><br />Connectivity to a switch (with uplink for Internet access) via a RJ-45 port using </span><b>Category 5e </b><span>or better cabling.</span></p>
+</td>
+</tr>
+</tbody>
+</table>
 # Firewall Rules
