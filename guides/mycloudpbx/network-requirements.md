@@ -110,3 +110,32 @@ The following DHCP options will be required for auto-provisioning to work correc
 <p><br /><br /></p>
 <p></p>
 <p></p>
+
+Additionally, for the phones to successfully download their configuration files, it is required that the following protocols be enabled for inbound and outbound communication:
+
+<table border="1" style="height: 190px; width: 100%; border-collapse: collapse; border-style: none;">
+<tbody>
+<tr style="height: 21px;">
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;"><b>Protocol</b></td>
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;"><b>Support Phones</b></td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 25%; height: 21px;">TFTP</td>
+<td style="width: 25%; height: 21px;">Cisco, Linksys &amp; Yealink</td>
+</tr>
+<tr style="height: 21px;">
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;">
+<p>HTTP</p>
+</td>
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;">Cisco, Linksys &amp; Yealink</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 25%; height: 21px;">
+<p>FTP</p>
+</td>
+<td style="width: 25%; height: 21px;">Polycom</td>
+</tr>
+</tbody>
+</table>
+<p><br /><br /></p>
+<p></p>
