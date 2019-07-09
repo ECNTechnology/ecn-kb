@@ -4,7 +4,7 @@ date: 2019-07-09T09:45:17.071Z
 ---
 # myCloudPBX Network Requirements
 
-The following document outlines the requirements of the ECN Hosted Voice platform. 
+The following document outlines the requirements of the myCloudPBX Hosted Voice platform. 
 
 It is highly recommended that your network environment meets or exceeds the below requirements in all areas listed. 
 
@@ -12,15 +12,15 @@ Unexpected issues may arise if your network environment is not compatible with t
 
 # Customer Environment Requirements
 
-<table style="height: 165px; width: 998px; border-color: black; margin-left: auto; margin-right: auto;" border="black">
+<table style="height: 165px; width: 796px; border-color: black; margin-left: auto; margin-right: auto;" border="black">
 <tbody>
 <tr>
-<td style="width: 107px;"><strong>Customer Environment Requirements</strong></td>
-<td style="width: 475px;"><strong>Description</strong></td>
+<td style="width: 114px;"><strong>Customer Environment Requirements</strong></td>
+<td style="width: 468px;"><strong>Description</strong></td>
 </tr>
 <tr>
-<td style="width: 107px;"><strong>IP Routing</strong></td>
-<td style="width: 475px;">
+<td style="width: 114px;"><strong>IP Routing</strong></td>
+<td style="width: 468px;">
 <div class="page" title="Page 1">
 <div class="section">
 <div class="layoutArea">
@@ -36,8 +36,8 @@ Unexpected issues may arise if your network environment is not compatible with t
 </td>
 </tr>
 <tr>
-<td style="width: 107px;"><strong>LAN Environment</strong></td>
-<td style="width: 475px;">
+<td style="width: 114px;"><strong>LAN Environment</strong></td>
+<td style="width: 468px;">
 <div class="page" title="Page 1">
 <div class="section">
 <div class="layoutArea">
