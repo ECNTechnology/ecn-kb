@@ -55,8 +55,7 @@ LAN switches that are able to cope with a high count of Packets Per Second (50 t
 
 The following firewall configurations are required for myCloudPBX Hosted Voice phones to successfully register to the myCloudPBX Hosted Voice registration servers and successfully receive/initiate inbound and outbound calls:
 
-
-<table border="1" style="height: 190px; width: 100%; border-collapse: collapse; border-style: none;">
+<table border="1" style="height: 185px; width: 100%; border-collapse: collapse; border-style: none;">
 <tbody>
 <tr style="height: 21px;">
 <td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;"><strong>Firewall Ports</strong></td>
