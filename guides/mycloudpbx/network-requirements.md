@@ -107,12 +107,12 @@ The following DHCP options will be required for auto-provisioning to work correc
 </tr>
 </tbody>
 </table>
-<p><br /><br /></p>
+<p><br /></p>
 <p></p>
 <p></p>
 
 Additionally, for the phones to successfully download their configuration files, it is required that the following protocols be enabled for inbound and outbound communication:
-
+</br> </br>
 <table border="1" style="height: 220px; width: 100%; border-collapse: collapse; border-style: none;">
 <tbody>
 <tr style="height: 21px;">
