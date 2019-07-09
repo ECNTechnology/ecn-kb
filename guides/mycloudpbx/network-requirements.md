@@ -49,4 +49,52 @@ LAN switches that are able to cope with a high count of Packets Per Second (50 t
 </tbody>
 </table>
 
+</br>
+
 # Firewall Rules
+
+The following firewall configurations are required for myCloudPBX Hosted Voice phones to successfully register to the myCloudPBX Hosted Voice registration servers and successfully receive/initiate inbound and outbound calls:
+
+<table border="1" style="height: 105px; width: 100%; border-collapse: collapse; border-style: none;">
+
+<tbody>
+
+<tr style="height: 21px;">
+
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;"><strong>Firewall Ports</strong></td>
+
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;"><strong>Network Protocol</strong></td>
+
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;"><strong>Application Protocol</strong></td>
+
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;"><strong>Description</strong></td>
+
+</tr>
+
+<tr style="height: 21px;">
+
+<td style="width: 25%; height: 21px;">5060</td>
+
+<td style="width: 25%; height: 21px;">UDP &amp; TCP</td>
+
+<td style="width: 25%; height: 21px;">SIP UAS</td>
+
+<td style="width: 25%; height: 21px;">Used for SIP signalling (Standard SIP Port, for default Internal Profile)</td>
+
+</tr>
+
+<tr style="height: 21px;">
+
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;">16384 - 32768</td>
+
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;">UDP</td>
+
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;">RTP / RTCP multimedia streaming</td>
+
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;">Used for audio/video data in SIP and other protocols.</td>
+
+</tr>
+
+</tbody>
+
+</table>
