@@ -65,3 +65,5 @@ Unexpected issues may arise if your network environment is not compatible with t
 </tr>
 </tbody>
 </table>
+
+# Firewall Rules
