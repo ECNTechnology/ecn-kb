@@ -113,7 +113,7 @@ The following DHCP options will be required for auto-provisioning to work correc
 
 Additionally, for the phones to successfully download their configuration files, it is required that the following protocols be enabled for inbound and outbound communication:
 </br> </br>
-<table border="black”" style="height: 220px; width: 100%; border-collapse: collapse; border-style: none;">
+<table border="1”; style="height: 220px; width: 100%; border-collapse: collapse; border-style: none;">
 <tbody>
 <tr style="height: 21px;">
 <td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;"><b>Protocol</b></td>
