@@ -2,7 +2,7 @@
 title: Network Requirements
 date: 2019-07-09T09:45:17.071Z
 ---
-# myCloudPBX Network Requirements
+# myCloudPBX Hosted Voice Network Requirements
 
 The following document outlines the requirements of the myCloudPBX Hosted Voice platform. 
 
