@@ -10,7 +10,7 @@ It is highly recommended that your network environment meets or exceeds the belo
 
 Unexpected issues may arise if your network environment is not compatible with the below requirements. 
 
-## Customer Environment Requirements
+# Customer Environment Requirements
 
 <table class="editorDemoTable" style="vertical-align: top; border-style: none;" border="black">
 <thead>
@@ -51,7 +51,7 @@ LAN switches that are able to cope with a high count of Packets Per Second (50 t
 
 </br>
 
-## Firewall Rules
+# Firewall Rules
 
 The following firewall configurations are required for myCloudPBX Hosted Voice phones to successfully register to the myCloudPBX Hosted Voice registration servers and successfully receive/initiate inbound and outbound calls:
 
@@ -79,7 +79,7 @@ The following firewall configurations are required for myCloudPBX Hosted Voice p
 </tbody>
 </table>
 
-## Auto Provisioning
+# Auto Provisioning
 
 Phones on the myClouedPBX Hosted Voice platform can be enabled for auto-provisioning. 
 
@@ -109,4 +109,33 @@ The following DHCP options will be required for auto-provisioning to work correc
 </table>
 <p><br /><br /></p>
 <p></p>
+<p></p>
+
+Additionally, for the phones to successfully download their configuration files, it is required that the following protocols be enabled for inbound and outbound communication:
+
+<table border="1" style="height: 220px; width: 100%; border-collapse: collapse; border-style: none;">
+<tbody>
+<tr style="height: 21px;">
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;"><b>Protocol</b></td>
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;"><b>Support Phones</b></td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 25%; height: 21px;">TFTP</td>
+<td style="width: 25%; height: 21px;">Cisco, Linksys &amp; Yealink</td>
+</tr>
+<tr style="height: 21px;">
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;">
+<p>HTTP</p>
+</td>
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;">Cisco, Linksys &amp; Yealink</td>
+</tr>
+<tr style="height: 21px;">
+<td style="width: 25%; height: 21px;">
+<p>FTP</p>
+</td>
+<td style="width: 25%; height: 21px;">Polycom</td>
+</tr>
+</tbody>
+</table>
+<p><br /><br /></p>
 <p></p>
