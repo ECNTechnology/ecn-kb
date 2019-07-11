@@ -19,13 +19,13 @@ Select the Music On Hold stream you wish to modify.
 On this page you can see the current files in the stream, and can use the '**Download**' button to download a copy.
 
 ::: warning
-Warning: Clicking **'Delete**' is permenant and non reversable, so always download a copy first!
+**Warning!:** Clicking **'Delete**' is permenant and non reversable, so always download a copy first!
 :::
 
 ![](/images/moh4.png)
 
 ::: tip
-MycloudPBX requires the sound file to be in .wav format.
+**TIP:** MycloudPBX requires the sound file to be in .wav format.
 :::
 
 To add a new file to the stream, click '**Select**'.
