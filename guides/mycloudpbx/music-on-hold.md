@@ -24,6 +24,10 @@ Warning: Clicking **'Delete**' is permenant and non reversable, so always downlo
 
 ![](/images/moh4.png)
 
+::: tip
+MycloudPBX requires the sound file to be in .wav format.
+:::
+
 To add a new file to the stream, click '**Select**'.
 
 When you are ready to upload the file, click '**upload**'.
