@@ -12,7 +12,7 @@ The Call Result Webhook sends the results of each call to a URL of your choosing
 **Note:** You will need to have full administrative permissions to enable this feature.
 :::
 
-### **Configuration**
+### Enable Webhook Globally
 
 ![](/images/clouddial-customagent-1.png)
 
