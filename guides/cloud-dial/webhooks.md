@@ -39,7 +39,23 @@ POST https://yourwebhookurl/
 Content-type: application/x-www-form-urlencoded
 authorization:base64(username/password)
 
+{
 
+ "LogDateTime": "2019-06-19T16:11:07",
+
+ "CallStart":"2019-06-20 01:01:00",
+
+  "CallEnd":"2019-06-20 01:03:00",
+
+ "PhoneCalled": "0731051xxx",
+
+ "Reference": "123",
+
+ "WrapUpByName": "agent@pinetree.net.au",
+
+ "WrapUpReasonName": "Payment Taken"
+
+}
 ~~~~
 
 
