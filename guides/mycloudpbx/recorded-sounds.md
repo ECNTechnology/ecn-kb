@@ -6,6 +6,8 @@ date: 2019-07-12T01:44:42.193Z
 
 The recorded sounds page is where you will create and upload your sound files that will be used elsewhere in your PBX configuration.
 
+Once you have created and uploaded your recording, you will be able to select this for use on other pages with the PBX configuration.
+
 ## Recordings Page
 
 ![](/images/recorded_sounds.png)
