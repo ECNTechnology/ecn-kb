@@ -52,9 +52,7 @@ The webhook will send the following data:
 * **webhook.ResultNotes:** The agents notes.
 * **webhook.WrapUpByName:** The Agents who took the call.
 * **webhook.WrapUpReasonName:** The wrapup reason. 
-
-
-             
+           
 
 ### Creating a Webhook-Enabled Campaign
 
