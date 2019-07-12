@@ -8,13 +8,11 @@ date: 2019-07-12T04:48:53.407Z
 
 The Call Result Webhook sends the results of each call to a URL of your choosing.
 
-
-
-### Enable Webhook Globally
-
 ::: tip
 **Note:** You will need to have full administrative permissions to enable this feature.
 :::
+
+### Enable Webhook Globally
 
 ![](/images/clouddial-customagent-1.png)
 
@@ -32,31 +30,37 @@ Click '**Enable Web Hook**' to enable the feature and enter the following inform
 * **Password:** The Password we will send with the webhook POST.
 
 ::: tip
-CloudDial will send the username & password in the POST to your server.
+CloudDial will send a base64 encoded version of the {username/password}.
 :::
+ 
+**Sample Code**	
+~~~~
+ 
+sample code goes here.. 
+	
+~~~~
+
 
 Click '**Save**' when finished.
 
 Now that the webhook has been enabled, you can enable the feature on your campaigns.
 
-### Server Preperation
+### Your Application Preparation
 
-You will need to ensure that your webserver is ready to receive the WebHook.
+You will need to ensure that your application is ready to receive the WebHook.
 
 The webhook will send the following data:
 
-* **webhook.CampaignName:** Name of the campaign.
+* **CampaignName:** Name of the campaign.
 
-* **webhook.LogDateTime:** Timestamp of the call. 
-* **webhook.PhoneCalled:** Number called. 
-* **webhook.Reference:** Your reference number.
-* **webhook.Result:** Call result.
-* **webhook.ResultNotes:** The agents notes.
-* **webhook.WrapUpByName:** The Agents who took the call.
-* **webhook.WrapUpReasonName:** The wrapup reason. 
-
-
-             
+* **LogDateTime:** Timestamp of the call. 
+* **PhoneCalled:** Number called. 
+* **Reference:** Your reference number.
+* **Result:** Call result.
+* **ResultNotes:** The agents notes.
+* **WrapUpByName:** The Agents who took the call.
+* **WrapUpReasonName:** The wrapup reason. 
+           
 
 ### Creating a Webhook-Enabled Campaign
 
