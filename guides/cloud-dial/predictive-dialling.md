@@ -44,5 +44,5 @@ If you need to disable predictive dialling mid campaign, you can do this from th
 
 Click '**Actions**' on the campaign, and click '**Edit**'.
 
-Untick '*8Enable Predictive Dialling**' and press '**Next**' until you get to the end.
+Untick '**Enable Predictive Dialling**' and press '**Next**' until you get to the end.
 
