@@ -2,7 +2,7 @@
 title: Predictive Dialling
 date: 2019-07-12T03:09:06.942Z
 ---
-# Predictive Dialing
+# Predictive Dialling
 
 Predictive dialing automatically adjusts the '**Power Factor**' based on your preferences.
 
