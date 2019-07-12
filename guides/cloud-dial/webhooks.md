@@ -37,6 +37,25 @@ Click '**Save**' when finished.
 
 Now that the webhook has been enabled, you can enable the feature on your campaigns.
 
+### Server Preperation
+
+You will need to ensure that your webserver is ready to receive the WebHook.
+
+The webhook will send the following data:
+
+* **webhook.CampaignName:** Name of the campaign.
+* **webhook.LogDateTime:** Timestamp of the call. 
+* **webhook.PhoneCalled:** Number called. 
+* **webhook.Reference:** Your reference number.
+* **webhook.Result:** Call result.
+* **webhook.ResultNotes:** The agents notes.
+* **webhook.WrapUpByName:** The Agents who took the call.
+* **webhook.WrapUpReasonName:** The wrapup reason. 
+
+
+
+              
+
 ### Creating a Webhook-Enabled Campaign
 
 ![](/images/callresultwebhook2.png)
