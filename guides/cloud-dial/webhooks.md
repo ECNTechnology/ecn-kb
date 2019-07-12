@@ -44,6 +44,7 @@ You will need to ensure that your webserver is ready to receive the WebHook.
 The webhook will send the following data:
 
 * **webhook.CampaignName:** Name of the campaign.
+
 * **webhook.LogDateTime:** Timestamp of the call. 
 * **webhook.PhoneCalled:** Number called. 
 * **webhook.Reference:** Your reference number.
@@ -53,8 +54,7 @@ The webhook will send the following data:
 * **webhook.WrapUpReasonName:** The wrapup reason. 
 
 
-
-              
+             
 
 ### Creating a Webhook-Enabled Campaign
 
