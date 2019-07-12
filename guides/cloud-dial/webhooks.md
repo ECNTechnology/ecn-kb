@@ -35,9 +35,11 @@ CloudDial will send a base64 encoded version of the {username/password}.
  
 **Sample Code**	
 ~~~~
- 
-sample code goes here.. 
-	
+POST https://yourwebhookurl/
+Content-type: application/x-www-form-urlencoded
+authorization:base64(username/password)
+
+
 ~~~~
 
 
