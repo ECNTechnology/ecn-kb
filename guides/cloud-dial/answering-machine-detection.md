@@ -12,6 +12,8 @@ When creating your campaign you will be given the option to enable AMD.
 Note that in order to activate AMD you will need to contact your administrator and purchase your AMD licenses.
 :::
 
+# Configure AMD
+
 <img style="width: 1100px; height: auto;" src="/images/amd1.png">
 
 When you Switch on AMD, you will have the following options.
@@ -25,3 +27,4 @@ When you Switch on AMD, you will have the following options.
 * **Select Voice Message:**
   - Choose from the list of previously uploaded sound files.
 
+Click '**Next**' to continue.
