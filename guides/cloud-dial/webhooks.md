@@ -20,7 +20,8 @@ From the '**Settings**' menu, click '**Preferences**'.
 
 From the preferences menu, click '**WebHook**'.
 
-![](/images/callresultwebhook1.png)
+<img style="width: auto; height: auto;" src="/images/callresultwebhook1.png">
+
 
 Click '**Enable Web Hook**' to enable the feature and enter the following information:
 
@@ -46,5 +47,6 @@ Once the CloudDial campaign is running you will see the following icon next to t
 
 <img style="width: 1100px; height: auto;" src="/images/callresultwebhookrunning.png">
 
+On the **'Campaign Management**' screen you will now be able to see the status of your new campaign.
 
 
