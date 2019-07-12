@@ -8,11 +8,13 @@ date: 2019-07-12T04:48:53.407Z
 
 The Call Result Webhook sends the results of each call to a URL of your choosing.
 
+
+
+### Enable Webhook Globally
+
 ::: tip
 **Note:** You will need to have full administrative permissions to enable this feature.
 :::
-
-### Enable Webhook Globally
 
 ![](/images/clouddial-customagent-1.png)
 
@@ -52,7 +54,9 @@ The webhook will send the following data:
 * **webhook.ResultNotes:** The agents notes.
 * **webhook.WrapUpByName:** The Agents who took the call.
 * **webhook.WrapUpReasonName:** The wrapup reason. 
-           
+
+
+             
 
 ### Creating a Webhook-Enabled Campaign
 
