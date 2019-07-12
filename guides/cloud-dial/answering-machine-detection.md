@@ -27,3 +27,4 @@ When you Switch on AMD, you will have the following options.
 * **Select Voice Message:**
   - Choose from the list of previously uploaded sound files.
 
+Click '**Next**' to continue.
