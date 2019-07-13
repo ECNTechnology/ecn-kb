@@ -67,7 +67,7 @@ Here you can choose between DHCP or a Static IP Address.
 
 * **Transport:** Choose between UDP or TCP for SIP Transport.
 
-### Save Changes
+## Save Changes
 
 When you have finished making changes you need to scroll to the bottom of the page and click '**Save & Close**'.
 
@@ -79,7 +79,7 @@ Finally, you will need to click '**_Apply Changes_**'.
 
 Once the changes have finished applying (The yellow bar will be gone) your changes are now live.
 
-### Apply Changes to the Handsets
+## Apply Changes to the Handsets
 
 Finally, in the event that you have made changes that affect the '**Line Keys**' on a handset, you will need to either **Restart** or **Resync** that handset.
 
