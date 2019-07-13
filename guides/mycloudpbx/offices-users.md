@@ -130,6 +130,49 @@ As you enable more of the myCloudPBX functionality you will find more security f
 
 By default, myCloudPBX users can make local, national, mobile, and 13/1300/1800 calls.
 
-You can optionally enable **Internation**, **InternationalOther** and **Premium** numbers.
+You can optionally enable **International**, **InternationalOther** and **Premium** numbers.
 
- 
+::: tip
+* **International:** Top 20 International destinations.
+* **International Other:** All other supported destinations.
+:::
+
+#### Allow Management Of
+
+* **Update settings via handset:** Allows the user to update settings via the handset.
+
+* **Toggle Day/Night mode via handset:** Allows the user to transition the state of the offices Day/Night conditions from open to closed.
+
+* **Update recordings via handset:** Allows the user to record system sounds from this handset.
+
+* **Enable In Call Shortcuts:** Allows the user to activate in call shortcuts.
+
+#### Other Features
+
+Tick '**Record calls from this extension**' to record all **outbound** calls made by this extension.
+
+If you wish to record inbound calls as well, you will need to enable call recordings on the inbound phone number in '**Call Routing**'. 
+
+[Click here for more information about Call Recordings](https://kb.ecn.net.au/guides/mycloudpbx/call-recordings.html).
+
+
+#### Eavesdropping
+
+Here you can enable both the ability to use the '**eavesdropping**' feature, and also '**eavesdropping privacy**'.
+
+[Click here for more information about Eavesdropping](https://kb.ecn.net.au/guides/mycloudpbx/eavesdropping.html).
+
+
+### Save Changes
+
+When you have finished making changes you need to scroll to the bottom of the page and click '**Save & Close**'.
+
+This will save the changes, however you will also need to apply these changes to put them into affect immediately.
+
+![](/images/pbx-apply-viewchanges.png)
+
+Finally, you will need to click '**_Apply Changes_**'.
+
+Once the changes have finished applying (The yellow bar will be gone) your changes are now live.
+
+
