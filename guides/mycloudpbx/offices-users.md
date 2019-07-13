@@ -15,7 +15,7 @@ From the myCloudPBX homepage, click '**Offices & Users**'. <img style="width: 50
 On this screen you can quickly see the relevant information about each '**office**':
 
 * **Default Phone:** This is the default outbound caller ID that each extension part of this office will use. (Unless otherwise specified).
-* **Hold Music:** This is the hold music that will be played in the even you place someone on hold. (**Note:** This is specific to **outbound** calls only.)
+* **Hold Music:** This is the hold music that will be played in the even you place someone on hold. (**Note:** This is specific to **outbound** calls only.) [Click here for more information about Music on Hold](https://kb.ecn.net.au/guides/mycloudpbx/music-on-hold.html).
 * **Default Area Code:** This is the default area code that will be used when an extension part of this office does not specify one when making a call.
 * **Timezone:** This affects the clock shown on the handsets.
 
@@ -79,5 +79,36 @@ Here you can set your '**Voicemail PIN**', or press <img style="width: 25px; hei
 
 You can also click '**Send messages to my mailbox**' and myCloudPBX will email you a copy of the voicemail recording (in .wav format).
 
-Optionally you can click '**Delete messages after emailing them**'. This will disable the red voicemail indicator light on your deskphone.
+Optionally you can click '**Delete messages after emailing them**'. This will disable the red voicemail indicator light on your handset.
+
+### Callback Feature
+
+This feature allows you to receive a callback from an internal extension when the user you are calling is busy.
+
+If you are already on a call and someone attempts to call you, myCloudPBX will greet them with the following options.
+
+* Leave a voicemail.
+* Register a callback.
+
+Should they choose to register a callback request, the next time both of your phones are available, they will both ring and you will be talking to each other.
+
+::: tip
+**Note:** This feature is only available for internal calls.
+:::
+
+### Smart Calling
+
+![](/images/edit_extension_smartcalling.png)
+
+Smart calling allows you to automatically forward calls to your mobile & your extension simultaneously.
+
+You can specify the timeout in increments of 5 seconds all the way to 60 seconds.
+
+You can also specify the '**Smart Call Type**':
+
+* **Sequential:** Will ring your handset, before ringing your mobile. (Both phones will not ring at the same time).
+
+* **Parallel:** Will ring both your handset & your mobile at the same time.
+
+* **Parallel Delayed:** Will ring your handset first, and then continue to ring on the handset and your mobile phone.
 
