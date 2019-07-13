@@ -133,18 +133,16 @@ By default, myCloudPBX users can make local, national, mobile, and 13/1300/1800 
 You can optionally enable **International**, **InternationalOther** and **Premium** numbers.
 
 ::: tip
+
 * **International:** Top 20 International destinations.
 * **International Other:** All other supported destinations.
-:::
+  :::
 
 #### Allow Management Of
 
 * **Update settings via handset:** Allows the user to update settings via the handset.
-
 * **Toggle Day/Night mode via handset:** Allows the user to transition the state of the offices Day/Night conditions from open to closed.
-
 * **Update recordings via handset:** Allows the user to record system sounds from this handset.
-
 * **Enable In Call Shortcuts:** Allows the user to activate in call shortcuts.
 
 #### Other Features
@@ -155,13 +153,11 @@ If you wish to record inbound calls as well, you will need to enable call record
 
 [Click here for more information about Call Recordings](https://kb.ecn.net.au/guides/mycloudpbx/call-recordings.html).
 
-
 #### Eavesdropping
 
 Here you can enable both the ability to use the '**eavesdropping**' feature, and also '**eavesdropping privacy**'.
 
 [Click here for more information about Eavesdropping](https://kb.ecn.net.au/guides/mycloudpbx/eavesdropping.html).
-
 
 ### Save Changes
 
@@ -171,8 +167,26 @@ This will save the changes, however you will also need to apply these changes to
 
 ![](/images/pbx-apply-viewchanges.png)
 
-Finally, you will need to click '**_Apply Changes_**'.
+Finally, you will need to click '_**Apply Changes**_'.
 
 Once the changes have finished applying (The yellow bar will be gone) your changes are now live.
 
+### Apply Changes to the Handsets
+
+Finally, in the event that you have made changes that affect the '**Line Keys**' on a handset, you will need to either **Restart** or **Resync** that handset.
+
+In order to resync the handset, you will need to go back to the myCloudPBX homepage.
+
+
+![](/images/resync_phone.png)
+
+On the homepage, you will see a list of Active Users shown below the two main rows of icons on the left hand side.
+
+Here you have three options:
+
+* **Click for Detailed View:** This will show you detailed information about the registration status of each extension including the WAN IP Address, SIP Transport, and PING time.
+
+* **Reboot:** This will remotely reboot each phone immediately.
+
+* **Resync:** This option is a bit smarter than reboot, as it will wait until the handset is not in use before rebooting and updating any configuration as needed.
 
