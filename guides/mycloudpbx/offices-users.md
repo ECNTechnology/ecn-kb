@@ -24,5 +24,4 @@ You can click the green <img style="width: 25px; height: auto;" src="/images/off
 To modify the Office, click the <img style="width: 25px; height: auto;" src="/images/offices_and_users_cog.png"> button.
 
 
-
-![]()
+<img style="width: auto; align="middle"; height: auto;" src="/images/offices_and_users3.png">
