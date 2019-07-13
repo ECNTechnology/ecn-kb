@@ -4,6 +4,10 @@ date: 2019-07-13T01:11:25.989Z
 ---
 # Office & Users
 
+::: tip
+As a new user it's highly recommended to read this document from top down.
+:::
+
 An office is a logical grouping of extensions. This group has it's own **areacode**, **timezone**, **outbound** **caller ID**, and [**music on hold**](https://kb.ecn.net.au/guides/mycloudpbx/music-on-hold.html).
 
 ## Create or Modify an Office
