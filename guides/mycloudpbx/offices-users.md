@@ -31,15 +31,13 @@ Select the office you wish to view / edit by clicking on the blue bar with the n
 
 Here you can see each extension that has been added, along with their extension number.
 
-To **Add** a new extension, click the green <img style="width: 25px; height: auto;" src="/images/offices_and_users_add.png"> button.
-
-To **Delete** an extesion, click the <img style="width: 25px; height: auto;" src="/images/offices_and_users_del.png"> button.
-
-To **Modify** an extension, click on the '**Extension Name**'.
+* To **Add** a new extension, click the green <img style="width: 25px; height: auto;" src="/images/offices_and_users_add.png"> button.
+* To **Delete** an extesion, click the <img style="width: 25px; height: auto;" src="/images/offices_and_users_del.png"> button.
+* To **Modify** an extension, click on the '**Extension Name**'.
 
 When configuring an extension there are a lot of options available, however the minimum settings needed are contained with the '**General**' section.
 
-#### General Settings
+### General Settings
 
 ![](/images/edit_extension_general.png)
 
@@ -61,4 +59,25 @@ Specify the '**Pickup Group**' you wish to place the extension in. (Place all yo
 
 Make sure that you leave '**This extension is behind a firewall**' remains enabled.
 
+### Autoprovision
+
+Allows myCloudPBX to automatically generates the handset configuration for your phones.
+
+::: tip
+More Information Coming Soon!
+:::
+
+### Enable Direct Dialling
+
+Enable '**Direct Dialling**' to configure a direct line for this extension.
+
+### Personal Voicemail
+
+![](/images/edit_extension_voicemail.png)
+
+Here you can set your '**Voicemail PIN**', or press <img style="width: 25px; height: auto;" src="/images/exit_extension_refresh.png"> button to reset.
+
+You can also click '**Send messages to my mailbox**' and myCloudPBX will email you a copy of the voicemail recording (in .wav format).
+
+Optionally you can click '**Delete messages after emailing them**'. This will disable the red voicemail indicator light on your deskphone.
 
