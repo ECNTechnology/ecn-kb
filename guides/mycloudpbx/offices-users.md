@@ -107,8 +107,29 @@ You can specify the timeout in increments of 5 seconds all the way to 60 seconds
 You can also specify the '**Smart Call Type**':
 
 * **Sequential:** Will ring your handset, before ringing your mobile. (Both phones will not ring at the same time).
-
 * **Parallel:** Will ring both your handset & your mobile at the same time.
-
 * **Parallel Delayed:** Will ring your handset first, and then continue to ring on the handset and your mobile phone.
 
+### Call Diversions
+
+![](/images/edit_extension_diversions.png)
+
+Call diversions are _similar_ to Smart Calling, but not the same.
+
+Call diversion will simply divert your extension to another number without the smarts.
+
+You can choose to either '**divert all calls**' or '**divert calls on no answer**'.
+
+### Security Features
+
+![](/images/exit_extension_security.png)
+
+As you enable more of the myCloudPBX functionality you will find more security features become available.
+
+#### Enabled Calls
+
+By default, myCloudPBX users can make local, national, mobile, and 13/1300/1800 calls.
+
+You can optionally enable **Internation**, **InternationalOther** and **Premium** numbers.
+
+ 
