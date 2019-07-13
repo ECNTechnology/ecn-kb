@@ -67,9 +67,7 @@ Make sure that you leave '**This extension is behind a firewall**' remains enabl
 
 Allows myCloudPBX to automatically generates the handset configuration for your phones.
 
-::: tip
-More Information Coming Soon!
-:::
+[Click here for more information about AutoProvisioning handsets.](https://kb.ecn.net.au/guides/mycloudpbx/autoprovisioning.html)
 
 ### Enable Direct Dialling
 
@@ -171,7 +169,7 @@ This will save the changes, however you will also need to apply these changes to
 
 ![](/images/pbx-apply-viewchanges.png)
 
-Finally, you will need to click '_**Apply Changes**_'.
+Finally, you will need to click '**_Apply Changes_**'.
 
 Once the changes have finished applying (The yellow bar will be gone) your changes are now live.
 
@@ -181,7 +179,6 @@ Finally, in the event that you have made changes that affect the '**Line Keys**'
 
 In order to resync the handset, you will need to go back to the myCloudPBX homepage.
 
-
 ![](/images/resync_phone.png)
 
 On the homepage, you will see a list of Active Users shown below the two main rows of icons on the left hand side.
@@ -189,8 +186,5 @@ On the homepage, you will see a list of Active Users shown below the two main ro
 Here you have three options:
 
 * **Click for Detailed View:** This will show you detailed information about the registration status of each extension including the WAN IP Address, SIP Transport, and PING time.
-
 * **Reboot:** This will remotely reboot each phone immediately.
-
 * **Resync:** This option is a bit smarter than reboot, as it will wait until the handset is not in use before rebooting and updating any configuration as needed.
-
