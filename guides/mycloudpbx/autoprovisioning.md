@@ -21,8 +21,11 @@ From within the **Extension Configuration Page**, scroll down until you reach th
 Enter the following information:
 
 * **Calls Per Line Keys:** This specifies the maximum number of calls, per line key that you wish to accept on your handset at any one time. (If unsure, leave this on the default: 2).
+
 * **Phone Type:** Select the _Make_ and _Model_ that matches your handset.
+
 * If you have an _Expansion Module_ enter that information as well.
+
 * Finally, add the **MAC Address** of the handset into the space specified.
 
 ### Editing Handset Keys
@@ -46,8 +49,6 @@ There are a variety of linekey types available:
 * **Day/Night Toggle:** This allows you to toggle your inbound number from Daytime to After Hours Mode. Will show as GREEN during the 'Day' and RED outside of office hours.
 
 Click '**Save**' when finished.
-
-
 
 ### Advanced Autoprovisioning
 
