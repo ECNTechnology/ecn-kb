@@ -12,7 +12,7 @@ Autoprovisioning will automatically generate the handset configuration for you.
 **Note:** This guide assumes you have already created an extension. If not, please follow [this guide](https://kb.ecn.net.au/guides/mycloudpbx/offices-users.html) first.
 :::
 
-### Basic Autoprovisioning
+## Basic Autoprovisioning
 
 From within the **Extension Configuration Page**, scroll down until you reach the '**AutoProvision**' section and enable it.
 
@@ -25,13 +25,15 @@ Enter the following information:
 * If you have an _Expansion Module_ enter that information as well.
 * Finally, add the **MAC Address** of the handset into the space specified.
 
-### Editing Handset Keys
+## Editing Handset Keys
 
 If you wish to customise any additional keys on your handset, click '**Configure Handset Keys**'.
 
 ![](/images/autoprovision_linekeys.png)
 
-To Add a new linekey, click the green <img style="width: 25px; height: auto;" src="/images/ogreen_plus_button.png"> button.
+To Add a new linekey, click the green <img style="width: 25px; height: auto;" src="/images/green_plus_button.png"> button.
+
+To Delete a linekey, click the red <img style="width: 25px; height: auto;" src="/images/linekey_delete.png"> button.
 
 There are a variety of linekey types available:
 
@@ -43,7 +45,7 @@ There are a variety of linekey types available:
 
 Click '**Save**' when finished.
 
-### Advanced Autoprovisioning
+## Advanced Autoprovisioning
 
 Enable '**Advanced Options**' to access the advanced settings.
 
@@ -52,19 +54,18 @@ Enable '**Advanced Options**' to access the advanced settings.
 Here you can choose between DHCP or a Static IP Address.
 
 ::: warning
+
 **Note:** Changes here may cause your phone to go offline when configured incorrectly.
+
 :::
 
-* **Call Waiting Tone:** Use this option to _enable_ or _disable_ the call waiting tone.
+* **Call Waiting Tone:** Use this option to enable or disable the call waiting tone.
 
 * **Starting Port:** Helpful with NAT issues. Using this option will configure the handset to use a different starting port on the local network.
 
-* **Codec:** Choose between **G711a** (Recommended), and G729a.
+* **Codec:** Choose between G711a (Recommended), and G729a.
 
 * **Transport:** Choose between UDP or TCP for SIP Transport.
-
-
-
 
 ### Save Changes
 
@@ -74,7 +75,7 @@ This will save the changes, however you will also need to apply these changes to
 
 ![](/images/pbx-apply-viewchanges.png)
 
-Finally, you will need to click '_**Apply Changes**_'.
+Finally, you will need to click '**_Apply Changes_**'.
 
 Once the changes have finished applying (The yellow bar will be gone) your changes are now live.
 
@@ -84,7 +85,6 @@ Finally, in the event that you have made changes that affect the '**Line Keys**'
 
 In order to resync the handset, you will need to go back to the myCloudPBX homepage.
 
-
 ![](/images/resync_phone.png)
 
 On the homepage, you will see a list of Active Users shown below the two main rows of icons on the left hand side.
@@ -92,7 +92,5 @@ On the homepage, you will see a list of Active Users shown below the two main ro
 Here you have three options:
 
 * **Click for Detailed View:** This will show you detailed information about the registration status of each extension including the WAN IP Address, SIP Transport, and PING time.
-
 * **Reboot:** This will remotely reboot each phone immediately.
-
 * **Resync:** This option is a bit smarter than reboot, as it will wait until the handset is not in use before rebooting and updating any configuration as needed.
