@@ -37,3 +37,28 @@ To **Delete** an extesion, click the <img style="width: 25px; height: auto;" src
 
 To **Modify** an extension, click on the '**Extension Name**'.
 
+When configuring an extension there are a lot of options available, however the minimum settings needed are contained with the '**General**' section.
+
+#### General Settings
+
+![](/images/edit_extension_general.png)
+
+Assign the extension a 3 **OR** 4 digit extension number and a '**Name**'.
+
+You can use the password provied, or press <img style="width: 25px; height: auto;" src="/images/exit_extension_refresh.png"> button.
+
+By default the '**Extension Ring Time**' is set to 40, however you can adjust this in increments of 5 seconds to a total of 60. 
+
+::: tip
+**Note:** The '**Extension Ring Time**' configured here is only relevant when the extension is dialled **directly** and not part of a group of other phones.
+:::
+
+Select the '**Office**' to assign this user to.
+
+Next you can either use the office default for your '**Outbound Phone Number**' or you can specify a different number.
+
+Specify the '**Pickup Group**' you wish to place the extension in. (Place all your users in the same pickup group so that you can retrieve a call ringing on another user's phone)
+
+Make sure that you leave '**This extension is behind a firewall**' remains enabled.
+
+
