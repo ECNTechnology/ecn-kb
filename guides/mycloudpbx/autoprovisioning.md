@@ -2,6 +2,8 @@
 title: AutoProvisioning
 date: 2019-07-13T06:04:05.443Z
 ---
+
+
 # AutoProvisioning Handsets
 
 myCloudPBX includes the ability to autoprovision handsets. No longer do you need to log into the web interface of each handset and manually update each phone as it can all be done via the myCloudPBX Management Portal.
@@ -32,6 +34,8 @@ If you wish to customise any additional keys on your handset, click '**Configure
 ![](/images/autoprovision_linekeys.png)
 
 To Add a new linekey, click the green <img style="width: 25px; height: auto;" src="/images/green_plus_button.png"> button.
+
+To Delete a linekey, click the red <img style="width: 25px; height: auto;" src="/images/linekey_delete.png"> button.
 
 There are a variety of linekey types available:
 
