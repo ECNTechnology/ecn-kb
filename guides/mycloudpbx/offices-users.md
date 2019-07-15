@@ -8,7 +8,7 @@ date: 2019-07-13T01:11:25.989Z
 As a new user it's highly recommended to read this document from top down.
 :::
 
-An office is a logical grouping of extensions. This group has it's own **areacode**, **timezone**, **outbound** **caller ID**, and [**music on hold**](https://kb.ecn.net.au/guides/mycloudpbx/music-on-hold.html).
+An office is a logical grouping of extensions. This group has it's own **areacode**, **timezone**, **outbound** **caller ID**, and [**music on hold**](https://kb.ecn.net.au/guides/mycloudpbx/music-on-hold.html). [**music on hold**](https://kb.ecn.net.au/guides/mycloudpbx/music-on-hold.html).
 
 ## Create or Modify an Office
 
@@ -67,9 +67,7 @@ Make sure that you leave '**This extension is behind a firewall**' remains enabl
 
 Allows myCloudPBX to automatically generates the handset configuration for your phones.
 
-::: tip
-More Information Coming Soon!
-:::
+[Click here for more information about AutoProvisioning handsets.](https://kb.ecn.net.au/guides/mycloudpbx/autoprovisioning.html)
 
 ### Enable Direct Dialling
 
@@ -181,7 +179,6 @@ Finally, in the event that you have made changes that affect the '**Line Keys**'
 
 In order to resync the handset, you will need to go back to the myCloudPBX homepage.
 
-
 ![](/images/resync_phone.png)
 
 On the homepage, you will see a list of Active Users shown below the two main rows of icons on the left hand side.
@@ -189,8 +186,5 @@ On the homepage, you will see a list of Active Users shown below the two main ro
 Here you have three options:
 
 * **Click for Detailed View:** This will show you detailed information about the registration status of each extension including the WAN IP Address, SIP Transport, and PING time.
-
 * **Reboot:** This will remotely reboot each phone immediately.
-
 * **Resync:** This option is a bit smarter than reboot, as it will wait until the handset is not in use before rebooting and updating any configuration as needed.
-
