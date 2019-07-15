@@ -25,12 +25,12 @@ From the preferences menu, click '**WebHook**'.
 
 Click '**Enable Web Hook**' to enable the feature and enter the following information:
 
-* **URL:** The URL of your server. (CloudDial will send the results to this address).
+* **URL:** The URL of your server. (Cloud Dial will send the results to this address).
 * **User Name:** The Username we will send with the webhook POST.
 * **Password:** The Password we will send with the webhook POST.
 
 ::: tip
-CloudDial will send a base64 encoded version of the {username/password}.
+Cloud Dial will send a base64 encoded version of the {username/password}.
 :::
  
 **Sample Code**	
@@ -78,7 +78,7 @@ The webhook will send the following data:
 
 When you create the campaign as per normal, you will now see the option to '**Enable WebHook**' on the 'Additional Settings' tab.
 
-Once the CloudDial campaign is running you will see the following icon next to the campaign. <img style="width: auto; height: auto;" src="/images/callresultwebhookicon.png">
+Once the Cloud Dial campaign is running you will see the following icon next to the campaign. <img style="width: auto; height: auto;" src="/images/callresultwebhookicon.png">
 
 <img style="width: 1100px; height: auto;" src="/images/callresultwebhookrunning.png">
 
