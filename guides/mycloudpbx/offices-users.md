@@ -8,7 +8,7 @@ date: 2019-07-13T01:11:25.989Z
 As a new user it's highly recommended to read this document from top down.
 :::
 
-An office is a logical grouping of extensions. This group has it's own **areacode**, **timezone**, **outbound** **caller ID**, and [**music on hold**](https://kb.ecn.net.au/guides/mycloudpbx/music-on-hold.html).
+An office is a logical grouping of extensions. This group has it's own **areacode**, **timezone**, **outbound** **caller ID**, and [**music on hold**](https://kb.ecn.net.au/guides/mycloudpbx/music-on-hold.html). [**music on hold**](https://kb.ecn.net.au/guides/mycloudpbx/music-on-hold.html).
 
 ## Create or Modify an Office
 
@@ -169,7 +169,7 @@ This will save the changes, however you will also need to apply these changes to
 
 ![](/images/pbx-apply-viewchanges.png)
 
-Finally, you will need to click '**_Apply Changes_**'.
+Finally, you will need to click '_**Apply Changes**_'.
 
 Once the changes have finished applying (The yellow bar will be gone) your changes are now live.
 
