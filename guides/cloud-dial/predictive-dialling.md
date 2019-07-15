@@ -24,7 +24,7 @@ Enter the following settings:
   Choose from;
   * Generous
   * Moderate
-  * Agressive
+  * Aggressive
 
 ## Enable on Campaign
 
