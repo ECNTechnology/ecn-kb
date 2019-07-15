@@ -26,6 +26,14 @@ Eavesdropping enables the ability to listen, or 'eavesdrop‘ on a call. This is
   EG: **\*\*** 101
   :::
 
+#### Adhoc Call Recording
+
+* Dial **#8** during a call to enable an adhoc recording. Dialling **#8** a second time will end the recording.
+
+::: tip
+**Note:** This will only start / stop the adhoc recording, if you have call recordings enabled globally, they will be unaffected by this.
+:::
+
 ## Voicemail
 
 #### Accessing Personal Voicemail
