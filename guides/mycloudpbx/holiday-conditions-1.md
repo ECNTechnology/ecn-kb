@@ -13,3 +13,13 @@ Simply configure the dates you will not be in the office (Christmas, New Years, 
 ::: tip
 **Note:** A Holiday Condition starts from 12.01AM to 11.59PM.
 :::
+
+## Create a Holiday Condition
+
+From the myCloudPBX homepage, click '**Announcements**'. <img style="width: 50px; height: auto;" src="/images/holidays_icon.png">
+
+
+![](/images/holidays_mainpage.png)
+
+On this page you will see an overview of your configured Holiday Conditions.
+
