@@ -28,7 +28,9 @@ Click '**Add Condition**'.
 ![](/images/daynight_1.png)
 
 ::: tip
-**Note:** If you are modifying an existing condition you will see the status of the condition in RED at the top of the page. You can click the '**Change to**' button to toggle the condition from within the myCloudPBX screen.
+**Note:** If you are modifying an existing condition you will see the status of the condition in RED at the top of the page. 
+
+You can click the '**Change to**' button to toggle the condition from within the myCloudPBX screen.
 
 You can also dial the '**Allocated Dial Code**' shown a bit lower from a handset to toggle manually.
 :::
