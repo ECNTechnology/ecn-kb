@@ -25,29 +25,27 @@ You will need a MyCloudPBX Softphone account in order to follow this guide, if y
 
 <img src="/images/android_softphone_installation1.jpg" width="350" />
 
-**Step 2.** Install the application.
-
-**Step 3.** The first time you run the application, you will have to accept some permissions so the app will work. Start by Accepting License Agreement.
+**Step 2.** The first time you run the application, you will have to accept some permissions so the app will work. Start by Accepting License Agreement.
 
 <img src="/images/android_softphone_installation4.jpg" width="350" />
 
-**Step 4.** Tap Show to allow myCloudPBX to Read phone status and identity, reroute outgoing calls and directly call phone numbers.
+**Step 3.** Tap Show to allow myCloudPBX to Read phone status and identity, reroute outgoing calls and directly call phone numbers.
 
 <img src="/images/android_softphone_installation2.jpg" width="350" />
 
-**Step 5.** Tap ‘Allow’ to enable myCloudPBX to make and manage phone calls.
+**Step 4.** Tap ‘Allow’ to enable myCloudPBX to make and manage phone calls.
 
 <img src="/images/android_softphone_installation3.jpg" width="350" />
 
-**Step 6.** Next, it will request permission to be exempt from battery saving rules, this will allow the app to run in the background and receive calls even when on battery saver. Click "SHOW' and then 'accept' to proceed.
+**Step 5.** Next, it will request permission to be exempt from battery saving rules, this will allow the app to run in the background and receive calls even when on battery saver. Click "SHOW' and then 'accept' to proceed.
 
 <img src="/images/android_softphone_installation5.jpg" width="350" />
 
 **Step 6.** Enter the following information:
 
-**Username:** Your username
+**Username:** Your username
 
-**Password:** Your password
+**Password:** Your password
 
 <img src="/images/android_softphone_installation8.jpg" width="350" />
 
