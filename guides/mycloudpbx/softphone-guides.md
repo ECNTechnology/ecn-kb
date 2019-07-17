@@ -13,12 +13,6 @@ date: 2019-06-16T04:10:10.042Z
 <br/>
 <br/>
 
-## OSX Guides
-
-::: tip
-Coming Soon!
-:::
-
 ## Android Guides
 
 These guides will aim to demonstrate how to install and operate the MyCloudPBX softphone.
@@ -30,3 +24,10 @@ You will need a MyCloudPBX Softphone account in order to follow this guide, if y
 **Step 1.** From the Play Store, search ‘myCloudPBX’ and and Install the app.
 
 <img src="/images/android_softphone_installation1.jpg" width="350" />
+
+
+## OSX Guides
+
+::: tip
+Coming Soon!
+:::
