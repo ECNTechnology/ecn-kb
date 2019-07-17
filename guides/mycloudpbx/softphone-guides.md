@@ -53,6 +53,16 @@ You will need a MyCloudPBX Softphone account in order to follow this guide, if y
 
 <img src="/images/android_softphone_installation9.jpg" width="350" />
 
+### Making a Call
+
+You will need a MyCloudPBX Softphone account in order to follow this guide, if you do not already have one you will need to contact your administrator.
+
+Open the myCloudPBX app and login using your username and password.
+
+Using the touchscreen enter the number you wish to dial and then press the green ‘dial’ button.
+
+<img src="/images/Android_Softphone_MakingCall1.jpg" width="350" />
+
 ## OSX
 
 ## Guides
