@@ -19,3 +19,14 @@ date: 2019-06-16T04:10:10.042Z
 Coming Soon!
 :::
 
+## Android Guides
+
+These guides will aim to demonstrate how to install and operate the MyCloudPBX softphone.
+
+You will need a MyCloudPBX Softphone account in order to follow this guide, if you do not already have one you will need to contact your administrator.
+
+### Installation
+
+**Step 1.** From the Play Store, search ‘myCloudPBX’ and and Install the app.
+
+<img src="/images/android_softphone_installation1.jpg" width="350" />
