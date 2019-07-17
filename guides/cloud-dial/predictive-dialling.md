@@ -5,7 +5,7 @@ date: 2019-07-12T03:09:06.942Z
 # Predictive Dialing
 
 ## Introduction
-Introducing Preview Feature Predictive Dialling
+
 
 Until now Cloud Dial call center administrators needed to set a power factor for each campaign.
 
