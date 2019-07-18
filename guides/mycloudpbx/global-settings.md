@@ -20,6 +20,16 @@ To access the global settings page, click '**Settings**' in the '_Overview_' sec
 
 #### Description:
 
+Inbound calls that divert to external numbers can be configured in two ways.
+
+1. The caller ID will show the number that was dialled. This is useful when you have multiple numbers so that you can answer the call based on the number dialled.
+
+2. Caller ID Display: The caller ID will show the callers number.
+
+By default 'Caller ID Display' is disabled.
+
+#### Example:
+
 With '**Caller ID Display**' disabled: Inbound calls that are forwarded out to the public network will show your phone number as the caller ID.
 
 
@@ -42,6 +52,10 @@ The call is then forwarded out to a mobile.
 
 The mobile then rings, showing the caller ID 04330555xx
 ```
+
+#### Configuration
+
+To enable '**Caller ID Display**' passthrough, tick '**Caller ID Display**'.
 
 Click '**Save**' when complete.
 
