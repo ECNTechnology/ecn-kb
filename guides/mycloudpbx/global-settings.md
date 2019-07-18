@@ -16,7 +16,7 @@ To access the global settings page, click '**Settings**' in the '_Overview_' sec
 
 ![](/images/pbx_ringtones_2.png)
 
-## Internal Ringtones / Caller ID Display 
+## Caller ID Display / Passthrough Caller ID
 
 #### Description:
 
@@ -35,6 +35,13 @@ Select the '**Phone Type**' matching your handsets from the first dropdown box, 
 
 Click '**Save**' when complete.
 
+## Access Control
+
+::: tip
+
+More Information Coming Soon!
+
+:::
 
 
 
