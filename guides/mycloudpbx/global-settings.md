@@ -16,7 +16,7 @@ To access the global settings page, click '**Settings**' in the '_Overview_' sec
 
 ![](/images/pbx_ringtones_2.png)
 
-## Internal Ringtones / Caller ID Display 
+## Caller ID Display / Passthrough Caller ID
 
 #### Description:
 
