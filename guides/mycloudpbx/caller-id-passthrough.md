@@ -2,8 +2,6 @@
 title: Caller ID Passthrough
 date: 2019-07-12T02:11:53.730Z
 ---
-
-
 # Caller ID Passthrough
 
 Inbound calls that divert to external numbers can be configured in two ways. 
@@ -13,16 +11,4 @@ Inbound calls that divert to external numbers can be configured in two ways.
 
 By default '**Caller ID Passthrough**' is disabled. 
 
-## Enable Caller ID Passthrough
-
-![](/images/caller_id_passthrough.png)
-
-To enable caller ID passthrough, click '**Settings**' from within the '**Overview**' section on the PBX homepage.
-
-![](/images/caller_id_passthrough2.png)
-
-Tick '**Caller ID Display**' and click '**Save**'.
-
-![](/images/apply_pbx_changes.png)
-
-Click '**Apply Changes**'.
+[Click here for configuration steps](https://kb.ecn.net.au/guides/mycloudpbx/global-settings.html#caller-id-display-passthrough-caller-id)
