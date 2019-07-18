@@ -1,0 +1,43 @@
+---
+title: Global Settings
+date: 2019-07-18T06:49:48.810Z
+---
+# PBX Global Settings
+
+Global settings are additional settings that affect the functionality of the entire PBX.
+
+There are a number of settings that can be enabled & configured within as global settings.
+
+To access the global settings page, click '**Settings**' in the '_Overview_' section below the centreline of the myCloudPBX homepage.
+
+![](/images/pbx_ringtones_1.png)
+
+#### Global Settings Page:
+
+![](/images/pbx_ringtones_2.png)
+
+## Internal Ringtones / Caller ID Display 
+
+#### Description:
+
+  - **When Disabled:** Inbound calls that are forwarded out to the public network will show your phone number as the caller ID.
+
+  - **When enabled:** Inbound calls that are forwarded out to the public network will show the callers phone number as the caller ID.
+
+Click '**Save**' when complete.
+
+## Internal Call Ringtones
+#### Description:
+
+You can configure an alternate ringtone for '**internal**' calls so that you can tell the difference between an '**inbound call**' from the public voice network and an '**internal call**'.
+
+Select the '**Phone Type**' matching your handsets from the first dropdown box, then select your preferred '**Ringtone**' from the second dropdown box.
+
+Click '**Save**' when complete.
+
+
+
+
+
+
+
