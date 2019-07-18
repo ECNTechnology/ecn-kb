@@ -29,7 +29,6 @@ Bob calls from 04330555xx to 07310513xx.
 The call is then forwarded out to a mobile.
 
 The mobile then rings, showing the caller ID 07310513xx
-
 ```
 
 
@@ -42,7 +41,6 @@ Bob calls from 04330555xx to 07310513xx.
 The call is then forwarded out to a mobile.
 
 The mobile then rings, showing the caller ID 04330555xx
-
 ```
 
 Click '**Save**' when complete.
