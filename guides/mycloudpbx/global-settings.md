@@ -20,9 +20,30 @@ To access the global settings page, click '**Settings**' in the '_Overview_' sec
 
 #### Description:
 
-  - **When Disabled:** Inbound calls that are forwarded out to the public network will show your phone number as the caller ID.
+With '**Caller ID Display**' disabled: Inbound calls that are forwarded out to the public network will show your phone number as the caller ID.
 
-  - **When enabled:** Inbound calls that are forwarded out to the public network will show the callers phone number as the caller ID.
+
+```
+Bob calls from 04330555xx to 07310513xx.
+
+The call is then forwarded out to a mobile.
+
+The mobile then rings, showing the caller ID 07310513xx
+
+```
+
+
+With '**Caller ID Display**' enabled: Inbound calls that are forwarded out to the public network will show the callers phone number as the caller ID.
+
+
+```
+Bob calls from 04330555xx to 07310513xx.
+
+The call is then forwarded out to a mobile.
+
+The mobile then rings, showing the caller ID 04330555xx
+
+```
 
 Click '**Save**' when complete.
 
