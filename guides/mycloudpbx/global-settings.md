@@ -26,7 +26,7 @@ Inbound calls that divert to external numbers can be configured in two ways.
 
 2. Caller ID Display: The caller ID will show the callers number.
 
-By default 'Caller ID Display' is disabled.
+By default '**Caller ID Display**' is disabled.
 
 #### Example:
 
