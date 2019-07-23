@@ -38,10 +38,10 @@ To add a vanity number, click '**Manage my phone number**' in the '**Overview**'
 
 On this page you can see a list of your existing numbers and their status and have the following options.
 
-* **Add New Number:** Click this button to order a new number.
-* **Add Vanity Number:** Click this button to add a vanity number to the PBX.
-* **Verify:** Click this button to verify ownership of a vanity number.
-* **Remove:** Click this button to remove a vanity number from the PBX.
+* **Add New Number:** To order a new number click <img style="width: auto; height: 25px;" src="/images/vanity_addnumber.png"> 
+* **Add Vanity Number:** To add a vanity number to the PBX click <img style="width: auto; height: 25px;" src="/images/vanity_add_vanity.png"> 
+* **Verify:** To verify ownership of a vanity number click <img style="width: auto; height: 25px;" src="/images/vanity_verify.png"> 
+* **Remove:** To remove a vanity number from the PBX click <img style="width: auto; height: 25px;" src="/images/vanity_remove.png"> 
 
 Each number will be in one of four status types:
 
@@ -54,14 +54,33 @@ The '**Block Size**' can be one of two options:
 * A **Block Size** of 1 represents a single number.
 * A **Block Size** of 100 represents a 100 number block.
 
-Click '**Add Vanity Number**'
+Click <img style="width: auto; height: 25px;" src="/images/vanity_add_vanity.png">
 
-<img style="width: 500px; height: auto;" src="/images/vanity2.png"> 
+<img style="width: 500px; height: auto;" src="/images/vanity2.png">
 
-Select your Country.
+Enter the following information:
 
-Add your **Phone Number**.
+* From the dropdown field, select the country that represents your number.
+* Enter the phone number you wish to use as a Vanity Number.
 
 Click '**Save**'.
 
-<img style="width: 500px; height: auto;" src="/images/vanity3.png"> 
+You will now be taken back to the main '**Phone Numbers**' screen.
+
+<img style="width: 500px; height: auto;" src="/images/vanity_verifynumberscreen.png">
+
+In order to use the number, you will need to verify ownership of the number.
+
+Find the number and click <img style="width: auto; height: 25px;" src="/images/vanity_verify.png"> on the right hand side. 
+
+<img style="width: 500px; height: auto;" src="/images/vanity3.png">
+
+On this window you will be able to verify ownership of the number.
+
+Click '**Initiate Call**'.
+
+myCloudPBX will call the number and ready out a verification code.
+
+Enter the verification code into the field and click '**Complete Verification**'.
+
+The number has now been added as a vanity number on the PBX and can now be configured for outbound caller ID in the PBX.
