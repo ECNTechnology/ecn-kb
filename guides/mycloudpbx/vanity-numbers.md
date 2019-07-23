@@ -76,7 +76,7 @@ You will now be taken back to the main '**Phone Numbers**' screen.
 
 In order to use the number, you will need to verify ownership of the number.
 
-Find the number and click <img style="width: auto; height: 25px;" src="/images/vanity_verify.png"> on the right hand side. 
+Find the number and click <img style="width: auto; height: 25px;" src="/images/vanity_verify.png"> to begin the verification process. 
 
 <img style="width: 500px; height: auto;" src="/images/vanity3.png">
 
