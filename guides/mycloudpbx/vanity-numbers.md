@@ -41,26 +41,19 @@ To add a vanity number, click '**Manage my phone number**' in the '**Overview**'
 On this page you can see a list of your existing numbers and their status and have the following options.
 
 * **Add New Number:** Click this button to order a new number.
-
 * **Add Vanity Number:** Click this button to add a vanity number to the PBX.
-
 * **Verify:** Click this button to verify ownership of a vanity number.
-
 * **Remove:** Click this button to remove a vanity number from the PBX.
 
 Each number will be in one of four status types:
 
 * **Vanity:** This is a Vanity number. This can be used for **outbound** calls only.
-
 * **Active:** This is an Active number. This can be used for **inbound** and **outbound** calls.
-
 * **Porting:** This is a number that will be ported to myCloudPBX. Once porting has completed you will be able to configure inbound call routing.
-
 
 The '**Block Size**' can be one of two options:
 
 * A **Block Size** of 1 represents a single number.
-
 * A **Block Size** of 100 represents a 100 number block.
 
 Click '**Add Vanity Number**'
@@ -74,4 +67,3 @@ Add your **Phone Number**.
 Click '**Save**'.
 
 ![](/images/vanity3.png)
-
