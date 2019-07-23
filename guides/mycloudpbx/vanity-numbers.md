@@ -46,8 +46,13 @@ On this page you can see a list of your existing numbers and their status and ha
 Each number will be in one of four status types:
 
 * **Vanity:** This is a Vanity number. This can be used for **outbound** calls only.
+
 * **Active:** This is an Active number. This can be used for **inbound** and **outbound** calls.
+
 * **Porting:** This is a number that will be ported to myCloudPBX. Once porting has completed you will be able to configure inbound call routing.
+
+* **Waiting Verification:** This is a vanity number that has yet to be verified.
+
 
 The '**Block Size**' can be one of two options:
 
