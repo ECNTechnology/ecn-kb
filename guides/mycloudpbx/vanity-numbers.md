@@ -2,8 +2,6 @@
 title: Vanity Numbers
 date: 2019-07-23T01:39:47.582Z
 ---
-
-
 # Vanity Numbers
 
 ## Vanity Number Feature Overview
@@ -58,7 +56,7 @@ The '**Block Size**' can be one of two options:
 
 Click '**Add Vanity Number**'
 
-![](/images/vanity2.png)
+<img style="width: 500px; height: auto;" src="/images/vanity2.png"> 
 
 Select your Country.
 
@@ -66,4 +64,4 @@ Add your **Phone Number**.
 
 Click '**Save**'.
 
-![](/images/vanity3.png)
+<img style="width: 500px; height: auto;" src="/images/vanity3.png"> 
