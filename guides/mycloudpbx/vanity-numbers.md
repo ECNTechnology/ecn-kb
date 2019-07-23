@@ -2,14 +2,17 @@
 title: Vanity Numbers
 date: 2019-07-23T01:39:47.582Z
 ---
+
+
 # Vanity Numbers
+
 ## Vanity Number Feature Overview
+
 #### What are Vanity Numbers?
 
 Vanity numbers give customers the ability to use different numbers for outbound call presentation. 
 
 #### Why are Vanity numbers used?
-
 
 When customers migrate from a traditional PBX to the cloud-hosted myCloudPBX platform, they often face the problem of numbers still being hosted on their traditional PBX during the migration process, or, a traditional telephone service such as ISDN or PSTN, or numbers that are not yet ready to be migrated to myCloudPBX. 
 
@@ -21,7 +24,54 @@ When a call is made the receiver sees the caller’s number as a number that may
 
 You can Add an existing phone number to your myCloudPBX service that isn't "**hosted**" on myCloudPBX, and use it to make calls, associate that number as the default outbound number on an office, and link that number to an extension as the outbound caller ID number when making calls.
 
-
 #### Benefits of Vanity Numbers?
- 
+
 No waiting -  Customers don’t have to wait until they have migrated their numbers to the new system, but can present their numbers as though they have already been processed, even though the migration process is still taking place.
+
+## Configuration
+
+To add a vanity number, click '**Manage my phone number**' in the '**Overview**' section below the centreline of the myCloudPBX homepage.
+
+![](/images/pbx_ringtones_1.png)
+
+#### Phone Numbers Screen
+
+![](/images/vanity1.png)
+
+On this page you can see a list of your existing numbers and their status and have the following options.
+
+* **Add New Number:** Click this button to order a new number.
+
+* **Add Vanity Number:** Click this button to add a vanity number to the PBX.
+
+* **Verify:** Click this button to verify ownership of a vanity number.
+
+* **Remove:** Click this button to remove a vanity number from the PBX.
+
+Each number will be in one of four status types:
+
+* **Vanity:** This is a Vanity number. This can be used for **outbound** calls only.
+
+* **Active:** This is an Active number. This can be used for **inbound** and **outbound** calls.
+
+* **Porting:** This is a number that will be ported to myCloudPBX. Once porting has completed you will be able to configure inbound call routing.
+
+
+The '**Block Size**' can be one of two options:
+
+* A **Block Size** of 1 represents a single number.
+
+* A **Block Size** of 100 represents a 100 number block.
+
+Click '**Add Vanity Number**'
+
+![](/images/vanity2.png)
+
+Select your Country.
+
+Add your **Phone Number**.
+
+Click '**Save**'.
+
+![](/images/vanity3.png)
+
