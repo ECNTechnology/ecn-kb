@@ -67,7 +67,7 @@ Click '**Save**'.
 
 You will now be taken back to the main '**Phone Numbers**' screen.
 
-<img style="width: 500px; height: auto;" src="/images/vanity_verifynumberscreen.png">
+<img style="width: 600px; height: auto;" src="/images/vanity_verifynumberscreen.png">
 
 In order to use the number, you will need to verify ownership of the number.
 
