@@ -11,7 +11,7 @@ Allows you to make a call that's not on any campaign list.
 
 ## Outbound Manual Dialling
 
-When an Agent logs into Cloud Dial they will be greeted with the following screen.
+When an Agent logs into Cloud Dial (or is not assigned to a campaign), they will be greeted with the following screen.
 
 Click '**Manual Dial**' to call a number that's not part of an Active Campaign.
 
