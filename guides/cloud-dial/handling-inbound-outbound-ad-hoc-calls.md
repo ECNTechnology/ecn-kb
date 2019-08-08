@@ -43,3 +43,9 @@ Click '**End Call**' when finished.
 Inbound calls that are not part of an active campaign will now ring through to Agents based on the skills based routing.
 
 For information on how to configure skills based routing, [click here](https://kb.ecn.net.au/guides/cloud-dial/skills-based-call-routing.html).
+
+Each inbound call will be routed as follows.
+
+If the destination number is part of a running campaign, it will be routed to agents that are part of that campaign. Skills based routing will also apply.
+
+If the destination number is 
