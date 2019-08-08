@@ -32,9 +32,9 @@ Click '**Call**' to dial the number.
 
 While on the call you will see the familiar call screen and will be able to perform the following actions:
 
-** Stop / Start Call Recordings.
+* Stop / Start Call Recordings.
 
-** Mask Recordings (This mutes the recording so that you can take credit card payments off the record for compliance).
+* Mask Recordings (This mutes the recording so that you can take credit card payments off the record for compliance).
 
 
 <img style="width: auto; height: auto;" src="/images/manual_dialling_3.png">
