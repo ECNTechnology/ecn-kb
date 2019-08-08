@@ -2,7 +2,6 @@
 title: Handling Inbound & Outbound Ad-hoc Calls
 date: 2019-08-07T02:27:52.736Z
 ---
-
 # Ad-hoc Outbound Dialling
 
 ## Description
@@ -11,7 +10,7 @@ Allows you to make a call that's not on any campaign list.
 
 ## Outbound Manual Dialling
 
-When an Agent logs into Cloud Dial (or is not assigned to a campaign), they will be greeted with the following screen.
+When an Agent logs into Cloud Dial they will be greeted with the following screen.
 
 Click '**Manual Dial**' to call a number that's not part of an Active Campaign.
 
@@ -33,11 +32,14 @@ Click '**Call**' to dial the number.
 While on the call you will see the familiar call screen and will be able to perform the following actions:
 
 * Stop / Start Call Recordings.
-
 * Mask Recordings (This mutes the recording so that you can take credit card payments off the record for compliance).
 
+Click '**End Call**' when finished.
 
 <img style="width: auto; height: auto;" src="/images/manual_dialling_3.png">
 
-
 ## Inbound calls not part of an active campaign
+
+Inbound calls that are not part of an active campaign will now ring through to Agents based on the skills based routing.
+
+For information on how to configure skills based routing, [click here](https://kb.ecn.net.au/guides/cloud-dial/skills-based-call-routing.html).
