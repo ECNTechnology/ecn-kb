@@ -46,6 +46,12 @@ For information on how to configure skills based routing, [click here](https://k
 
 Each inbound call will be routed as follows.
 
-If the destination number is part of a running campaign, it will be routed to agents that are part of that campaign. Skills based routing will also apply.
+* If the destination number is not part of a running campaign the call will be treated as an ad-hoc call and any free agents will see a popup with the inbound call. Skills based routing will also apply if configured.
 
-If the destination number is 
+* If the destination number is part of a running campaign, it will be routed to agents that are part of that campaign. Skills based routing will also apply if configured.
+
+* If the destination number is part of multiple running campaigns, it will be routed to agents that are part of either campaign and they will have the choice of which campaign to assign the inbound call to when answering the call.
+
+**Inbound Call Popup:**
+
+![](/images/manual_dialling_4.png)
