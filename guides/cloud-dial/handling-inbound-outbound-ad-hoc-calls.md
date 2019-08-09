@@ -6,7 +6,7 @@ date: 2019-08-07T02:27:52.736Z
 
 ## Description
 
-Allows you to make a call that's not on any campaign list.
+The Ad-hoc Outbound Dialling feature allows you to make a call that is not on any campaign list.
 
 ## Outbound Manual Dialling
 
