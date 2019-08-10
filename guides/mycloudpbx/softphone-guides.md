@@ -162,7 +162,8 @@ Once the call connects, you have some additional options.
 * To hangup the call, press <img style="width: 25px; height: auto;" src="/images/iphone_endcall.png"> 
 * To input numbers while on a call press, '**Keypad**'.
 
-  <img src="/images/iphone_incall.jpeg" width="350" />
+
+<img src="/images/iphone_incall.jpeg" width="350" />
 
 
 ## OSX Guides
