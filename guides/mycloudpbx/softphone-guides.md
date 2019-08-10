@@ -63,6 +63,20 @@ Using the touchscreen enter the number you wish to dial and then press the green
 
 <img src="/images/Android_Softphone_MakingCall1.jpg" width="350" />
 
+### Blind Transfer a Call
+
+**Description:** When you '**Blind Transfer**' a call the call will immediately ring on the intended persons phone and will no longer be on yours.
+
+While on the active phone call press <img style="width: 25px; height: auto;" src="/images/transfers_threedots.png"> and the press the '**Transfer To...**' option as shown below.
+
+<img src="/images/softphone_android_transfers_1.jpg" width="350" />
+
+Use your address book, or enter the number you wish to transfer to and press <img style="width: 25px; height: auto;" src="/images/softphone_android_greenbutton.png">
+
+<img src="/images/softphone_android_transfers_2.jpg" width="350" />
+
+The has now been blind transferred to the other person.
+
 ## OSX
 
 ## Guides
