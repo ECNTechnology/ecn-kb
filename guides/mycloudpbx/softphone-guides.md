@@ -113,6 +113,13 @@ Enter the search term '**mycloudpbx softphone**'.
 
 <img src="/images/iphone_installation.png" width="350" />
 
+Press <img style="width: 25px; height: auto;" src="/images/iphone_install_icon.png"> to begin the installation.
+
+Enter your apple ID / password if prompted.
+
+
+
+
 ## Guides
 
 ::: tip
