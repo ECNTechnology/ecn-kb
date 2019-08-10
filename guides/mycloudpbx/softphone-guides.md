@@ -184,18 +184,29 @@ While on the active phone call press <img style="width: 25px; height: auto;" src
 
 <img src="/images/iphone_transfer.jpeg" width="350" />
 
-Enter the number you wish to transfer the call to and press <img style="width: 25px; height: auto;" src="/images/iphone_xfer_icon.png"> to complete the transfer.
+Enter the number you wish to transfer the call to and press <img style="width: 25px; height: auto;" src="/images/iphone_xfer_icon.png"> (Xfer) to complete the transfer.
 
 <img src="/images/iphone_transfer_2.jpeg" width="350" />
 
 You have now successfully transferred the call.
 
-
 ### Attended Transfer a Call
 
-::: tip
-Coming Soon!
-:::
+**Description:** An '**Attended Transfer**' allows you to 'introduce' the caller to the callee before handing the call over. This is the preferred method of transferring calls.
+
+While on an active call, press <img style="width: 25px; height: auto;" src="/images/iphone_plus_button.png">
+
+<img src="/images/iphone_att_xfer_1.jpeg" width="350" />
+
+Using the touchscreen enter the number you wish to dial and press <img style="width: 25px; height: auto;" src="/images/iphone_dial.png"> 
+
+<img src="/images/iphone_att_xfer2.jpeg" width="350" />
+
+Once the phone is answered you will be able to announce the caller to the callee before handing the call over.
+
+While on the active phone call press <img style="width: 25px; height: auto;" src="/images/iphone_transfer_more.png"> (More) and choose the '**Transfer**' option.
+
+You have now successfully transferred the call.
 
 ## OSX Guides
 
