@@ -162,8 +162,14 @@ Once the call connects, you have some additional options.
 * To hangup the call, press <img style="width: 25px; height: auto;" src="/images/iphone_endcall.png"> 
 * To input numbers while on a call press, '**Keypad**'.
 
-
 <img src="/images/iphone_incall.jpeg" width="350" />
+
+### Accessing Voicemail
+
+To access Voicemail, press <img style="width: 25px; height: auto;" src="/images/iphone_voicemail_icon.png"> or dial **777**.
+
+Press the '**Keypad Icon**' to access the keypad, then enter your **PIN** when prompted.
+
 
 
 ## OSX Guides
