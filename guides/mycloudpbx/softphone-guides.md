@@ -176,6 +176,26 @@ To view your call history, press the button at the bottom of the myCloudPBX Soft
 
 <img src="/images/iphone_history.jpeg" width="350" />
 
+### Blind Transfer a Call
+
+**Description:** When you '**Blind Transfer**' a call the call will immediately ring on the intended persons phone and will no longer be on yours.
+
+While on the active phone call press <img style="width: 25px; height: auto;" src="/images/iphone_transfer_more.png"> (More) and the press the '**Transfer**' option as shown below.
+
+<img src="/images/iphone_transfer.jpeg" width="350" />
+
+Enter the number you wish to transfer the call to and press <img style="width: 25px; height: auto;" src="/images/iphone_xfer_icon.png"> to complete the transfer.
+
+<img src="/images/iphone_transfer_2.jpeg" width="350" />
+
+You have now successfully transferred the call.
+
+
+### Attended Transfer a Call
+
+::: tip
+Coming Soon!
+:::
 
 ## OSX Guides
 
