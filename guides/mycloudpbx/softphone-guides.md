@@ -208,6 +208,30 @@ While on the active phone call press <img style="width: 25px; height: auto;" src
 
 You have now successfully transferred the call.
 
+### Conference Calls
+
+**Description:** The myCloudPBX Softphone allows you to merge two callers together into a 3-way conference call.
+
+While on an active call, press <img style="width: 25px; height: auto;" src="/images/iphone_plus_button.png">
+
+<img src="/images/iphone_att_xfer_1.jpeg" width="350" />
+
+Using the touchscreen enter the number you wish to dial and press <img style="width: 25px; height: auto;" src="/images/iphone_dial.png"> 
+
+<img src="/images/iphone_att_xfer2.jpeg" width="350" />
+
+To merge the calls together press <img style="width: 25px; height: auto;" src="/images/iphone_merge_icon.png">
+
+<img src="/images/iphone_conf_1.jpeg" width="350" />
+
+The calls are now conferenced together.
+
+<img src="/images/iphone_conferenced.jpeg" width="350" />
+
+
+
+To un-merge the calls again, press <img style="width: 25px; height: auto;" src="/images/iphone_split_icon.png">
+
 ## OSX Guides
 
 ::: tip
