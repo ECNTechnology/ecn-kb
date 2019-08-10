@@ -129,7 +129,7 @@ When prompted, you can choose weather or not you wish to allow Siri integration.
 
 <img src="/images/iphone_install_3.png" width="350" />
 
-When prompted, you will need to press '**OK**' to allow the app to display missed call notifications.
+When prompted, you will need to press '**Allow**' to allow the app to display missed call notifications.
 
 
 <img src="/images/iphone_install_4.png" width="350" />
