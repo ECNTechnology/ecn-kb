@@ -2,6 +2,8 @@
 title: Softphone Guides
 date: 2019-06-16T04:10:10.042Z
 ---
+
+
 # myCloudPBX Softphone Guides
 
 - - -
@@ -76,6 +78,27 @@ Use your address book, or enter the number you wish to transfer to and press <im
 <img src="/images/softphone_android_transfers_2.jpg" width="350" />
 
 The has now been blind transferred to the other person.
+
+### Attended Transfer a Call
+
+**Description:** An '**Attended Transfer**' allows you to 'introduce' the caller to the callee before handing the call over. This is the preferred method of transferring calls.
+
+While on an active call, press <img style="width: 25px; height: auto;" src="/images/transfers_plusbutton.png">
+
+<img src="/images/softphone_android_attxfer1.jpg" width="350" />
+
+Use your address book, or enter the number you wish to transfer to and press <img style="width: 25px; height: auto;" src="/images/transfers_callbutton.png">
+
+
+<img src="/images/softphone_android_attxfer2.jpg" width="350" />
+
+Once the phone is answered you will be able to announce the caller to the callee before handing the call over.
+
+Press <img style="width: 25px; height: auto;" src="/images/transfers_threedots.png"> and the press the '**Transfer To...**' option as shown below.
+
+<img src="/images/softphone_android_attxfer3.jpg" width="350" />
+
+The has now been transferred to the other person.
 
 ## OSX
 
