@@ -17,7 +17,7 @@ date: 2019-06-16T04:10:10.042Z
 
 ## Android Guides
 
-These guides will aim to demonstrate how to install and operate the MyCloudPBX softphone.
+These guides will aim to demonstrate how to install and operate the MyCloudPBX softphone using an Android phone.
 
 You will need a MyCloudPBX Softphone account in order to follow this guide, if you do not already have one you will need to contact your administrator.
 
@@ -89,7 +89,6 @@ While on an active call, press <img style="width: 25px; height: auto;" src="/ima
 
 Use your address book, or enter the number you wish to transfer to and press <img style="width: 25px; height: auto;" src="/images/transfers_callbutton.png">
 
-
 <img src="/images/softphone_android_attxfer2.jpg" width="350" />
 
 Once the phone is answered you will be able to announce the caller to the callee before handing the call over.
@@ -100,7 +99,19 @@ Press <img style="width: 25px; height: auto;" src="/images/transfers_threedots.p
 
 The has now been transferred to the other person.
 
-## OSX
+## iPhone / iPad
+
+These guides will aim to demonstrate how to install and operate the MyCloudPBX Softphone on your IOS device.
+
+You will need a MyCloudPBX Softphone account in order to follow this guide, if you do not already have one you will need to contact your administrator.
+
+### Installation
+
+Open the App Store by pressing <img style="width: 25px; height: auto;" src="/images/iphone_appstore.png">
+
+Enter the search term '**mycloudpbx softphone**'.
+
+<img src="/images/iphone_installation.png" width="350" />
 
 ## Guides
 
