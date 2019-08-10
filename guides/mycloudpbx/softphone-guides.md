@@ -97,7 +97,7 @@ Press <img style="width: 25px; height: auto;" src="/images/transfers_threedots.p
 
 The has now been transferred to the other person.
 
-## iPhone / iPad
+## iPhone / iPad Guides
 
 These guides will aim to demonstrate how to install and operate the MyCloudPBX Softphone on your IOS device.
 
@@ -113,6 +113,8 @@ Open the App Store by pressing <img style="width: 25px; height: auto;" src="/ima
 Enter the search term '**mycloudpbx softphone**'.
 
 Press <img style="width: 25px; height: auto;" src="/images/iphone_install_icon.png"> to begin the installation.
+
+Enter your Apple ID / Password if prompted.
 
 Once the download has finished press '**Open**' to complete the installation.
 
@@ -149,7 +151,8 @@ When prompted, click '**OK**' to allow the app to access your Contacts.
 
 The myCloudPBX Softphone is now fully installed and ready for use.
 
-## Guides
+
+## OSX Guides
 
 ::: tip
 Coming Soon!
