@@ -170,6 +170,11 @@ To access Voicemail, press <img style="width: 25px; height: auto;" src="/images/
 
 Press the '**Keypad Icon**' to access the keypad, then enter your **PIN** when prompted.
 
+### View Call History
+
+To view your call history, press the button at the bottom of the myCloudPBX Softphones homescreen labelled '**History**'.
+
+<img src="/images/iphone_history.jpegg" width="350" />
 
 
 ## OSX Guides
