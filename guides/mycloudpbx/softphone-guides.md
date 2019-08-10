@@ -73,7 +73,9 @@ While on the active phone call press <img style="width: 25px; height: auto;" src
 
 Use your address book, or enter the number you wish to transfer to and press <img style="width: 25px; height: auto;" src="/images/softphone_android_greenbutton.png">
 
-The call will then be blind transferred to the other person.
+<img src="/images/softphone_android_transfers_2.jpg" width="350" />
+
+The has now been blind transferred to the other person.
 
 ## OSX
 
