@@ -107,7 +107,6 @@ You will need a MyCloudPBX Softphone account in order to follow this guide, if y
 
 Open the App Store by pressing <img style="width: 25px; height: auto;" src="/images/iphone_appstore.png">
 
-
 <img src="/images/iphone_installation.png" width="350" />
 
 Enter the search term '**mycloudpbx softphone**'.
@@ -117,7 +116,6 @@ Press <img style="width: 25px; height: auto;" src="/images/iphone_install_icon.p
 Enter your Apple ID / Password if prompted.
 
 Once the download has finished press '**Open**' to complete the installation.
-
 
 <img src="/images/iphone_install_1.png" width="350" />
 
@@ -131,17 +129,14 @@ When prompted, you can choose weather or not you wish to allow Siri integration.
 
 When prompted, you will need to press '**Allow**' to allow the app to display missed call notifications.
 
-
 <img src="/images/iphone_install_4.png" width="350" />
 
 Enter the following information:
 
-- Your Username. (You will have received this in the welcome email when you activated the softphone.)
-
-- Your Password. (You can find this in the myCloudPBX Management Portal. If you are not sure, contact your Administrator).
+* Your Username. (You will have received this in the welcome email when you activated the softphone.)
+* Your Password. (You can find this in the myCloudPBX Management Portal. If you are not sure, contact your Administrator).
 
 When finished click '**Login**'.
-
 
 <img src="/images/iphone_install_5.png" width="350" />
 
@@ -150,6 +145,25 @@ When prompted, click '**OK**' to allow the app to access your Contacts.
 <img src="/images/iphone_install_6.png" width="350" />
 
 The myCloudPBX Softphone is now fully installed and ready for use.
+
+### Making a Phone Call
+
+Open the myCloudPBX app and login using your **username** and **password**.
+
+Using the touchscreen enter the number you wish to dial and press <img style="width: 25px; height: auto;" src="/images/iphone_dial.png"> 
+
+<img src="/images/iphone_making_call.jpeg" width="350" />
+
+Once the call connects, you have some additional options.
+
+* To mute your microphone '**Mute**'.
+* To place the other person on hold by pressing '**Hold**'.
+* To enable speakerphone, press '**Speaker**'.
+* To hangup the call, press <img style="width: 25px; height: auto;" src="/images/iphone_endcall.png"> 
+* To input numbers while on a call press, '**Keypad**'.
+
+
+<img src="/images/iphone_incall.jpeg" width="350" />
 
 
 ## OSX Guides
