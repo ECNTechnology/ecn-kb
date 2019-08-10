@@ -97,7 +97,7 @@ Press <img style="width: 25px; height: auto;" src="/images/transfers_threedots.p
 
 The has now been transferred to the other person.
 
-## iPhone / iPad
+## iPhone / iPad Guides
 
 These guides will aim to demonstrate how to install and operate the MyCloudPBX Softphone on your IOS device.
 
@@ -149,7 +149,8 @@ When prompted, click '**OK**' to allow the app to access your Contacts.
 
 The myCloudPBX Softphone is now fully installed and ready for use.
 
-## Guides
+
+## OSX Guides
 
 ::: tip
 Coming Soon!
