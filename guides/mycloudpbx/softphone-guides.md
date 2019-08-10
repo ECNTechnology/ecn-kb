@@ -174,7 +174,7 @@ Press the '**Keypad Icon**' to access the keypad, then enter your **PIN** when p
 
 To view your call history, press the button at the bottom of the myCloudPBX Softphones homescreen labelled '**History**'.
 
-<img src="/images/iphone_history.jpegg" width="350" />
+<img src="/images/iphone_history.jpeg" width="350" />
 
 
 ## OSX Guides
