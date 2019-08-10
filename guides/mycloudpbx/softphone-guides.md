@@ -2,8 +2,6 @@
 title: Softphone Guides
 date: 2019-06-16T04:10:10.042Z
 ---
-
-
 # myCloudPBX Softphone Guides
 
 - - -
@@ -109,16 +107,47 @@ You will need a MyCloudPBX Softphone account in order to follow this guide, if y
 
 Open the App Store by pressing <img style="width: 25px; height: auto;" src="/images/iphone_appstore.png">
 
-Enter the search term '**mycloudpbx softphone**'.
 
 <img src="/images/iphone_installation.png" width="350" />
 
+Enter the search term '**mycloudpbx softphone**'.
+
 Press <img style="width: 25px; height: auto;" src="/images/iphone_install_icon.png"> to begin the installation.
 
-Enter your apple ID / password if prompted.
+Once the download has finished press '**Open**' to complete the installation.
 
 
+<img src="/images/iphone_install_1.png" width="350" />
 
+When prompted, you will need to press '**OK**' to allow the app access to the Microphone.
+
+<img src="/images/iphone_install_2.png" width="350" />
+
+When prompted, you can choose weather or not you wish to allow Siri integration.  
+
+<img src="/images/iphone_install_3.png" width="350" />
+
+When prompted, you will need to press '**OK**' to allow the app to display missed call notifications.
+
+
+<img src="/images/iphone_install_4.png" width="350" />
+
+Enter the following information:
+
+- Your Username. (You will have received this in the welcome email when you activated the softphone.)
+
+- Your Password. (You can find this in the myCloudPBX Management Portal. If you are not sure, contact your Administrator).
+
+When finished click '**Login**'.
+
+
+<img src="/images/iphone_install_5.png" width="350" />
+
+When prompted, click '**OK**' to allow the app to access your Contacts.
+
+<img src="/images/iphone_install_6.png" width="350" />
+
+The myCloudPBX Softphone is now fully installed and ready for use.
 
 ## Guides
 
