@@ -224,8 +224,13 @@ To merge the calls together press <img style="width: 25px; height: auto;" src="/
 
 <img src="/images/iphone_conf_1.jpeg" width="350" />
 
-To un-merge the calls again, press <img style="width: 25px; height: auto;" src="/images/iphone_split_icon.png">
+The calls are now conferenced together.
 
+<img src="/images/iphone_conferenced.jpeg" width="350" />
+
+
+
+To un-merge the calls again, press <img style="width: 25px; height: auto;" src="/images/iphone_split_icon.png">
 
 ## OSX Guides
 
