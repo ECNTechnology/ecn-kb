@@ -45,5 +45,9 @@ Choose from the dropdown list the number you would like to use for each option.
 
 You can also elect to hide your caller ID by ticking the option.
 
+::: tip
+TIP: You can also click '**Enforce Prefix**' to make the use of a prefix a mandatory option when making any outbound call.
+:::
+
 Click '**_Save Changes_**' When finished.
 
