@@ -1,6 +1,6 @@
 <template>
   <footer id="custom-footer">
-    <div class="container-fluid">
+    <a class="container-fluid">
       <div class="row social-media-row">
         <div class="col">
           <div class="container">
@@ -20,10 +20,10 @@
           </div>
         </div>
       </div>
-      <div class="row footer-row">
-        <div class="col">
-          <div class="container">
-            <div class="row">
+      <a class="row footer-row">
+        <a class="col">
+          <a class="container">
+            <a class="row">
               <div class="col mobile-col-footer">
                 <h3 class="footer-title">Business Ready</h3>
                 <a href="https://www.ecn.net.au/BusinessReady/" target="_blank" class="footer-link"><p class="footer-text">Overview</p></a>
@@ -60,17 +60,17 @@
                 <a href="https://www.ecn.net.au/Support/" target="_blank" class="footer-link"><p class="footer-text">Support</p></a>
                 <a href="https://blog.ecn.net.au/" target="_blank" class="footer-link"><p class="footer-text">Blog</p></a>
               </div>
-              <div class="col mobile-col-footer">
+              <a class="col mobile-col-footer">
                 <h3 class="footer-title">Legal</h3>
                 <a href="https://www.ecn.net.au/Legal/" target="_blank" class="footer-link"><p class="footer-text">Legal</p></a>
                 <a href="https://www.ecn.net.au/Legal/CriticalInformation/" target="_blank" class="footer-link"><p class="footer-text">Critical Information Summaries</p></a>
                 <a href="https://www.ecn.net.au/Legal/Policies/" target="_blank" class="footer-link"><p class="footer-text">Policies</p></a>
                 <a href="https://www.ecn.net.au/Legal/ServicesContract/" target="_blank" class="footer-link"><p class="footer-text">Supply of Services Contract</p></a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+              </a>
+            </a>
+          </a>
+        </a>
+      </a>
       <div class="row copy-row">
         <div class="col">
           <div class="container">
