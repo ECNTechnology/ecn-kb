@@ -52,7 +52,7 @@
               </div>
               <div class="col mobile-col-footer">
                 <h3 class="footer-title">ECN</h3>
-                <a href="https://www.ecn.net.au/About/" target="_blank" class="footer-link"><p class="footer-text">About Us</p></a>
+                <a href="https://www.ecn.net.au/AboutUs/" target="_blank" class="footer-link"><p class="footer-text">About Us</p></a>
                 <a href="https://www.ecn.net.au/Contact/" target="_blank" class="footer-link"><p class="footer-text">Contact Us</p></a>
                 <a href="https://www.ecn.net.au/CheckEmail/" target="_blank" class="footer-link"><p class="footer-text">Check my Email</p></a>
                 <a href="https://my.ecn.net.au/paynow.aspx" target="_blank" class="footer-link"><p class="footer-text">Pay my Bill</p></a>
@@ -62,9 +62,10 @@
               </div>
               <div class="col mobile-col-footer">
                 <h3 class="footer-title">Legal</h3>
-                <a href="https://www.ecn.net.au/CriticalInformation/" target="_blank" class="footer-link"><p class="footer-text">Critical Information</p></a>
-                <a href="https://www.ecn.net.au/Policies/" target="_blank" class="footer-link"><p class="footer-text">Policies</p></a>
-                <a href="https://www.ecn.net.au/ServicesAgreement/" target="_blank" class="footer-link"><p class="footer-text">Services Agreement</p></a>
+                <a href="https://www.ecn.net.au/Legal/" target="_blank" class="footer-link"><p class="footer-text">Legal</p></a>
+                <a href="https://www.ecn.net.au/Legal/CriticalInformation/" target="_blank" class="footer-link"><p class="footer-text">Critical Information Summaries</p></a>
+                <a href="https://www.ecn.net.au/Legal/Policies/" target="_blank" class="footer-link"><p class="footer-text">Policies</p></a>
+                <a href="https://www.ecn.net.au/Legal/ServicesContract/" target="_blank" class="footer-link"><p class="footer-text">Supply of Services Contract</p></a>
               </div>
             </div>
           </div>
