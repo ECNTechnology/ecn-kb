@@ -6,10 +6,9 @@ date: 2019-05-13T01:37:22.245Z
 
 **DNS Servers**
 
-* **Server 1:** 203.22.70.2
-* **Server 2:** 203.22.70.7
+* **Server 1:** 202.3.111.123
+* **Server 2:** 202.3.111.124
 
 **Outbound Mail Server:** mail.ecn.net.au
-
 
 **Proxy Server:** proxy.ecn.net.au, **Port:** 80
