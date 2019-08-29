@@ -75,7 +75,7 @@ Use your address book, or enter the number you wish to transfer to and press <im
 
 <img src="/images/softphone_android_transfers_2.jpg" width="350" />
 
-The has now been blind transferred to the other person.
+The call has now been blind transferred to the other person.
 
 ### Attended Transfer a Call
 
@@ -227,8 +227,6 @@ To merge the calls together press <img style="width: 25px; height: auto;" src="/
 The calls are now conferenced together.
 
 <img src="/images/iphone_conferenced.jpeg" width="350" />
-
-
 
 To un-merge the calls again, press <img style="width: 25px; height: auto;" src="/images/iphone_split_icon.png">
 
