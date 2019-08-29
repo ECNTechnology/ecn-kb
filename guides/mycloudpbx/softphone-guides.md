@@ -63,6 +63,12 @@ Using the touchscreen enter the number you wish to dial and then press the green
 
 <img src="/images/Android_Softphone_MakingCall1.jpg" width="350" />
 
+### Accessing Voicemail
+
+To access Voicemail, press <img style="width: 25px; height: auto;" src="/images/iphone_voicemail_icon.png"> or dial **777**.
+
+Press the '**Keypad Icon**' to access the keypad, then enter your **PIN** when prompted.
+
 ### Blind Transfer a Call
 
 **Description:** When you '**Blind Transfer**' a call the call will immediately ring on the intended persons phone and will no longer be on yours.
