@@ -2,8 +2,6 @@
 title: Dialling Hours
 date: 2019-08-29T04:13:32.352Z
 ---
-![](/images/save_button.png)
-
 # Dialling Hours
 
 ## Description
