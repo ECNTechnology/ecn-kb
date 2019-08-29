@@ -16,7 +16,7 @@ From the '**Settings**' menu on the left hand side, click '**Preferences**'.
 
 From the '**Preferences**' menu choose '**Dialler Settings**'
 
-<img style="width: 750px; height: auto;" src="/images/diallier_hours.png">
+<img style="width: auto; height: auto;" src="/images/diallier_hours.png">
 
 Specify the times you would like your campaigns to dial. 
 
