@@ -103,6 +103,28 @@ Press <img style="width: 25px; height: auto;" src="/images/transfers_threedots.p
 
 The has now been transferred to the other person.
 
+### Conference Calls
+
+**Description:** The myCloudPBX Softphone allows you to merge two callers together into a 3-way conference call.
+
+While on an active call, press <img style="width: 25px; height: auto;" src="/images/iphone_plus_button.png">
+
+<img src="/images/android-conferencecall1.png" width="350" />
+
+Using the touchscreen enter the number you wish to dial and press <img style="width: 25px; height: auto;" src="/images/iphone_dial.png"> 
+
+<img src="/images/android-conferencecall2.png" width="350" />
+
+To merge the calls together press <img style="width: 25px; height: auto;" src="/images/iphone_merge_icon.png">
+
+<img src="/images/android-conferencecall3.png" width="350" />
+
+The calls are now conferenced together.
+
+<img src="/images/android-conferencecall4.png" width="350" />
+
+To un-merge the calls again, press <img style="width: 25px; height: auto;" src="/images/iphone_split_icon.png">
+
 ## iPhone / iPad Guides
 
 These guides will aim to demonstrate how to install and operate the MyCloudPBX Softphone on your IOS device.
