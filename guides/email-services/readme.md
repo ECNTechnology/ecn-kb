@@ -18,6 +18,7 @@ Note that you can click '**Register**' on the right hand side if you do not alre
 
 # Creating a New Email Address
 Once logged in, click '**my services**'.
+
 Expand '**Hosting & Emails**'
 
 Click '**Manage**'.
