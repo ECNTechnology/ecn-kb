@@ -17,37 +17,32 @@ Note that you can click '**Register**' on the right hand side if you do not alre
 ![login screen](/images/screen-shot-2019-04-15-at-2.49.17-pm.png)
 
 # Creating a New Email Address
+Once logged in, click '**my services**'.
+Expand '**Hosting & Emails**'
 
-Once logged in, click 'my services'.
+Click '**Manage**'.
 
-	Expand '**Hosting & Emails**'
+Click '**Email** **Passwords**'.
 
-	Click '**Manage**'.
+Create a password for an unused mailbox and remember the '**name**' of the mailbox. (This will be your '**mailboxID**'). 
 
-	Click '**Email** **Passwords**'.
+Click '**Save** **Password**'.
 
-	Create a password for an unused mailbox and remember the '**name**' of the mailbox. (This will be your '**mailboxID**'). 
+Click '**Return** **To** **Service**'.
 
-	Click '**Save** **Password**'.
+Click '**Email** **Addresses**'.
 
-	Click '**Return** **To** **Service**'.
+Click '**New** **Email** **Address**'.
 
-	Click '**Email** **Addresses**'.
+Enter the email address you wish to use (everything before the **@** sign).
 
-	Click '**New** **Email** **Address**'.
+Click '**Next**'.
 
-	Enter the email address you wish to use (everything before the **@** sign).
+Click '**Deliver**', then click '**Next**'.
 
-	Click '**Next**'.
+From the dropdown, select the mailbox you have just created in the prior step.
 
-	Click '**Deliver**', then click '**Next**'.
+Click '**Save**'.
 
-	From the dropdown, select the mailbox you have just created in the prior step.
-
-	Click '**Save**'.
-
-	Click '**Return** **to** **Addresses**'.
-
-
-
+Click '**Return** **to** **Addresses**'.
 Your email address has now been created.
