@@ -81,3 +81,12 @@ Once done, scroll to the bottom, and click '**_Save_**'.
 Your changes are now ready to '**_Apply_**' to your PBX.
 
 Click '**_Apply PBX Changes_**'.
+
+# Virtual FAX Troubleshooting
+
+## Disclaimer
+The Virtual Fax add-on is an advanced feature providing the facility to send and receive a fax electronically and have it sent/delivered by email to a nominated Email address. 
+
+The Virtual Fax feature is provided on an as-is basis without warranty or expectation of usability. As the Virtual Fax feature operates over a Voice Over IP network there may be certain circumstances where fax receive fails. 
+
+When this occurs there is no Ability for us to correct, recover or improve the facility. No notification of failure will be forwarded nor do we provide any logging or remedy for such Events. 
