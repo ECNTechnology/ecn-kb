@@ -148,11 +148,13 @@ The above failure receipt indicates that the outbound FAX failed after myCloudPB
 * The FAX number is unreachable and does not answer the call from myCloudPBX.
 * The receiving FAX machine is attempting to use a high speed transmission mode that is not compatible with myCloudPBX.
 * The receiving FAX machine is using Error Correction Mode (**ECM**). 
-  **TIPS:**
-* Confirm with the owner of the indended recipient that the number is correct.
+
+**TIPS:**
+
+* Confirm with the intended recipient that the number is correct.
 * Give the number a ring from a mobile and confirm that the number is actually a FAX machine. (In this example the number is not a real FAX number, which is why it failed).
 * If possible, have the receiving FAX machine set their transmission speed for both send & receive to **9600bps**.
-* If possoble, have the receiving FAX machine disable Error Correction Mode (**ECM**).
+* If possible, have the receiving FAX machine disable Error Correction Mode (**ECM**).
 
 **More about Error Correction Mode (ECM):**
 
