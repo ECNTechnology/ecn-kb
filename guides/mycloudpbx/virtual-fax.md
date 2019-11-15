@@ -3,7 +3,7 @@ title: Virtual FAX
 date: 2019-06-16T05:54:38.243Z
 ---
 ## **Configuring Virtual FAX**
-----
+
 There are three steps to configuring Virtual FAX.
 
 * Enabling the Virtual FAX Plugin
@@ -97,10 +97,11 @@ Anytime you send a FAX you will receive a receipt to indicate if the FAX was suc
 Each receipt will contain the reason for the failure.
 
 ### Invalid Number
-
+----
 The below failure receipt indicates that the email sent by the user did not contain a valid FAX number.
 
 **TIPS:**
+
 
 * The number must be 10 digits long.
 * The number can not contain any spaces or special characters.
@@ -108,6 +109,8 @@ The below failure receipt indicates that the email sent by the user did not cont
 <img style="width: auto; height: auto;" src="/images/failed_fax_invalidnumber.png">
 
 ### No PDF attached
+
+----
 
 The below failure receipt indicates that the email sent by the user did not contain a valid PDF attachment.
 
