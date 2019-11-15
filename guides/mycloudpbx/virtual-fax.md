@@ -128,9 +128,10 @@ The below failure receipt indicates that the email sent by the user did not cont
 The below failure receipt indicates that the outbound FAX failed after myCloudPBX attempted to send it 5 times.
 
 **Common causes of FAX failure:**
-* The receiving FAX is attempting to use a high speed transmission that is not compatible with myCloudPBX.
-* The receiving FAX number is unreachable and does not answer the call from myCloudPBX.
-* The receiving FAX is using Error Correction Mode (**ECM**). 
+* The FAX number is incorrect.
+* The FAX number is unreachable and does not answer the call from myCloudPBX.
+* The receiving FAX machine is attempting to use a high speed transmission mode that is not compatible with myCloudPBX.
+* The receiving FAX machine is using Error Correction Mode (**ECM**). 
 
 
  
@@ -139,13 +140,13 @@ The below failure receipt indicates that the outbound FAX failed after myCloudPB
 
 * Confirm with the owner of the indended recipient that the number is correct.
 * Give the number a ring from a mobile and confirm that the number is actually a FAX machine. (In this example the number is not a real FAX number, which is why it failed).
-* If possible, have the receiving FAX machine set their transmission speed for both send & receive to 9600bps.
-* If possoble, have the receiving FAX machine disable Error Correction Mode (**ECN**).
+* If possible, have the receiving FAX machine set their transmission speed for both send & receive to **9600bps**.
+* If possoble, have the receiving FAX machine disable Error Correction Mode (**ECM**).
 
 
 <img style="width: auto; height: auto;" src="/images/failed_fax_genericfail.png">
 
-**More about ECM:**
+**More about Error Correction Mode (ECM):**
 
 When there is noise or poor call quality on the FAX call, parts of the transmission may become corrupted or lost in transit.
 
