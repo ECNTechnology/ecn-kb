@@ -93,7 +93,7 @@ When this occurs there is no Ability for us to correct, recover or improve the f
 ##  **Failure Notices** 
 
 Anytime you send a FAX you will receive a receipt to indicate if the FAX was successful or not.
-Each receipt will contain the reason for the failure.
+Each receipt will contain the reason for the failure as well as the message header of the sent FAX.
 
 ### Invalid Number
 
