@@ -128,14 +128,30 @@ The below failure receipt indicates that the email sent by the user did not cont
 The below failure receipt indicates that the outbound FAX failed after myCloudPBX attempted to send it 5 times.
 
 **Common causes of FAX failure:**
-* The remote FAX is attempting to use a high speed transmission that is not compatible with myCloudPBX.
-* The remote FAX number is unreachable and does not answer the call from myCloudPBX.
-* The remote FAX is using Error Correction Mode (**ECM**). ECM will analyze all data received and attempt
+* The receiving FAX is attempting to use a high speed transmission that is not compatible with myCloudPBX.
+* The receiving FAX number is unreachable and does not answer the call from myCloudPBX.
+* The receiving FAX is using Error Correction Mode (**ECM**). 
+
+
  
 
  **TIPS:**
 
 * Confirm with the owner of the indended recipient that the number is correct.
 * Give the number a ring from a mobile and confirm that the number is actually a FAX machine. (In this example the number is not a real FAX number, which is why it failed).
+* If possible, have the receiving FAX machine set their transmission speed for both send & receive to 9600bps.
+* If possoble, have the receiving FAX machine disable Error Correction Mode (**ECN**).
+
 
 <img style="width: auto; height: auto;" src="/images/failed_fax_genericfail.png">
+
+**More about ECM:**
+
+When there is noise or poor call quality on the FAX call, parts of the transmission may become corrupted or lost in transit.
+
+ECM looks at the data received and will request a re-transmission of the corrupted data until it receives an error free copy of the data. 
+
+When a line is particularly bad, these retransmissions can drastically increase the length of the call, and in the worst case can lead to a failure with a _Communication Error_ being reported by receiving FAX machine.
+
+By disabling ECM, we can increase the chances of the receiving FAX machine accepting the transmission even if some of the data is not perfect due to the interference.
+
