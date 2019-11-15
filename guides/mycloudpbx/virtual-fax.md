@@ -3,7 +3,7 @@ title: Virtual FAX
 date: 2019-06-16T05:54:38.243Z
 ---
 ## **Configuring Virtual FAX**
-----
+
 There are three steps to configuring Virtual FAX.
 
 * Enabling the Virtual FAX Plugin
@@ -91,16 +91,17 @@ The Virtual Fax feature is provided on an as-is basis without warranty or expect
 
 When this occurs there is no Ability for us to correct, recover or improve the facility. No notification of failure will be forwarded nor do we provide any logging or remedy for such Events. 
 
-** Failure Notices**
-
+** Failure Notices **
+----
 Anytime you send a FAX you will receive a receipt to indicate if the FAX was successful or not.
 Each receipt will contain the reason for the failure.
 
 ### Invalid Number
-
+----
 The below failure receipt indicates that the email sent by the user did not contain a valid FAX number.
 
 **TIPS:**
+
 
 * The number must be 10 digits long.
 * The number can not contain any spaces or special characters.
@@ -109,10 +110,24 @@ The below failure receipt indicates that the email sent by the user did not cont
 
 ### No PDF attached
 
+----
+
 The below failure receipt indicates that the email sent by the user did not contain a valid PDF attachment.
 
 ** TIPS:**
 * Ensure that the email contains a valid PDF attachment.
 
 <img style="width: auto; height: auto;" src="/images/failed_fax_nopdf.png">
+
+### FAX transmission failed
+----
+The below failure receipt indicates that the outbound FAX failed.
+The receipt tells us that myCloudPBX FAX attempted to send the FAX 5 times before it failed.
+
+** TIPS:**
+* Confirm with the owner of the indended recipient that the number is correct.
+* Give the number a ring from a mobile and confirm that the number is actually a FAX machine. (In this example the number is not a real FAX number, which is why it failed).
+
+
+<img style="width: auto; height: auto;" src="/images/failed_fax_genericfail.png">
 
