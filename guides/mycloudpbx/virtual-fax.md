@@ -95,37 +95,41 @@ When this occurs there is no Ability for us to correct, recover or improve the f
 Anytime you send a FAX you will receive a receipt to indicate if the FAX was successful or not.
 Each receipt will contain the reason for the failure as well as the message header of the sent FAX.
 
-### Invalid Number
+### FAX Sending Rejected - Invalid Number
 
 - - -
 
-The below failure receipt indicates that the email sent by the user did not contain a valid FAX number.
+<img style="width: auto; height: auto;" src="/images/failed_fax_invalidnumber.png">
+
+The above failure receipt indicates that the email sent by the user did not contain a valid FAX number.
 
 **TIPS:**
 
 * The number must be 10 digits long.
 * The number can not contain any spaces or special characters.
 
-<img style="width: auto; height: auto;" src="/images/failed_fax_invalidnumber.png">
 
-### No PDF attached
+### FAX Sending Rejected - No PDF attached
 
 - - -
 
-The below failure receipt indicates that the email sent by the user did not contain a valid PDF attachment.
+<img style="width: auto; height: auto;" src="/images/failed_fax_nopdf.png">
+
+The above failure receipt indicates that the email sent by the user did not contain a valid PDF attachment.
 
  **TIPS:**
 
 * Ensure that the email contains a valid PDF attachment.
 * Try sending the email from a different email client.
 
-<img style="width: auto; height: auto;" src="/images/failed_fax_nopdf.png">
 
-### FAX transmission failed
+### FAX Transmission Failed
 
 - - -
 
-The below failure receipt indicates that the outbound FAX failed after myCloudPBX attempted to send it 5 times.
+<img style="width: auto; height: auto;" src="/images/failed_fax_genericfail.png">
+
+The above failure receipt indicates that the outbound FAX failed after myCloudPBX attempted to send it 5 times.
 
 **Common causes of FAX failure:**
 * The FAX number is incorrect.
@@ -144,7 +148,6 @@ The below failure receipt indicates that the outbound FAX failed after myCloudPB
 * If possoble, have the receiving FAX machine disable Error Correction Mode (**ECM**).
 
 
-<img style="width: auto; height: auto;" src="/images/failed_fax_genericfail.png">
 
 **More about Error Correction Mode (ECM):**
 
@@ -155,4 +158,3 @@ ECM looks at the data received and will request a re-transmission of the corrupt
 When a line is particularly bad, these retransmissions can drastically increase the length of the call, and in the worst case can lead to a failure with a _Communication Error_ being reported by receiving FAX machine.
 
 By disabling ECM, we can increase the chances of the receiving FAX machine accepting the transmission even if some of the data is not perfect due to the interference.
-
