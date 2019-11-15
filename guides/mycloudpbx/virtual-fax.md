@@ -122,6 +122,19 @@ The above failure receipt indicates that the email sent by the user did not cont
 * Ensure that the email contains a valid PDF attachment.
 * Try sending the email from a different email client.
 
+### FAX Sending Rejected - Invalid User
+
+----
+
+
+<img style="width: auto; height: auto;" src="/images/failed_fax_invaliduser.png">
+
+The above failure receipt indicates that the sending email address has not been authorised to send faxes.
+
+**TIPS:**
+
+* If you are an administrator, [click here ](https://kb.ecn.net.au/guides/mycloudpbx/virtual-fax.html#configure-allowed-senders) to learn how to add Virtual FAX Senders.
+* Contact your administrator to arrange access.
 
 ### FAX Transmission Failed
 
