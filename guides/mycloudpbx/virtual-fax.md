@@ -119,3 +119,15 @@ The below failure receipt indicates that the email sent by the user did not cont
 
 <img style="width: auto; height: auto;" src="/images/failed_fax_nopdf.png">
 
+### FAX transmission failed
+----
+The below failure receipt indicates that the outbound FAX failed.
+The receipt tells us that myCloudPBX FAX attempted to send the FAX 5 times before it failed.
+
+** TIPS:**
+* Confirm with the owner of the indended recipient that the number is correct.
+* Give the number a ring from a mobile and confirm that the number is actually a FAX machine. (In this example the number is not a real FAX number, which is why it failed).
+
+
+<img style="width: auto; height: auto;" src="/images/failed_fax_genericfail.png">
+
