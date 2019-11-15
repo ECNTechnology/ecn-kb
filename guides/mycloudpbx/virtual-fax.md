@@ -126,8 +126,7 @@ The above failure receipt indicates that the email sent by the user did not cont
 
 ----
 
-<img style="width: auto; height: auto;" src="/images/failed_fax_nopdf.png">
-<!-- <img style="width: auto; height: auto;" src="/images/failed_fax_user1.png"> -->
+<img style="width: auto; height: auto;" src="/images/failed_fax_user.jpg">
 
 
 The above failure receipt indicates that the sending email address has not been authorised to send faxes.
