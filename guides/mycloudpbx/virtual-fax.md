@@ -124,7 +124,7 @@ The above failure receipt indicates that the email sent by the user did not cont
 
 ### Sending Rejected - Invalid User
 
-----
+- - -
 
 <img style="width: auto; height: auto;" src="/images/failed__fax__user.jpg">
 
