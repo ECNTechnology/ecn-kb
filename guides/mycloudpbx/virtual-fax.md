@@ -95,7 +95,7 @@ When this occurs there is no Ability for us to correct, recover or improve the f
 Anytime you send a FAX you will receive a receipt to indicate if the FAX was successful or not.
 Each receipt will contain the reason for the failure as well as the message header of the sent FAX.
 
-### FAX Sending Rejected - Invalid Number
+### Sending Rejected - Invalid Number
 
 - - -
 
@@ -109,7 +109,7 @@ The above failure receipt indicates that the email sent by the user did not cont
 * The number can not contain any spaces or special characters.
 
 
-### FAX Sending Rejected - No PDF attached
+### Sending Rejected - No PDF attached
 
 - - -
 
@@ -122,12 +122,12 @@ The above failure receipt indicates that the email sent by the user did not cont
 * Ensure that the email contains a valid PDF attachment.
 * Try sending the email from a different email client.
 
-### FAX Sending Rejected - Invalid User
+### Sending Rejected - Invalid User
 
 ----
 
 
-<img style="width: auto; height: auto;" src="/images/failed_fax_invaliduser.png">
+<img style="width: auto; height: auto;" src="/images/failed_fax_user.png">
 
 The above failure receipt indicates that the sending email address has not been authorised to send faxes.
 
@@ -136,7 +136,7 @@ The above failure receipt indicates that the sending email address has not been 
 * If you are an administrator, [click here ](https://kb.ecn.net.au/guides/mycloudpbx/virtual-fax.html#configure-allowed-senders) to learn how to add Virtual FAX Senders.
 * Contact your administrator to arrange access.
 
-### FAX Transmission Failed
+### Transmission Failed
 
 - - -
 
