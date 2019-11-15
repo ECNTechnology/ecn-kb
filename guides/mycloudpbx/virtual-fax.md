@@ -127,6 +127,12 @@ The below failure receipt indicates that the email sent by the user did not cont
 
 The below failure receipt indicates that the outbound FAX failed after myCloudPBX attempted to send it 5 times.
 
+**Common causes of FAX failure:**
+* The remote FAX is attempting to use a high speed transmission that is not compatible with myCloudPBX.
+* The remote FAX number is unreachable and does not answer the call from myCloudPBX.
+* The remote FAX is using Error Correction Mode (**ECM**). ECM will analyze all data received and attempt
+ 
+
  **TIPS:**
 
 * Confirm with the owner of the indended recipient that the number is correct.
