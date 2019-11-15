@@ -2,7 +2,7 @@
 title: Virtual FAX
 date: 2019-06-16T05:54:38.243Z
 ---
-# **Virtual FAX**
+## **Configuring Virtual FAX**
 ----
 There are three steps to configuring Virtual FAX.
 
@@ -10,7 +10,7 @@ There are three steps to configuring Virtual FAX.
 * Enabling outbound Virtual senders.
 * Configuring a number for inbound Virtual FAX.
 
-## Enable Virtual FAX
+### Enable Virtual FAX
 
 
 Virtual FAX allows you to have a FAX number with all the convenience of email without needing a traditional FAX machine.
@@ -35,7 +35,7 @@ Your changes are now ready to '**_Apply_**' to your PBX.
 
 Click '**_Apply PBX Changes_**'.
 
-## Configure Allowed Senders
+### Configure Allowed Senders
 
 
 In order to **_send_** virtual FAX, your email address must be added to the '**_allowed senders_**' list.
@@ -52,7 +52,7 @@ On this page you can click '_**Add Virtual FAX Sender**_' and also see a list of
 
 Click '_**Return to Service**_' when finished.
 
-## Virtual FAX Inbound Route
+### Virtual FAX Inbound Route
 
 To enable inbound virtual FAX you will need to click on '_**Call Routing**_' from the PBX Homepage.
 
@@ -82,11 +82,18 @@ Your changes are now ready to '**_Apply_**' to your PBX.
 
 Click '**_Apply PBX Changes_**'.
 
-# Virtual FAX Troubleshooting
+## Virtual FAX Troubleshooting
 
-## Disclaimer
+### Disclaimer
 The Virtual Fax add-on is an advanced feature providing the facility to send and receive a fax electronically and have it sent/delivered by email to a nominated Email address. 
 
 The Virtual Fax feature is provided on an as-is basis without warranty or expectation of usability. As the Virtual Fax feature operates over a Voice Over IP network there may be certain circumstances where fax receive fails. 
 
 When this occurs there is no Ability for us to correct, recover or improve the facility. No notification of failure will be forwarded nor do we provide any logging or remedy for such Events. 
+
+### 
+
+
+
+
+
