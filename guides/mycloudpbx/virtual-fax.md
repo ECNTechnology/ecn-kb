@@ -120,6 +120,7 @@ The above failure receipt indicates that the email sent by the user did not cont
 
 * Ensure that the email contains a valid PDF attachment.
 * Try sending the email from a different email client.
+* The PDF filename can not contain any spaces or special characters.
 
 ### Sending Rejected - Invalid User
 
