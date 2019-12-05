@@ -30,7 +30,7 @@ The Dashboard drills down into user performance and call reports, giving valuabl
 
 ![](/images/dashboard_widgets.png)
 
-### Build your Dashboard
+### Create a new Dashboard
 
 From the left hand menu, click the <img style="width: 25px; height: auto;" src="/images/dashboard_homeicon.png"> '**Home**' button.
 
@@ -42,5 +42,7 @@ On the top right hand corner click the '**Action**' button, then click '**Add**'
 
 Name your new Dashboard and click the <img style="width: 50px; height: auto;" src="/images/dashboard_submitbutton.png"> button.
 
-#### Adding Widgets to the Dashboard
+### Adding Widgets
+
+
 
