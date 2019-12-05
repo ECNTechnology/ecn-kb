@@ -122,3 +122,21 @@ Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_ca
 
 ![](/images/dashboard_export_call_records.png)
 
+### Account Code
+
+#### Background information about Account Codes
+
+Account codes are used to attribute calls to either a user or group of users. 
+Alternatively, account codes can be used to attribute calls made to your customers. 
+
+When a call is made, you can enter the account code as part of the phone number. 
+The code will show up in the CDR (Call Detail Recording) with call length, number dialled etc. 
+The CDR record is written when you terminate the call.
+
+This functionality would typically be used by anyone who bills specifically for their time, eg: lawyers.
+
+The '**Account Code**' report takes each call with account codes  and assigns them a dollar value.
+
+
+
+![](/images/dashboard_account_code.png)
