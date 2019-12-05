@@ -151,3 +151,9 @@ Click <img style="width: 100px; height: auto;" src="/images/dashboard_savebutton
 * Choose from Excel or PDF format, then download either the '**Summary**' or '**Detailed**' report.
 
 ![](/images/dashboard_account_code.png)
+
+### Call Recordings
+
+Play or download recorded calls. Calls can be searched by the calling number (origin), or the called number (target).
+
+![](/images/dashboard_callrecordings.png)
