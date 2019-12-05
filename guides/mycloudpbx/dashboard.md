@@ -40,4 +40,4 @@ On the top right hand corner click the '**Action**' button, then click '**Add**'
 
 ![](/images/dashboard_addnew.png)
 
-Name your new dashboard and click the <img style="width: 25px; height: auto;" src="/images/dashboard_submitbutton.png"> button.
+Name your new dashboard and click <img style="width: 50px; height: auto;" src="/images/dashboard_submitbutton.png">.
