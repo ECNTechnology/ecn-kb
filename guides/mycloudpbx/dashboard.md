@@ -139,6 +139,17 @@ This functionality would typically be used by anyone who bills specifically for 
 
 The '**Account Code**' report takes each call with account codes  and assigns them a dollar value.
 
-* Specify 
+* Specify the start & end date ranges.
+* Assign the following values to each of the call types:
+  * **Unit:** Choose from 1 second, 30 seconds, or 1 minute increments.
+  * **Cost:** Enter the cost (per unit) in cents.
+  * **Minimum:** Enter the minimum call cost, in cents.
+  * **Flagfall:** Enter the flagfall rate here. (This is the cost that is applied once the call is connected.
+
+Click <img style="width: 100px; height: auto;" src="/images/dashboard_savebutton.png"> to save your settings.
+
+
+
+
 
 ![](/images/dashboard_account_code.png)
