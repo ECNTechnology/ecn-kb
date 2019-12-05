@@ -74,3 +74,11 @@ Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_ca
 ### Abandoned Calls
 
 The '**Abandoned Calls**' report displays the total number of inbound calls where no user spoke to the caller and it did not go to Voicemail.
+
+* Select any time period with a maximum of 7 days between them.
+* Tick the checkbox if you wish to include calls that went to voicemail.
+
+Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_calls_csv.png"> to download a copy in CSV format.
+
+
+![](/images/dashboard_abandoned_calls.png)
