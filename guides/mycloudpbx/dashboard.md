@@ -171,3 +171,22 @@ Once the data has loaded, you will be able to see the following information abou
 * **Play:** Click here to play the recording.
 
 ![](/images/dashboard_callrecordings.png)
+
+## User Reports
+
+### Active Users
+
+The '**Active Users**' report shows the total time users spent on calls. 
+Reports are filtered by the direction of the call, the office, and time period selected.
+
+* Select any time period with a maximum of 7 days between them.
+* Select your '**Call Direction**':
+    - All
+    - Internal (This will only display calls made internally.
+    - Inbound (This will only display **_inbound calls_**. (calls that you answered).
+    - Outbound (This will only display **_outbound calls_** (calls that you made).  
+
+::: TIP
+ **TIP:** You can also choose between a **bar graph** and a **pie chart**.
+:::
+![](/images/dashboard_active_users.png)
