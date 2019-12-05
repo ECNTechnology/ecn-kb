@@ -148,8 +148,6 @@ The '**Account Code**' report takes each call with account codes  and assigns th
 
 Click <img style="width: 100px; height: auto;" src="/images/dashboard_savebutton.png"> to save your settings.
 
-
-
-
+* Choose from Excel or PDF format, then download either the '**Summary**' or '**Detailed**' report.
 
 ![](/images/dashboard_account_code.png)
