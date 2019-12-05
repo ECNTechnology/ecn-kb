@@ -181,10 +181,12 @@ Reports are filtered by the direction of the call, the office, and time period s
 
 * Select any time period with a maximum of 7 days between them.
 * Select your '**Call Direction**':
-    - All
-    - Internal (This will only display calls made internally.
-    - Inbound (This will only display **_inbound calls_**. (calls that you answered).
-    - Outbound (This will only display **_outbound calls_** (calls that you made).  
+  * All
+  * Internal (This will only display calls made internally.
+  * Inbound (This will only display _**inbound calls**_. (calls that you answered).
+  * Outbound (This will only display _**outbound calls**_ (calls that you made).  
+* Select the '**office**', or simply select '_all offices_'.
+* Click the '**Feedback**' button to provide feedback or feature requests.
 
 ::: tip
 
@@ -192,3 +194,26 @@ Reports are filtered by the direction of the call, the office, and time period s
 
 :::
 ![](/images/dashboard_active_users.png)
+
+![](/images/dashboard_active_users_pie.png)
+
+### Total Call Count
+
+The '**Total Call Count**' report shows the total number of calls each user made or received, filtered by the office and time period selected.
+
+* Select any time period with a maximum of 7 days between them.
+* Select your '**Call Direction**':
+  * All
+  * Internal (This will only display calls made internally.
+  * Inbound (This will only display _**inbound calls**_. (calls that you answered).
+  * Outbound (This will only display _**outbound calls**_ (calls that you made).  
+* Select the '**office**', or simply select '_all offices_'.
+* Click the '**Feedback**' button to provide feedback or feature requests.
+
+::: tip
+
+ **TIP:** You can also choose between a **bar graph** and a **pie chart**.
+
+:::
+
+![](/images/dashboard_total_call_count.png)
