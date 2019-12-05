@@ -67,6 +67,10 @@ The '**Inbound Calls**' report shows the total number of incoming calls received
 * Select any time period with a maximum of 7 days between them.
 * Choose any phone number, or all phone numbers.
 
-Click <img style="width: 50px; height: auto;" src="/images/dashboard_inbound_calls_csv.png"> to download a copy in CSV format.
+Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_calls_csv.png"> to download a copy in CSV format.
 
 ![](/images/dashboard_inbound_calls.png)
+
+### Abandoned Calls
+
+The '**Abandoned Calls**' report displays the total number of inbound calls where no user spoke to the caller and it did not go to Voicemail.
