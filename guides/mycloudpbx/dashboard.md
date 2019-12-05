@@ -183,9 +183,10 @@ Reports are filtered by the direction of the call, the office, and time period s
 * Select your '**Call Direction**':
   * All
   * Internal (This will only display calls made internally.
-  * Inbound (This will only display _**inbound calls**_. (calls that you answered).
-  * Outbound (This will only display _**outbound calls**_ (calls that you made).  
+  * Inbound (This will only display **_inbound calls_**. (calls that you answered).
+  * Outbound (This will only display **_outbound calls_** (calls that you made).  
 * Select the '**office**', or simply select '_all offices_'.
+* Click the '**Feedback**' button to provide feedback or feature requests.
 
 ::: tip
 
@@ -202,9 +203,10 @@ The '**Total Call Count**' report shows the total number of calls each user made
 * Select your '**Call Direction**':
   * All
   * Internal (This will only display calls made internally.
-  * Inbound (This will only display _**inbound calls**_. (calls that you answered).
-  * Outbound (This will only display _**outbound calls**_ (calls that you made).  
+  * Inbound (This will only display **_inbound calls_**. (calls that you answered).
+  * Outbound (This will only display **_outbound calls_** (calls that you made).  
 * Select the '**office**', or simply select '_all offices_'.
+* Click the '**Feedback**' button to provide feedback or feature requests.
 
 ::: tip
 
