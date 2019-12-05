@@ -20,7 +20,7 @@ Drill down into user performance and call reports for valuable insight into reso
 
 Let us know!
 
-Simply click the feedback bubble and send us your valued feedback. This will assist us in making improvements to the dashboard and reporting.
+Simply click the feedback bubble and send us your valued feedback. This will assist us in making improvements to the Dashboard and reporting.
 
 ![](/images/feedback.gif)
 
@@ -30,7 +30,7 @@ The Dashboard drills down into user performance and call reports, giving valuabl
 
 ![](/images/dashboard_widgets.png)
 
-### Build your Dashboard
+### Create a new Dashboard
 
 From the left hand menu, click the <img style="width: 25px; height: auto;" src="/images/dashboard_homeicon.png"> '**Home**' button.
 
@@ -40,4 +40,9 @@ On the top right hand corner click the '**Action**' button, then click '**Add**'
 
 ![](/images/dashboard_addnew.png)
 
-Name your new dashboard and click <img style="width: 50px; height: auto;" src="/images/dashboard_submitbutton.png">.
+Name your new Dashboard and click the <img style="width: 50px; height: auto;" src="/images/dashboard_submitbutton.png"> button.
+
+### Adding Widgets
+
+
+
