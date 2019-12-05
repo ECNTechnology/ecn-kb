@@ -154,6 +154,20 @@ Click <img style="width: 100px; height: auto;" src="/images/dashboard_savebutton
 
 ### Call Recordings
 
-Play or download recorded calls. Calls can be searched by the calling number (origin), or the called number (target).
+The '**Call Recordings**' page allows you to play or download recorded calls. Calls can be searched by the calling number (origin), or the called number (target).
+
+* Select the start & end dates.
+* Enter a number to search (if required)
+
+Click <img style="width: 50px; height: auto;" src="/images/dashboard_callrecordings_getcalls.png"> 
+
+Once the data has loaded, you will be able to see the following information about each call:
+
+* **Origin:** This is the source number.
+* **Target:** This is the destination number.
+* **Duration (sec):** Duration of the call, measured in seconds.
+* **Call Date:** Date / Timestamp of the call.
+* **Download:** Click here to download a copy of the call recording.
+* **Play:** Click here to play the recording.
 
 ![](/images/dashboard_callrecordings.png)
