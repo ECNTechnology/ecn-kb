@@ -186,7 +186,9 @@ Reports are filtered by the direction of the call, the office, and time period s
     - Inbound (This will only display **_inbound calls_**. (calls that you answered).
     - Outbound (This will only display **_outbound calls_** (calls that you made).  
 
-::: TIP
+::: tip
+
  **TIP:** You can also choose between a **bar graph** and a **pie chart**.
+
 :::
 ![](/images/dashboard_active_users.png)
