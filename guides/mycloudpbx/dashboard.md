@@ -183,16 +183,17 @@ Reports are filtered by the direction of the call, the office, and time period s
 * Select your '**Call Direction**':
   * All
   * Internal (This will only display calls made internally.
-  * Inbound (This will only display _**inbound calls**_. (calls that you answered).
-  * Outbound (This will only display _**outbound calls**_ (calls that you made).  
+  * Inbound (This will only display **_inbound calls_**. (calls that you answered).
+  * Outbound (This will only display **_outbound calls_** (calls that you made).  
 * Select the '**office**', or simply select '_all offices_'.
 * Click the '**Feedback**' button to provide feedback or feature requests.
 
 ::: tip
 
- **TIP:** You can also choose between a **bar graph** and a **pie chart**.
+ **TIP:** You can also choose between a **bar graph** and a **pie chart** by clicking the button in the top right hand corner of the graph.
 
 :::
+
 ![](/images/dashboard_active_users.png)
 
 ![](/images/dashboard_active_users_pie.png)
@@ -205,15 +206,32 @@ The '**Total Call Count**' report shows the total number of calls each user made
 * Select your '**Call Direction**':
   * All
   * Internal (This will only display calls made internally.
-  * Inbound (This will only display _**inbound calls**_. (calls that you answered).
-  * Outbound (This will only display _**outbound calls**_ (calls that you made).  
+  * Inbound (This will only display **_inbound calls_**. (calls that you answered).
+  * Outbound (This will only display **_outbound calls_** (calls that you made).  
+* Select the '**office**', or simply select '_all offices_'.
+* Click the '**Feedback**' button to provide feedback or feature requests.
+
+![](/images/dashboard_total_call_count.png)
+
+### Average Call Duration
+
+The '**Average Call Duration**' report displays the average time each user spent on a call. Reports are filtered by the direction of the call, the office, and the time period selected.
+
+* Select any time period with a maximum of 7 days between them.
+* Select your '**Call Direction**':
+  * All
+  * Internal (This will only display calls made internally.
+  * Inbound (This will only display **_inbound calls_**. (calls that you answered).
+  * Outbound (This will only display **_outbound calls_** (calls that you made).  
 * Select the '**office**', or simply select '_all offices_'.
 * Click the '**Feedback**' button to provide feedback or feature requests.
 
 ::: tip
 
- **TIP:** You can also choose between a **bar graph** and a **pie chart**.
+ **TIP:** You can also choose between a **bar graph** and a **pie chart** by clicking the button in the top right hand corner of the graph.
 
 :::
 
-![](/images/dashboard_total_call_count.png)
+![](/images/dashboard_average_call_duration.png)
+
+![](/images/dashboard_average_call_duration_pie.png)
