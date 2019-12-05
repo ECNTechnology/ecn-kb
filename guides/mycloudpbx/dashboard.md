@@ -47,3 +47,26 @@ To add widgets to the Dashboard, click the <img style="width: 50px; height: auto
 ![](/images/dashboard_widgetlist.png)
 
 When you select a widget, you may be asked to choose some additional settings. Do so, then click the <img style="width: 50px; height: auto;" src="/images/dashboard_submitbutton.png"> button.
+
+### Unique URL for Wallboards
+
+You can also generate a unique URL for each specific Dashboard, allowing you to keep a close eye on your statistics.
+
+![](/images/dashboard_uniqueurl.png)
+
+On the top right hand corner click the '**Action**' button, then click '**unique URL**'.
+
+Copy the URL that is provided and open it on any web browser.
+
+## Call Reports
+
+### Inbound Calls
+
+The '**Inbound Calls**' report shows the total number of incoming calls received by the phone system, filtered by the phone number & time period selected.
+
+* Select any time period with a maximum of 7 days between them.
+* Choose any phone number, or all phone numbers.
+
+Click <img style="width: 50px; height: auto;" src="/images/dashboard_inbound_calls_csv.png"> to download a copy in CSV format.
+
+![](/images/dashboard_inbound_calls.png)
