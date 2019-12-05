@@ -98,3 +98,15 @@ Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_ca
 ![](/images/dashboard_outbound_calls.png)
 
 ### Time to Answer
+
+The '**Time to Answer**' report displays the average time taken for a call to be answered by a user.
+
+* Select any time period with a maximum of 7 days between them.
+* Choose a phone number / numbers from the drop down menu.
+
+Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_calls_csv.png"> to download a copy in CSV format.
+
+### Export Call Records
+
+
+
