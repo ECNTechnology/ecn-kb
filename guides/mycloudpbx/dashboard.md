@@ -135,8 +135,10 @@ The CDR record is written when you terminate the call.
 
 This functionality would typically be used by anyone who bills specifically for their time, eg: lawyers.
 
+#### Usage
+
 The '**Account Code**' report takes each call with account codes  and assigns them a dollar value.
 
-
+* Specify 
 
 ![](/images/dashboard_account_code.png)
