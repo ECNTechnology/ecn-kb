@@ -3,7 +3,8 @@ title: Accessing the Management Portals
 date: 2019-04-11T05:32:12.066Z
 ---
 # **myCloudPBX Management Portals**
-----
+
+- - -
 
 Use the myCloudPBX Management Portal to setup your individual emails, set passwords, configure email forwarding & auto-replies.
 
@@ -20,18 +21,21 @@ Note that you can click '**Register**' on the right hand side if you do not alre
 Once logged in, you'll see a selection of options based on your users permissions.
 
 ::: tip TIP!
-Click '_**My Account**_' to modify your account information.
+Click '**_My Account_**' to modify your account information.
 :::
 
-Click '_**My Services**_' to view your services.
+Click '**_My Services_**' to view your services.
 
 <img style="width: 1100px; height: auto;" src="/images/pbx-logging-in-2.png">
 
-Expand the '_**Voice**_' list and select the PBX you wish to manage.
-
+Expand the '**_Voice_**' list and select the PBX you wish to manage.
 
 ## myCloudPBX Dashboard
 
 The Hosted PBX Dashboard can be used by management to easily view statistics and pull reports on the PBX.
 <https://dashboard.ecn.net.au>
+
+For more information on how to use the dashboard, click  [**here**](https://kb.ecn.net.au/guides/mycloudpbx/dashboard.html).
+
+
 
