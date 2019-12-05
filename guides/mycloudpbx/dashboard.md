@@ -2,8 +2,6 @@
 title: Dashboard
 date: 2019-12-05T06:25:00.676Z
 ---
-
-
 # myCloudPBX Dashboard
 
 ## What's on your myCloudPBX Dashboard?
@@ -44,5 +42,8 @@ Name your new Dashboard and click the <img style="width: 50px; height: auto;" sr
 
 ### Adding Widgets
 
+To add widgets to the Dashboard, click the <img style="width: 50px; height: auto;" src="/images/dashboard_plusbutton.png"> button.
 
+![](/images/dashboard_widgetlist.png)
 
+When you select a widget, you may be asked to choose some additional settings. Do so, then click the <img style="width: 50px; height: auto;" src="/images/dashboard_submitbutton.png"> button.
