@@ -95,7 +95,6 @@ Report results can be filtered by simply clicking on the Call Type labels in the
 * Hover over the bar graph to see the exact number of calls.
 * Click the '**Feedback**' button to provide feedback or feature requests.
 
-
 Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_calls_csv.png"> to download a copy in CSV format.
 
 ![](/images/dashboard_outbound_calls.png)
@@ -112,5 +111,32 @@ Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_ca
 
 ### Export Call Records
 
+The '**Export Call Records**' (CDR) page provides a record of all calls that have been made or received by myCloudPBX.
+
+* Select a start & end date.
+* Select a phone number, or All phone numbers.
+
+Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_calls_csv.png"> to download a copy in CSV format.
+
+* Click the '**Feedback**' button to provide feedback or feature requests.
+
+![](/images/dashboard_export_call_records.png)
+
+### Account Code
+
+#### Background information about Account Codes
+
+Account codes are used to attribute calls to either a user or group of users. 
+Alternatively, account codes can be used to attribute calls made to your customers. 
+
+When a call is made, you can enter the account code as part of the phone number. 
+The code will show up in the CDR (Call Detail Recording) with call length, number dialled etc. 
+The CDR record is written when you terminate the call.
+
+This functionality would typically be used by anyone who bills specifically for their time, eg: lawyers.
+
+The '**Account Code**' report takes each call with account codes  and assigns them a dollar value.
 
 
+
+![](/images/dashboard_account_code.png)
