@@ -80,5 +80,21 @@ The '**Abandoned Calls**' report displays the total number of inbound calls wher
 
 Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_calls_csv.png"> to download a copy in CSV format.
 
-
 ![](/images/dashboard_abandoned_calls.png)
+
+### Outbound Calls
+
+The '**Outbound Calls**' report displays the total number of outgoing calls - categorised into Local, National, Mobile, International, and 13/Misc calls. 
+
+Report results can be filtered by simply clicking on the Call Type labels in the legend.
+
+* Select any time period with a maximum of 7 days between them.
+* Report can be filtered by clicking on the labels in the legend on the right hand side.
+* Hover over the bar graph to see the exact number of calls.
+
+
+Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_calls_csv.png"> to download a copy in CSV format.
+
+![](/images/dashboard_outbound_calls.png)
+
+### Time to Answer
