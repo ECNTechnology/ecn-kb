@@ -66,6 +66,7 @@ The '**Inbound Calls**' report shows the total number of incoming calls received
 
 * Select any time period with a maximum of 7 days between them.
 * Choose any phone number, or all phone numbers.
+* Click the '**Feedback**' button to provide feedback or feature requests.
 
 Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_calls_csv.png"> to download a copy in CSV format.
 
@@ -77,6 +78,7 @@ The '**Abandoned Calls**' report displays the total number of inbound calls wher
 
 * Select any time period with a maximum of 7 days between them.
 * Tick the checkbox if you wish to include calls that went to voicemail.
+* Click the '**Feedback**' button to provide feedback or feature requests.
 
 Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_calls_csv.png"> to download a copy in CSV format.
 
@@ -91,6 +93,7 @@ Report results can be filtered by simply clicking on the Call Type labels in the
 * Select any time period with a maximum of 7 days between them.
 * Report can be filtered by clicking on the labels in the legend on the right hand side.
 * Hover over the bar graph to see the exact number of calls.
+* Click the '**Feedback**' button to provide feedback or feature requests.
 
 
 Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_calls_csv.png"> to download a copy in CSV format.
@@ -98,3 +101,16 @@ Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_ca
 ![](/images/dashboard_outbound_calls.png)
 
 ### Time to Answer
+
+The '**Time to Answer**' report displays the average time taken for a call to be answered by a user.
+
+* Select any time period with a maximum of 7 days between them.
+* Choose a phone number / numbers from the drop down menu.
+* Click the '**Feedback**' button to provide feedback or feature requests.
+
+Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_calls_csv.png"> to download a copy in CSV format.
+
+### Export Call Records
+
+
+
