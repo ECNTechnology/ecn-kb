@@ -6,11 +6,9 @@ date: 2019-07-03T23:53:06.420Z
 
 This page contains ad-hoc device configuration information.
 
-# Grandstream HT802
+## Grandstream HT802
 
-# Logging into the HT802s management portal
-
-#### Find the IP Address of the HT802
+### Logging into the HT802s management portal
 
 * Plug an analog phone into the FX1 Port
 * Dial \*\** (triple star).
@@ -29,7 +27,7 @@ If this is a new HT802, Grandstream set the default credentials to:
 
 Click '**_Login_**‘
 
-# Security Settings
+### Security Settings
 
 #### Reset Admin, User, and Viewer passwords.
 
@@ -56,7 +54,7 @@ Click on the '**_Basic_**' tab.
 * Set '_**Web Access Mode**_‘ to HTTPS only.
 * Set '_**Disable SSH**_' to 'Yes'.
 
-# Network Settings
+### Network Settings
 
 Click on the '_**Basic**_‘ tab.
 
@@ -66,7 +64,7 @@ Click '_**Apply**_‘ when finished.
 
 You will need to reboot the device for your changes to apply correctly.
 
-# SIP Configuration
+#### SIP Configuration
 
 Click on the '_**FXS PORT1**_’ tab.
 
