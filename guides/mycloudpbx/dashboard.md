@@ -95,7 +95,6 @@ Report results can be filtered by simply clicking on the Call Type labels in the
 * Hover over the bar graph to see the exact number of calls.
 * Click the '**Feedback**' button to provide feedback or feature requests.
 
-
 Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_calls_csv.png"> to download a copy in CSV format.
 
 ![](/images/dashboard_outbound_calls.png)
@@ -112,5 +111,14 @@ Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_ca
 
 ### Export Call Records
 
+The '**Export Call Records**' (CDR) page provides a record of all calls that have been made or received by myCloudPBX.
 
+* Select a start & end date.
+* Select a phone number, or All phone numbers.
+
+Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_calls_csv.png"> to download a copy in CSV format.
+
+* Click the '**Feedback**' button to provide feedback or feature requests.
+
+![](/images/dashboard_export_call_records.png)
 
