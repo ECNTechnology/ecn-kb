@@ -6,8 +6,6 @@ date: 2019-12-05T06:25:00.676Z
 
 ## What's on your myCloudPBX Dashboard?
 
-We are proud to announce the launch of the myCloudPBX Analytics Dashboard. 
-
 The Dashboard displays critical information about your myCloudPBX system, providing granular reporting data for a real-time or historical view of the activities within your phone system. 
 
 Drill down into user performance and call reports for valuable insight into resolution times, response rates and optimal service times.
@@ -108,19 +106,6 @@ The '**Time to Answer**' report displays the average time taken for a call to be
 * Click the '**Feedback**' button to provide feedback or feature requests.
 
 Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_calls_csv.png"> to download a copy in CSV format.
-
-### Export Call Records
-
-The '**Export Call Records**' (CDR) page provides a record of all calls that have been made or received by myCloudPBX.
-
-* Select a start & end date.
-* Select a phone number, or All phone numbers.
-
-Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_calls_csv.png"> to download a copy in CSV format.
-
-* Click the '**Feedback**' button to provide feedback or feature requests.
-
-![](/images/dashboard_export_call_records.png)
 
 ### Account Code
 
