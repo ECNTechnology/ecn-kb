@@ -108,7 +108,9 @@ The above failure receipt indicates that the email sent by the user did not cont
 * The number must be 10 digits long.
 * The number can not contain any spaces or special characters.
 
+::: tip
 _The Virtual Fax feature is provided on an as-is basis without warranty or expectation of usability. As the Virtual Fax feature operates over a Voice Over IP network there may be certain circumstances where fax receive fails. When this occurs there is no Ability for us to correct, recover or improve the facility._
+:::
 
 ### Sending Rejected - No PDF attached
 
@@ -121,10 +123,13 @@ The above failure receipt indicates that the email sent by the user did not cont
  **TIPS:**
 
 * Ensure that the email contains a valid PDF attachment.
+* Confirm a PDF is attached and retry.
 * Try sending the email from a different email client.
 * The PDF filename can not contain any spaces or special characters.
 
+::: tip
 _The Virtual Fax feature is provided on an as-is basis without warranty or expectation of usability. As the Virtual Fax feature operates over a Voice Over IP network there may be certain circumstances where fax receive fails. When this occurs there is no Ability for us to correct, recover or improve the facility._
+:::
 
 ### Sending Rejected - Invalid User
 
@@ -139,7 +144,9 @@ The above failure receipt indicates that the sending email address has not been 
 * If you are an administrator, [click here ](https://kb.ecn.net.au/guides/mycloudpbx/virtual-fax.html#configure-allowed-senders) to learn how to add Virtual FAX Senders.
 * Contact your administrator to arrange access.
 
+::: tip
 _The Virtual Fax feature is provided on an as-is basis without warranty or expectation of usability. As the Virtual Fax feature operates over a Voice Over IP network there may be certain circumstances where fax receive fails. When this occurs there is no Ability for us to correct, recover or improve the facility._
+:::
 
 ### Transmission Failed
 
@@ -162,6 +169,8 @@ The above failure receipt indicates that the outbound FAX failed after myCloudPB
 * Give the number a ring from a mobile and confirm that the number is actually a FAX machine. (In this example the number is not a real FAX number, which is why it failed).
 * If possible, have the receiving FAX machine set their transmission speed for both send & receive to **9600bps**.
 * If possible, have the receiving FAX machine disable Error Correction Mode (**ECM**).
+* Try again in 5 minutes.
+
 ::: tip
 _The Virtual Fax feature is provided on an as-is basis without warranty or expectation of usability. As the Virtual Fax feature operates over a Voice Over IP network there may be certain circumstances where fax receive fails. When this occurs there is no Ability for us to correct, recover or improve the facility._
 :::
