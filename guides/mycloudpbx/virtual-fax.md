@@ -18,45 +18,45 @@ To configure virtual FAX you will first need to enable the virtual FAX plugin fo
 
 <img style="width: 1100px; height: auto;" src="/images/pbx-callrecordings-1.png">
 
-Hover over '_**Addons**_' and select '_**Configure Addons**_'.
+Hover over '**_Addons_**' and select '**_Configure Addons_**'.
 
 <img style="width: 800px; height: auto;" src="/images/pbx-fax-1.png">
 
 In order to enable Virtual FAX, you will need to read and agree to the disclaimer shown.
 
-Once you have clicked '_**I Agree**_', you will be able to click '_**Enable Virtual FAX Plugin**_' at the top.
+Once you have clicked '**_I Agree_**', you will be able to click '**_Enable Virtual FAX Plugin_**' at the top.
 
-Scroll down to the bottom of the page and click '_**Save**_' when finished.
+Scroll down to the bottom of the page and click '**_Save_**' when finished.
 
 <img style="width: auto; height: auto;" src="/images/pbx-callrecordings-5.png">
 
-Your changes are now ready to '_**Apply**_' to your PBX.
+Your changes are now ready to '**_Apply_**' to your PBX.
 
-Click '_**Apply PBX Changes**_'.
+Click '**_Apply PBX Changes_**'.
 
 ### Configure Allowed Senders
 
-In order to _**send**_ virtual FAX, your email address must be added to the '_**allowed senders**_' list.
+In order to **_send_** virtual FAX, your email address must be added to the '**_allowed senders_**' list.
 
 This allows you to specify who can send FAX on behalf of your company as well as the caller ID to be used for each user.
 
 <img style="width: 200px; height: auto;" src="/images/pbx-fax-2.png">
 
-From the PBX homepage, hover over '_**Addons**_' and select '_**Virtual FAX**_'.
+From the PBX homepage, hover over '**_Addons_**' and select '**_Virtual FAX_**'.
 
 <img style="width: auto; height: auto;" src="/images/pbx-fax-3.png">
 
-On this page you can click '**_Add Virtual FAX Sender_**' and also see a list of existing authorised email addresses.
+On this page you can click '_**Add Virtual FAX Sender**_' and also see a list of existing authorised email addresses.
 
-Click '**_Return to Service_**' when finished.
+Click '_**Return to Service**_' when finished.
 
 ### Virtual FAX Inbound Route
 
-To enable inbound virtual FAX you will need to click on '**_Call Routing_**' from the PBX Homepage.
+To enable inbound virtual FAX you will need to click on '_**Call Routing**_' from the PBX Homepage.
 
 <img style="width: auto; height: auto;" src="/images/pbx-fax-4.png">
 
-If you are modifying an existing an existing call route, click '_**view/edit**_' next to the number you wish to modify, otherwise click '_**Add Call Route**_'.
+If you are modifying an existing an existing call route, click '**_view/edit_**' next to the number you wish to modify, otherwise click '**_Add Call Route_**'.
 
 <img style="width: auto; height: auto;" src="/images/pbx-fax-5.png">
 
@@ -68,17 +68,17 @@ When creating a call route for Virtual FAX, you will need to fill in the followi
 
 <img style="width: auto; height: auto;" src="/images/pbx-fax-6.png">
 
-Scroll down the page until you get to the section titled '_**Enable Virtual FAX**_'.
+Scroll down the page until you get to the section titled '**_Enable Virtual FAX_**'.
 
 Check the option, and enter the email address that will receive the email containing the FAX message.
 
-Once done, scroll to the bottom, and click '_**Save**_'.
+Once done, scroll to the bottom, and click '**_Save_**'.
 
 <img style="width: auto; height: auto;" src="/images/pbx-callrecordings-5.png">
 
-Your changes are now ready to '_**Apply**_' to your PBX.
+Your changes are now ready to '**_Apply_**' to your PBX.
 
-Click '_**Apply PBX Changes**_'.
+Click '**_Apply PBX Changes_**'.
 
 ## Virtual FAX Troubleshooting
 
@@ -108,6 +108,8 @@ The above failure receipt indicates that the email sent by the user did not cont
 * The number must be 10 digits long.
 * The number can not contain any spaces or special characters.
 
+_The Virtual Fax feature is provided on an as-is basis without warranty or expectation of usability. As the Virtual Fax feature operates over a Voice Over IP network there may be certain circumstances where fax receive fails. When this occurs there is no Ability for us to correct, recover or improve the facility._
+
 ### Sending Rejected - No PDF attached
 
 - - -
@@ -122,6 +124,8 @@ The above failure receipt indicates that the email sent by the user did not cont
 * Try sending the email from a different email client.
 * The PDF filename can not contain any spaces or special characters.
 
+_The Virtual Fax feature is provided on an as-is basis without warranty or expectation of usability. As the Virtual Fax feature operates over a Voice Over IP network there may be certain circumstances where fax receive fails. When this occurs there is no Ability for us to correct, recover or improve the facility._
+
 ### Sending Rejected - Invalid User
 
 - - -
@@ -134,6 +138,8 @@ The above failure receipt indicates that the sending email address has not been 
 
 * If you are an administrator, [click here ](https://kb.ecn.net.au/guides/mycloudpbx/virtual-fax.html#configure-allowed-senders) to learn how to add Virtual FAX Senders.
 * Contact your administrator to arrange access.
+
+_The Virtual Fax feature is provided on an as-is basis without warranty or expectation of usability. As the Virtual Fax feature operates over a Voice Over IP network there may be certain circumstances where fax receive fails. When this occurs there is no Ability for us to correct, recover or improve the facility._
 
 ### Transmission Failed
 
@@ -156,6 +162,8 @@ The above failure receipt indicates that the outbound FAX failed after myCloudPB
 * Give the number a ring from a mobile and confirm that the number is actually a FAX machine. (In this example the number is not a real FAX number, which is why it failed).
 * If possible, have the receiving FAX machine set their transmission speed for both send & receive to **9600bps**.
 * If possible, have the receiving FAX machine disable Error Correction Mode (**ECM**).
+
+_The Virtual Fax feature is provided on an as-is basis without warranty or expectation of usability. As the Virtual Fax feature operates over a Voice Over IP network there may be certain circumstances where fax receive fails. When this occurs there is no Ability for us to correct, recover or improve the facility._
 
 **More about Error Correction Mode (ECM):**
 
