@@ -162,9 +162,9 @@ The above failure receipt indicates that the outbound FAX failed after myCloudPB
 * Give the number a ring from a mobile and confirm that the number is actually a FAX machine. (In this example the number is not a real FAX number, which is why it failed).
 * If possible, have the receiving FAX machine set their transmission speed for both send & receive to **9600bps**.
 * If possible, have the receiving FAX machine disable Error Correction Mode (**ECM**).
-
+::: tip
 _The Virtual Fax feature is provided on an as-is basis without warranty or expectation of usability. As the Virtual Fax feature operates over a Voice Over IP network there may be certain circumstances where fax receive fails. When this occurs there is no Ability for us to correct, recover or improve the facility._
-
+:::
 **More about Error Correction Mode (ECM):**
 
 When there is noise or poor call quality on the FAX call, parts of the transmission may become corrupted or lost in transit.
