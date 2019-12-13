@@ -18,45 +18,45 @@ To configure Virtual Fax you will first need to enable the virtual Fax plugin fo
 
 <img style="width: 1100px; height: auto;" src="/images/pbx-callrecordings-1.png">
 
-Hover over '**_Addons_**' and select '**_Configure Addons_**'.
+Hover over '_**Addons**_' and select '_**Configure Addons**_'.
 
 <img style="width: 800px; height: auto;" src="/images/pbx-fax-1.png">
 
 In order to enable Virtual Fax, you will need to read and agree to the disclaimer shown.
 
-Once you have clicked '**_I Agree_**', you will be able to click '**_Enable Virtual Fax Plugin_**' at the top.
+Once you have clicked '_**I Agree**_', you will be able to click '_**Enable Virtual Fax Plugin**_' at the top.
 
-Scroll down to the bottom of the page and click '**_Save_**' when finished.
+Scroll down to the bottom of the page and click '_**Save**_' when finished.
 
 <img style="width: auto; height: auto;" src="/images/pbx-callrecordings-5.png">
 
-Your changes are now ready to '**_Apply_**' to your PBX.
+Your changes are now ready to '_**Apply**_' to your PBX.
 
-Click '**_Apply PBX Changes_**'.
+Click '_**Apply PBX Changes**_'.
 
 ### Configure Allowed Senders
 
-In order to **_send_** Virtual Fax, your email address must be added to the '**_allowed senders_**' list.
+In order to _**send**_ Virtual Fax, your email address must be added to the '_**allowed senders**_' list.
 
 This allows you to specify who can send Fax on behalf of your company as well as the caller ID to be used for each user.
 
 <img style="width: 200px; height: auto;" src="/images/pbx-fax-2.png">
 
-From the PBX homepage, hover over '**_Addons_**' and select '**_Virtual Fax_**'.
+From the PBX homepage, hover over '_**Addons**_' and select '_**Virtual Fax**_'.
 
 <img style="width: auto; height: auto;" src="/images/pbx-fax-3.png">
 
-On this page you can click '_**Add Virtual Fax Sender**_' and also see a list of existing authorised email addresses.
+On this page you can click '**_Add Virtual Fax Sender_**' and also see a list of existing authorised email addresses.
 
-Click '_**Return to Service**_' when finished.
+Click '**_Return to Service_**' when finished.
 
 ### Virtual Fax Inbound Route
 
-To enable inbound Virtual Fax you will need to click on '_**Call Routing**_' from the PBX Homepage.
+To enable inbound Virtual Fax you will need to click on '**_Call Routing_**' from the PBX Homepage.
 
 <img style="width: auto; height: auto;" src="/images/pbx-fax-4.png">
 
-If you are modifying an existing an existing call route, click '**_view/edit_**' next to the number you wish to modify, otherwise click '**_Add Call Route_**'.
+If you are modifying an existing an existing call route, click '_**view/edit**_' next to the number you wish to modify, otherwise click '_**Add Call Route**_'.
 
 <img style="width: auto; height: auto;" src="/images/pbx-fax-5.png">
 
@@ -68,17 +68,17 @@ When creating a call route for Virtual Fax, you will need to fill in the followi
 
 <img style="width: auto; height: auto;" src="/images/pbx-fax-6.png">
 
-Scroll down the page until you get to the section titled '**_Enable Virtual Fax_**'.
+Scroll down the page until you get to the section titled '_**Enable Virtual Fax**_'.
 
 Check the option, and enter the email address that will receive the email containing the fax message.
 
-Once done, scroll to the bottom, and click '**_Save_**'.
+Once done, scroll to the bottom, and click '_**Save**_'.
 
 <img style="width: auto; height: auto;" src="/images/pbx-callrecordings-5.png">
 
-Your changes are now ready to '**_Apply_**' to your PBX.
+Your changes are now ready to '_**Apply**_' to your PBX.
 
-Click '**_Apply PBX Changes_**'.
+Click '_**Apply PBX Changes**_'.
 
 ## Virtual Fax Troubleshooting
 
@@ -106,7 +106,6 @@ The following are the possible failure notices that could occur.
 
 <img style="width: auto; height: auto;" src="/images/failed_fax_invalidnomber.png">
 
-
 The '**invalid number**' receipt indicates that the email sent by the user did not contain a valid fax number.
 
 **TIPS:**
@@ -125,6 +124,7 @@ The planned release date for the new Enterprise-Grade Virtual Fax service is Q2 
 - - -
 
 <img style="width: auto; height: auto;" src="/images/failed_fax_nopdf.png">
+
 
 The '**no PDF attached**' receipt indicates that the email sent by the user did not contain a valid PDF attachment.
 
