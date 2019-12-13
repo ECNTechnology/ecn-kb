@@ -1,5 +1,5 @@
 ---
-title: Virtual FAX
+title: Virtual Fax
 date: 2019-06-16T05:54:38.243Z
 ---
 ## **Configuring Virtual Fax**
