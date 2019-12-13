@@ -125,7 +125,6 @@ The planned release date for the new Enterprise-Grade Virtual Fax service is Q2 
 
 <img style="width: auto; height: auto;" src="/images/failed_fax_nopdf.png">
 
-
 The '**no PDF attached**' receipt indicates that the email sent by the user did not contain a valid PDF attachment.
 
  **TIPS:**
@@ -145,7 +144,7 @@ The planned release date for the new Enterprise-Grade Virtual Fax service is Q2 
 
 - - -
 
-![](/images/fax_failed_user1.png)
+![](/images/failed_fax_invaliduser.png)
 
 The '**invalid user**' receipt indicates that the sending email address has not been authorised to send faxes.
 
