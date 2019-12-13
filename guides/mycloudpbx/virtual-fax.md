@@ -137,8 +137,12 @@ The above failure receipt indicates that the email sent by the user did not cont
 * Try sending the email from a different email client.
 * The PDF filename can not contain any spaces or special characters.
 
+
+
+_The Virtual Fax feature is provided on an “as-is” basis without warranty or expectation of usability. As the Virtual Fax feature operates over a Voice Over IP network there may be certain circumstances where a fax fails. When this occurs there is no ability for us to correct, recover or improve the facility._
+
 ::: tip
-_The Virtual Fax feature is provided on an as-is basis without warranty or expectation of usability. As the Virtual Fax feature operates over a Voice Over IP network there may be certain circumstances where fax receive fails. When this occurs there is no Ability for us to correct, recover or improve the facility._
+The planned release date for the new Enterprise-Grade Virtual Fax service is Q2 - 2020, which will include enhanced functionality and support.
 :::
 
 ### Sending Rejected - Invalid User
@@ -154,8 +158,12 @@ The above failure receipt indicates that the sending email address has not been 
 * If you are an administrator, [click here ](https://kb.ecn.net.au/guides/mycloudpbx/virtual-fax.html#configure-allowed-senders) to learn how to add Virtual Fax Senders.
 * Contact your administrator to arrange access.
 
+
+
+_The Virtual Fax feature is provided on an “as-is” basis without warranty or expectation of usability. As the Virtual Fax feature operates over a Voice Over IP network there may be certain circumstances where a fax fails. When this occurs there is no ability for us to correct, recover or improve the facility._
+
 ::: tip
-_The Virtual Fax feature is provided on an as-is basis without warranty or expectation of usability. As the Virtual Fax feature operates over a Voice Over IP network there may be certain circumstances where fax receive fails. When this occurs there is no Ability for us to correct, recover or improve the facility._
+The planned release date for the new Enterprise-Grade Virtual Fax service is Q2 - 2020, which will include enhanced functionality and support.
 :::
 
 ### Transmission Failed
@@ -181,9 +189,14 @@ The above failure receipt indicates that the outbound fax failed after myCloudPB
 * If possible, have the receiving fax machine disable Error Correction Mode (**ECM**).
 * Try again in 5 minutes.
 
+
+
+_The Virtual Fax feature is provided on an “as-is” basis without warranty or expectation of usability. As the Virtual Fax feature operates over a Voice Over IP network there may be certain circumstances where a fax fails. When this occurs there is no ability for us to correct, recover or improve the facility._
+
 ::: tip
-_The Virtual Fax feature is provided on an as-is basis without warranty or expectation of usability. As the Virtual Fax feature operates over a Voice Over IP network there may be certain circumstances where fax receive fails. When this occurs there is no Ability for us to correct, recover or improve the facility._
+The planned release date for the new Enterprise-Grade Virtual Fax service is Q2 - 2020, which will include enhanced functionality and support.
 :::
+
 **More about Error Correction Mode (ECM):**
 
 When there is noise or poor call quality on the fax call, parts of the transmission may become corrupted or lost in transit.
