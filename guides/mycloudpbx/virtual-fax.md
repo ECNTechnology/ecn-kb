@@ -12,7 +12,7 @@ There are three steps to configuring Virtual Fax.
 
 ### Enable Virtual Fax
 
-Virtual Fax allows you to have a fax number with all the convenience of email without needing a traditional FAX machine.
+Virtual Fax allows you to have a fax number with all the convenience of email without needing a traditional fax machine.
 
 To configure Virtual Fax you will first need to enable the virtual Fax plugin for your PBX.
 
