@@ -6,7 +6,7 @@ date: 2020-01-09T02:48:15.212Z
 
 A ‘**General Service**’ allows you to use the myCloudPBX billing platform to bill your customers for additional services, such as monthly support, license keys or other hardware not provided by myCloudPBX.
 
-![](/images/general_services_1.png)![](/images/general_services_1.png)
+![](/images/general_services_1.png)
 
 From the '**My Clients**' menu, click '**Add/Edit General Services**'.
 
