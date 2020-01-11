@@ -68,19 +68,13 @@ The summary section at the top rates your call quality and provides some statist
 * 'Endpoint Types' chart provides percentage based information in regards to what make and model phones are connected to the system.
 * 'Service Provider' chart provides percentage based information in regards to the internet connection phones on the system are connecting through. This is done in the form of the WAN IP address assigned to the internet connections.
 
-
-
 ![](/images/QualityMonitor-Overview.jpg)
 
 The 'Quality' graph displays the quality of calls as a percentage plotted over the selected time frame.
 
-
-
 ![](/images/QualityMonitor-Quality.jpg)
 
 The 'User Sessions' graph displays how many calls were conducted within set plot points.
-
-
 
 ![](/images/QualityMonitor-UserSessions.jpg)
 
@@ -141,8 +135,7 @@ Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_ca
 
 Account codes are used to attribute calls to either a user or group of users.  Alternatively, account codes can be used to attribute calls made to your customers. 
 
-When a call is made, you can enter the account code as part of the phone number.  The code will show up in the CDR (Call Detail Recording) with call length, number dialled etc. 
-The CDR record is written when you terminate the call.
+When a call is made, you can enter the account code as part of the phone number.  The code will show up in the CDR (Call Detail Recording) with call length, number dialled etc.  The CDR record is written when you terminate the call.
 
 This functionality would typically be used by anyone who bills specifically for their time, eg: lawyers.
 
