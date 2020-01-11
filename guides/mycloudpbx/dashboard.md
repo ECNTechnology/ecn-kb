@@ -56,6 +56,34 @@ On the top right hand corner click the '**Action**' button, then click '**unique
 
 Copy the URL that is provided and open it on any web browser.
 
+## Insights
+
+### Quality Monitor
+
+The 'Quality Monitor' page displays statistics on call quality. It offers charts to compare the performance of different handsets as well as connections through different internet connections.
+
+The summary section at the top rates your call quality and provides some statistics at a glance.
+
+* 'Overall Quality' chart provides percentage based information on the quality of calls coming in and out of the system.
+* 'Endpoint Types' chart provides percentage based information in regards to what make and model phones are connected to the system.
+* 'Service Provider' chart provides percentage based information in regards to the internet connection phones on the system are connecting through. This is done in the form of the WAN IP address assigned to the internet connections.
+
+
+
+![](/images/QualityMonitor-Overview.jpg)
+
+The 'Quality' graph displays the quality of calls as a percentage plotted over the selected time frame.
+
+
+
+![](/images/QualityMonitor-Quality.jpg)
+
+The 'User Sessions' graph displays how many calls were conducted within set plot points.
+
+
+
+![](/images/QualityMonitor-UserSessions.jpg)
+
 ## Call Reports
 
 ### Inbound Calls
@@ -111,11 +139,9 @@ Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_ca
 
 #### Background information about Account Codes
 
-Account codes are used to attribute calls to either a user or group of users. 
-Alternatively, account codes can be used to attribute calls made to your customers. 
+Account codes are used to attribute calls to either a user or group of users.  Alternatively, account codes can be used to attribute calls made to your customers. 
 
-When a call is made, you can enter the account code as part of the phone number. 
-The code will show up in the CDR (Call Detail Recording) with call length, number dialled etc. 
+When a call is made, you can enter the account code as part of the phone number.  The code will show up in the CDR (Call Detail Recording) with call length, number dialled etc. 
 The CDR record is written when you terminate the call.
 
 This functionality would typically be used by anyone who bills specifically for their time, eg: lawyers.
@@ -126,6 +152,7 @@ The '**Account Code**' report takes each call with account codes  and assigns th
 
 * Specify the start & end date ranges.
 * Assign the following values to each of the call types:
+
   * **Unit:** Choose from 1 second, 30 seconds, or 1 minute increments.
   * **Cost:** Enter the cost (per unit) in cents.
   * **Minimum:** Enter the minimum call cost, in cents.
@@ -161,16 +188,16 @@ Once the data has loaded, you will be able to see the following information abou
 
 ### Active Users
 
-The '**Active Users**' report shows the total time users spent on calls. 
-Reports are filtered by the direction of the call, the office, and time period selected.
+The '**Active Users**' report shows the total time users spent on calls.  Reports are filtered by the direction of the call, the office, and time period selected.
 
 * Select any time period with a maximum of 7 days between them.
 * Select your '**Call Direction**':
+
   * All
   * Internal (This will only display calls made internally.
-  * Inbound (This will only display **_inbound calls_**. (calls that you answered).
-  * Outbound (This will only display **_outbound calls_** (calls that you made).  
-* Select the '**office**', or simply select '_all offices_'.
+  * Inbound (This will only display ***inbound calls***. (calls that you answered).
+  * Outbound (This will only display ***outbound calls*** (calls that you made).  
+* Select the '**office**', or simply select '*all offices*'.
 * Click the '**Feedback**' button to provide feedback or feature requests.
 
 ::: tip
@@ -189,11 +216,12 @@ The '**Total Call Count**' report shows the total number of calls each user made
 
 * Select any time period with a maximum of 7 days between them.
 * Select your '**Call Direction**':
+
   * All
   * Internal (This will only display calls made internally.
-  * Inbound (This will only display **_inbound calls_**. (calls that you answered).
-  * Outbound (This will only display **_outbound calls_** (calls that you made).  
-* Select the '**office**', or simply select '_all offices_'.
+  * Inbound (This will only display ***inbound calls***. (calls that you answered).
+  * Outbound (This will only display ***outbound calls*** (calls that you made).  
+* Select the '**office**', or simply select '*all offices*'.
 * Click the '**Feedback**' button to provide feedback or feature requests.
 
 ![](/images/dashboard_total_call_count.png)
@@ -204,11 +232,12 @@ The '**Average Call Duration**' report displays the average time each user spent
 
 * Select any time period with a maximum of 7 days between them.
 * Select your '**Call Direction**':
+
   * All
   * Internal (This will only display calls made internally.
-  * Inbound (This will only display **_inbound calls_**. (calls that you answered).
-  * Outbound (This will only display **_outbound calls_** (calls that you made).  
-* Select the '**office**', or simply select '_all offices_'.
+  * Inbound (This will only display ***inbound calls***. (calls that you answered).
+  * Outbound (This will only display ***outbound calls*** (calls that you made).  
+* Select the '**office**', or simply select '*all offices*'.
 * Click the '**Feedback**' button to provide feedback or feature requests.
 
 ::: tip
