@@ -257,7 +257,9 @@ To un-merge the calls again, press <img style="width: 25px; height: auto;" src="
 
 ## OSX Guides
 
-::: tip  Coming Soon!  :::
+::: tip
+ Coming Soon!  
+:::
 
 # Troubleshooting
 
@@ -273,12 +275,11 @@ You can clear the licenses (allowing you to register two new devices) from withi
 
 From the myCloudPBX homepage, click '**Offices & Users**'. <img style="width: 50px; height: auto;" src="/images/offices_and_users1.png"> 
 
-Select the extension you wish to modify from the list. (You may have to expand the '**_Offices_**' to find the correct extension.
+Select the extension you wish to modify from the list. (You may have to expand the '***Offices***' to find the correct extension.
 
-On the right hand side you will see the '**_myCloudPBX_**' configuration settings.
+On the right hand side you will see the '***myCloudPBX***' configuration settings.
 
 ![](/images/softphone_enable.png)
-
 
 To reset the licenses, click '***Reset License***'.
 
