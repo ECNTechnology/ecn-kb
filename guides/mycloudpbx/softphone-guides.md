@@ -8,10 +8,7 @@ date: 2019-06-16T04:10:10.042Z
 
 ## Windows Guides
 
-[Quick Start Guide - Windows](https://www.ecn.net.au/~support/myCloudPBXQuickStartGuideWindows.pdf)
-<br/>
-<br/>
-<br/>
+[Quick Start Guide - Windows](https://www.ecn.net.au/~support/myCloudPBXQuickStartGuideWindows.pdf) <br/> <br/> <br/>
 
 ## Android Guides
 
@@ -260,6 +257,25 @@ To un-merge the calls again, press <img style="width: 25px; height: auto;" src="
 
 ## OSX Guides
 
-::: tip
-Coming Soon!
-:::
+::: tip Coming Soon! :::
+
+# Troubleshooting
+
+## Device Activation Limit Reached
+
+Each myCloudPBX Softphone license can be used on a total of 2 devices.
+
+The '***Device Activation Limit Reached***' message will be displayed if you have exceeded the limit of 2 devices.
+
+<img src="/images/softphone_tshoot_mobile.png" width="350" />
+
+You can clear the licenses (allowing you to register two new devices) from within the PBX Admin Portal. If you do not have access to the portal, please contact your administrator.
+
+From the myCloudPBX homepage, click '**Offices & Users**'. <img style="width: 50px; height: auto;" src="/images/offices_and_users1.png"> 
+
+
+![](/images/softphone_enable.png)
+
+To reset the licenses, click '**_Reset License_**'.
+
+Scroll down to the bottom of the page and click '**_Save and Close_**'.
