@@ -45,7 +45,11 @@ Select the extension you wish to modify.
 Select both options to have the best of both worlds
 :::
 
+
 ## In Call Controls
+
+To begin Eavesdropping, dial **88** followed by the extension number to listen to.
+
 
 During a call, a Manger/Supervisor has the ability to speak with a user, the remote party, or both using the below shortcuts.
 
