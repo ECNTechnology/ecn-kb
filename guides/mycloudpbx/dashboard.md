@@ -225,5 +225,11 @@ The '**Average Call Duration**' report displays the average time each user spent
 
 Scheduled Reporting allows you to create a report and receive it in your inbox when you need it.
 
-Click the <img style="width: 50px; height: auto;" src="/images/scheduled_button.png"> button to create your report.
+If a report is available for scheduling, you will see this button: <img style="width: 150px; height: auto;" src="/images/scheduled_button.png">
 
+### Creating a report
+
+Click the <img style="width: 150px; height: auto;" src="/images/scheduled_button.png"> button to create your report.
+
+
+<img style="width: 1000px; height: auto;" src="/images/scheduled_create_new.png">
