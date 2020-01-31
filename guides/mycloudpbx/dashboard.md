@@ -231,5 +231,19 @@ If a report is available for scheduling, you will see this button: <img style="w
 
 Click the <img style="width: 150px; height: auto;" src="/images/scheduled_button.png"> button to create your report.
 
-
 <img style="width: 1000px; height: auto;" src="/images/scheduled_create_new.png">
+
+* **Report:** This is the report type.
+* **Friendly Name:** This is your name for the report.
+* **Email:** Add as many email recipients as required.
+* **Schedule:** Choose from Daily, Weekly, or Monthly.
+
+  * **Daily:** Select the days you wish to receive the report.
+  * **Weekly:** Choose the day of the week you wish to receive the report.
+  * **Monthly:** Choose the day of the month you wish to receive the report.
+* **Report State:** Use the toggle switch to choose from ON or OFF.
+* **Period:** Choose from the last 7 days, 14 days, or the last month.
+* **Direction:** Choose from Inbound, Outbound, Internal, or All Calls.
+* **Offices:** Choose from a specific office, or all offices.
+
+When you are finished, click the <img style="width: 150px; height: auto;" src="/images/scheduled_save.png"> button.
