@@ -113,8 +113,7 @@ Click <img style="width: 100px; height: auto;" src="/images/dashboard_inbound_ca
 
 Account codes are used to attribute calls to either a user or group of users.  Alternatively, account codes can be used to attribute calls made to your customers. 
 
-When a call is made, you can enter the account code as part of the phone number.  The code will show up in the CDR (Call Detail Recording) with call length, number dialled etc. 
-The CDR record is written when you terminate the call.
+When a call is made, you can enter the account code as part of the phone number.  The code will show up in the CDR (Call Detail Recording) with call length, number dialled etc.  The CDR record is written when you terminate the call.
 
 This functionality would typically be used by anyone who bills specifically for their time, eg: lawyers.
 
@@ -223,4 +222,8 @@ The '**Average Call Duration**' report displays the average time each user spent
 ![](/images/dashboard_average_call_duration_pie.png)
 
 ## Scheduled Reporting
+
+Scheduled Reporting allows you to create a report and receive it in your inbox when you need it.
+
+Click the <img style="width: 50px; height: auto;" src="/images/scheduled_button.png"> button to create your report.
 
