@@ -252,5 +252,13 @@ When you are finished, click the <img style="width: 50px; height: auto;" src="/i
 
 Click **Scheduled Reports** from the left hand menu.
 
+Here you can see the reports scheduled for the PBX including the report type, schedule, operating status, and the date last run.
+
 <img style="width: 1000px; height: auto;" src="/images/scheduled_viewlist.png">
+
+* To edit a report, click <img style="width: 50px; height: auto;" src="/images/scheduled_edit.png">.
+
+* Use the toggle switches to enable or disable a report.
+
+* To delete a report, click <img style="width: 50px; height: auto;" src="/images/scheduled_delete.png">.
 
