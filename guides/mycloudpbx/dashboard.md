@@ -246,4 +246,11 @@ Click the <img style="width: 150px; height: auto;" src="/images/scheduled_button
 * **Direction:** Choose from Inbound, Outbound, Internal, or All Calls.
 * **Offices:** Choose from a specific office, or all offices.
 
-When you are finished, click the <img style="width: 150px; height: auto;" src="/images/scheduled_save.png"> button.
+When you are finished, click the <img style="width: 50px; height: auto;" src="/images/scheduled_save.png"> button.
+
+### View / Modify Existing Reports
+
+Click **Scheduled Reports** from the left hand menu.
+
+<img style="width: 1000px; height: auto;" src="/images/scheduled_viewlist.png">
+
