@@ -34,8 +34,7 @@ module.exports = {
       },
       {
         text: 'myCloudPBX',
-        link: 'https://kb.mycloudpbx.com.au/',
-        target: '_blank'
+        link: 'https://kb.mycloudpbx.com.au/'
       },
       {
         text: 'Inbound 1300',
@@ -47,8 +46,7 @@ module.exports = {
       },
       {
         text: 'Cloud Dial',
-        link: 'https://kb.clouddial.com.au/',
-        target: '_blank'
+        link: 'https://kb.clouddial.com.au/'
       },
       {
         text: 'Wholesale Support',
