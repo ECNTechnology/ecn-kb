@@ -40,7 +40,7 @@
           <div class="container">
             <div class="row">
               <div class="col">
-                <p class="copy-text">© 1995 - 2019 ECN Pty Ltd. | Version: 1.2.0</p>
+                <p class="copy-text">© 1995 - {{ new Date().getFullYear() }} ECN Pty Ltd. | Version: 1.2.0</p>
               </div>
             </div>
           </div>

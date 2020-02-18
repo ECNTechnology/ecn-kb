@@ -39,14 +39,14 @@
       </router-link>
     </div>
     <div class="col-sm-12 col-md-4 col-lg-2">
-      <router-link to="/guides/mycloudpbx/" class="guide-link">
+      <a href="https://kb.mycloudpbx.com.au/" class="guide-link">
         <div class="guide-item">
           <img src="/images/mycloudpbx.png" alt="PBX" class="guide-icon">
 
           <h2 class="guide-title">myCloudPBX</h2>
           <p class="guide-text">Our myCloudPBX guides will assist you with configuring the myCloudPBX platform.</p>
         </div>
-      </router-link>
+      </a>
     </div>
     <div class="col-sm-12 col-md-4 col-lg-2">
       <router-link to="/guides/inbound-1300/" class="guide-link">

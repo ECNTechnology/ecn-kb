@@ -34,7 +34,8 @@ module.exports = {
       },
       {
         text: 'myCloudPBX',
-        link: '/guides/mycloudpbx/'
+        link: 'https://kb.mycloudpbx.com.au/',
+        target: '_blank'
       },
       {
         text: 'Inbound 1300',
@@ -46,7 +47,8 @@ module.exports = {
       },
       {
         text: 'Cloud Dial',
-        link: '/guides/cloud-dial/'
+        link: 'https://kb.clouddial.com.au/',
+        target: '_blank'
       },
       {
         text: 'Wholesale Support',
@@ -60,7 +62,7 @@ module.exports = {
     },
     {
       text: 'Contact us',
-      link: 'https://www.ecn.net.au/Contact/'
+      link: 'https://www.ecn.net.au/contact'
     },
     ],
     sidebar: {
@@ -72,10 +74,10 @@ module.exports = {
         title: 'Email Services',
         children: getChildren('./guides/email-services/')
       }],
-      '/guides/mycloudpbx/': [{
-        title: 'myCloudPBX',
-        children: getChildren('./guides/mycloudpbx/')
-      }],
+      // '/guides/mycloudpbx/': [{
+      //   title: 'myCloudPBX',
+      //   children: getChildren('./guides/mycloudpbx/')
+      // }],
       '/guides/inbound-1300/': [{
         title: 'Inbound 1300',
         children: getChildren('./guides/inbound-1300/')
@@ -84,10 +86,10 @@ module.exports = {
         title: 'Business SIP',
         children: getChildren('./guides/business-sip/')
       }],
-      '/guides/cloud-dial/': [{
-        title: 'Cloud Dial',
-        children: getChildren('./guides/cloud-dial/')
-      }],
+      // '/guides/cloud-dial/': [{
+      //   title: 'Cloud Dial',
+      //   children: getChildren('./guides/cloud-dial/')
+      // }],
       '/guides/wholesale-support/': [{
         title: 'Wholesale Support',
         children: getChildren('./guides/wholesale-support/')

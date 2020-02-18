@@ -6,15 +6,15 @@ publish_mode: editorial_workflow
 media_folder: "/.vuepress/public/images"
 public_folder: "/images"
 collections:
-  - name: "mycloudpbx" # Used in routes, e.g., /admin/collections/blog
-    label: "myCloudPBX articles" # Used in the UI
-    folder: "/guides/mycloudpbx" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - {label: "Title", name: "title", widget: "string"}
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - {label: "Body", name: "body", widget: "markdown"}
+  # - name: "mycloudpbx" # Used in routes, e.g., /admin/collections/blog
+  #   label: "myCloudPBX articles" # Used in the UI
+  #   folder: "/guides/mycloudpbx" # The path to the folder where the documents are stored
+  #   create: true # Allow users to create new documents in this collection
+  #   slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+  #   fields: # The fields for each document, usually in front matter
+  #     - {label: "Title", name: "title", widget: "string"}
+  #     - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+  #     - {label: "Body", name: "body", widget: "markdown"}
   - name: "business-sip" # Used in routes, e.g., /admin/collections/blog
     label: "Business SIP articles" # Used in the UI
     folder: "/guides/business-sip" # The path to the folder where the documents are stored
@@ -51,15 +51,15 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "cloud-dial" # Used in routes, e.g., /admin/collections/blog
-    label: "Cloud Dial articles" # Used in the UI
-    folder: "/guides/cloud-dial" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - {label: "Title", name: "title", widget: "string"}
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - {label: "Body", name: "body", widget: "markdown"}
+  # - name: "cloud-dial" # Used in routes, e.g., /admin/collections/blog
+  #   label: "Cloud Dial articles" # Used in the UI
+  #   folder: "/guides/cloud-dial" # The path to the folder where the documents are stored
+  #   create: true # Allow users to create new documents in this collection
+  #   slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+  #   fields: # The fields for each document, usually in front matter
+  #     - {label: "Title", name: "title", widget: "string"}
+  #     - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+  #     - {label: "Body", name: "body", widget: "markdown"}
   - name: "wholesale-support" # Used in routes, e.g., /admin/collections/blog
     label: "Wholesale Support articles" # Used in the UI
     folder: "/guides/wholesale-support" # The path to the folder where the documents are stored
