@@ -257,8 +257,20 @@ Here you can see the reports scheduled for the PBX including the report type, sc
 <img style="width: 1000px; height: auto;" src="/images/scheduled_viewlist.png">
 
 * To edit a report, click <img style="width: 50px; height: auto;" src="/images/scheduled_edit.png">.
-
 * Use the toggle switches to enable or disable a report.
-
 * To delete a report, click <img style="width: 50px; height: auto;" src="/images/scheduled_delete.png">.
 
+## Virtual Fax Archive
+
+The '**Virtual Fax Archive**' allows you to download your inbound Fax.
+
+Click the '**Download**' button to download a copy of the PDF.
+
+
+![](/images/dashboard_vfax.png)
+
+::: tip
+
+ **NOTE:** Fax are stored for 90 days only
+
+:::
