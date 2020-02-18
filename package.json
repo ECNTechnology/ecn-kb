@@ -1,15 +1,29 @@
 {
   "name": "ecn-kb",
   "version": "1.0.0",
-  "description": "",
+  "description": "Knowledge Base",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev",
+    "docs:build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ECNTechnology/knowledge-base.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "ECN Technology",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ECNTechnology/knowledge-base/issues"
+  },
+  "private": true,
   "dependencies": {
-    "vuepress": "^1.0.0-alpha.47"
+    "vuepress": "^1.0.3"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.0.0-alpha.47",
+    "@vuepress/plugin-google-analytics": "^1.0.3"
   }
 }
