@@ -5,15 +5,15 @@
     <div class="col-sm-12">
       <!-- <img class="home-logo" src="/images/ecn-tagline.png" alt=""> -->
       <h1 class="kb-title">Hi, how can we help you?</h1>
-      <p class="kb-description">Enter a search term to find all related articles</p>
+      <p class="kb-description">Please select one category below or view all KB options under the <strong>Knowledge Base</strong> menu</p>
     </div>
-    <div class="col-sm-12" id="search-home">
+    <!-- <div class="col-sm-12" id="search-home">
       <AlgoliaSearchBox
         v-if="isAlgoliaSearch"
         :options="algolia"
       />
       <SearchBox v-else-if="$site.themeConfig.search !== false && $page.frontmatter.search !== false"/>
-    </div>
+    </div> -->
   </div>
   <div class="row justify-content-center pt-2">
     <div class="col-sm-12">
