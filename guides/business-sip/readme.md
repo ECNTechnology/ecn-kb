@@ -4,7 +4,7 @@ date: 2019-04-15T04:56:03.485Z
 ---
 ## Logging into the management portal
 
-Too log into the **[Management Portal](https://my.ecn.net.au)** head to https://my.ecn.net.au and enter your Username & Password.
+To log into the **[Management Portal](https://my.ecn.net.au)** head to https://my.ecn.net.au and enter your Username & Password.
 
 Note that you can click '**Register**' on the right hand side if you do not already have an account and you can recover your password with the '**Having trouble signing in**' button.
 
@@ -24,16 +24,14 @@ There are a few fundamental differences between **Direct Mode** and **Trunk Mode
 
 ## Initial Setup
 
-When you log into the **[ECN Portal](https://my.ecn.net.au)** you will need to configure your *Region* and *Operating Mode*. ::: warning
-Image needs to go here ones Business SIP has been updated!.
+When you log into the **[ECN Portal](https://my.ecn.net.au)** you will need to configure your *Region* and *Operating Mode*. ::: warning Image needs to go here ones Business SIP has been updated!.
 :::
 
 ### SIP Server
 
 Choose the SIP Server that has closest represents your location.
 
-::: tip Pro Tip: Ping each server to find the one with the best response time!
-:::
+::: tip Pro Tip: Ping each server to find the one with the best response time! :::
 
 ### Operating Mode
 
@@ -107,8 +105,7 @@ On this screen you will be prompted to configure the following:
 * Send to voicemail.
 * Send to external number.
 
-::: tip Pro Tip: When using 'all devices offline', add in your IT departments email address and they will automatically be notified in the event there is an issue.
-:::
+::: tip Pro Tip: When using 'all devices offline', add in your IT departments email address and they will automatically be notified in the event there is an issue. :::
 
 ### **Voicemail**
 
@@ -187,5 +184,4 @@ On this screen you will be prompted to configure the following:
 * All Calls - All calls will be diverted to the number specified.
 * All Devices Offline - If your 'endpoint' is offline the call will be diverted.
 
-::: tip Pro Tip: When using 'all devices offline', add in your IT departments email address and they will automatically be notified in the event there is an issue.
-:::
+::: tip Pro Tip: When using 'all devices offline', add in your IT departments email address and they will automatically be notified in the event there is an issue. :::
