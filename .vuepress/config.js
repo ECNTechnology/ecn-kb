@@ -51,6 +51,10 @@ module.exports = {
       {
         text: 'Wholesale Support',
         link: '/guides/wholesale-support/'
+      },
+      {
+        text: 'Account Management',
+        link: '/guides/account-management/'
       }
       ]
     },
@@ -91,6 +95,10 @@ module.exports = {
       '/guides/wholesale-support/': [{
         title: 'Wholesale Support',
         children: getChildren('./guides/wholesale-support/')
+      }],
+      '/guides/account-management/': [{
+        title: 'Account Management',
+        children: getChildren('./guides/account-management/')
       }],
     },
     activeHeaderLinks: true,

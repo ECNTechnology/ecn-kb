@@ -20,10 +20,10 @@
   },
   "private": true,
   "dependencies": {
-    "vuepress": "^1.0.3"
+    "vuepress": "^1.5.2"
   },
   "devDependencies": {
-    "@vuepress/plugin-back-to-top": "^1.5.0",
-    "@vuepress/plugin-google-analytics": "^1.0.3"
+    "@vuepress/plugin-back-to-top": "^1.5.2",
+    "@vuepress/plugin-google-analytics": "^1.5.2"
   }
 }

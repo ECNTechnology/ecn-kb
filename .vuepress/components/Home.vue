@@ -15,11 +15,11 @@
       <SearchBox v-else-if="$site.themeConfig.search !== false && $page.frontmatter.search !== false"/>
     </div> -->
   </div>
-  <div class="row justify-content-center pt-2">
+  <div class="row justify-content-center pt-2 px-5">
     <div class="col-sm-12">
       <h1 class="home-kb">Knowledge Base</h1>
     </div>
-    <div class="col-sm-12 col-md-4 col-lg-2">
+    <div class="col-sm-12 col-md-4 col-lg-4">
       <router-link to="/guides/internet-services/" class="guide-link">
         <div class="guide-item">
           <img src="/images/globe.png" alt="Internet" class="guide-icon">
@@ -29,7 +29,7 @@
         </div>
       </router-link>
     </div>
-    <div class="col-sm-12 col-md-4 col-lg-2">
+    <div class="col-sm-12 col-md-4 col-lg-4">
       <router-link to="/guides/email-services/" class="guide-link">
         <div class="guide-item">
           <img src="/images/email.png" alt="Email" class="guide-icon">
@@ -38,7 +38,7 @@
         </div>
       </router-link>
     </div>
-    <div class="col-sm-12 col-md-4 col-lg-2">
+    <div class="col-sm-12 col-md-4 col-lg-4">
       <a href="https://kb.mycloudpbx.com.au/" class="guide-link">
         <div class="guide-item">
           <img src="/images/mycloudpbx.png" alt="PBX" class="guide-icon">
@@ -48,7 +48,7 @@
         </div>
       </a>
     </div>
-    <div class="col-sm-12 col-md-4 col-lg-2">
+    <div class="col-sm-12 col-md-4 col-lg-4">
       <router-link to="/guides/inbound-1300/" class="guide-link">
         <div class="guide-item">
           <img src="/images/inbound-1300.png" alt="Inbound 1300" class="guide-icon">
@@ -58,12 +58,21 @@
         </div>
       </router-link>
     </div>
-    <div class="col-sm-12 col-md-4 col-lg-2">
+    <div class="col-sm-12 col-md-4 col-lg-4">
       <router-link to="/guides/business-sip/" class="guide-link">
         <div class="guide-item">
           <img src="/images/business-sip.png" alt="Business SIP" class="guide-icon">
           <h2 class="guide-title">Business SIP</h2>
           <p class="guide-text">Our Business SIP guides will assist you with configuring your Business SIP service.</p>
+        </div>
+      </router-link>
+    </div>
+    <div class="col-sm-12 col-md-4 col-lg-4">
+      <router-link to="/guides/account-management/" class="guide-link">
+        <div class="guide-item">
+          <img src="/images/user-settings-fill.svg" alt="Business SIP" class="guide-svg-icon">
+          <h2 class="guide-title">Account Management</h2>
+          <p class="guide-text">Our Account Management guides will assist you to update or modify your Account Settings.</p>
         </div>
       </router-link>
     </div>
@@ -170,6 +179,13 @@ h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover{
   display: block;
   transition: 0.3s;
 }
+.guide-svg-icon{
+  width: 80px;
+  position: relative;
+  margin: 34px auto;
+  display: block;
+  transition: 0.3s;
+}
 .guide-title{
   margin: 15px 0;
   text-align: center;
@@ -186,34 +202,27 @@ h1:hover, h2:hover, h3:hover, h4:hover, h5:hover, h6:hover{
   }
 }
 
-@media screen and (min-width:768px) and (max-width: 990px) {
-  .guide-item{
-    min-height: 390px;
-  }
-}
-
-
-@media screen and (min-width:991px) and (max-width: 1130px) {
-  .guide-item{
-    min-height: 470px;
-  }
-}
-
-@media screen and (min-width:1131px) and (max-width:1359px) {
+@media screen and (min-width:768px) and (max-width: 1130px) {
   .guide-item{
     min-height: 450px;
   }
 }
 
+@media screen and (min-width:1131px) and (max-width:1359px) {
+  .guide-item{
+    min-height: 400px;
+  }
+}
+
 @media screen and (min-width:1360px) and (max-width: 1585px) {
   .guide-item{
-    min-height: 390px;
+    min-height: 350px;
   }
 }
 
 @media screen and (min-width:1586px) {
   .guide-item{
-    min-height: 360px;
+    min-height: 320px;
   }
 }
 
