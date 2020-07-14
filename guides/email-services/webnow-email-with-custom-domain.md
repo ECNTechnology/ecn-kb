@@ -96,6 +96,7 @@ Enter the following information:
 
 **Outgoing Mail Server**
 
+* **Enable "My Outgoing Server Requires Authentication"**
 * **Outgoing Server:** mail.webconnect.com.au
 * **Outgoing Server Port:** 587
 * **Use SSL to connect:** This should be ticked.
@@ -239,6 +240,7 @@ Enter the following settings:
 
 **Outgoing Mail Server Settings**
 
+* **Enable "My Outgoing Server Requires Authentication"**
 * **Outgoing Mail Server:** mail.webconnect.com.au
 * **Outgoing Mail Server Port (SMTP):** 587 with Auto encryption
 
