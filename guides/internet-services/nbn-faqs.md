@@ -50,13 +50,19 @@ Your actual speeds can be affected by a number of factors including:
 
 Fibre to the Premises (FTTP) connections will have a fibre optic line connecting from the nearest fibre node, directly to your premises.
 
-An FTTP connection will require additional hardware to be installed by nbn within your premises.
+### Connecting your router
+
+Your FTTP connection may require additional hardware to be installed by nbn within your premises.
 
 A licensed nbn contractor will install the nbn utility box to the outside of your property before running the fibre through the wall to the internal nbn connection box.
 
 The internal nbn connection box will be powered by a battery backup system allowing the Internet to function during minor power outages.
 
 <img style="width: 750px; height: auto;" src="/images/nbn_fttp_stock.png">
+
+Once your FTTP order has completed ECN will tell you which "UNI-D" port to plug your router into on the nbn connection box. (These ports will be labelled clearly and allow for up to four data services to be run at a time).
+
+### Where will the nbn provided equipment be installed?
 
 
 
