@@ -23,11 +23,9 @@ If you elect to supply your own modem, it simply has to be VDSL2 compatible.
 Image coming soon!
 :::
 
-### FAQs
+### What speeds can I expect from FTTB?
 
-#### What speeds can I expect from FTTB?
-
-
+Fibre to the Building services can be delivered 
 
 ## nbn Fixed Wireless
 ::: tip
@@ -45,4 +43,7 @@ Coming Soon!
 ::: tip
 Coming Soon!
 :::
-
+## Fibre to the Premises (FTTP)
+::: tip
+Coming Soon!
+:::
