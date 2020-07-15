@@ -64,8 +64,18 @@ Once your FTTP order has completed ECN will tell you which "UNI-D" port to plug 
 
 ### Where will the nbn provided equipment be installed?
 
+Prior to your nbn installation, you will need to decide where you want your nbn connection box & power supply to be installed.
 
+Use the following checklist to pick your preferred location:
 
+* Close to a convenient power point with two available sockets.
+* The area must be cool, dry and well ventilated. (no kitchens, bathrooms, under an open window etc.)
+* Not in a high traffic area where it may be bumped or damaged.
+* It should be easily accessible to see and check the indicator lights.
+* Not in a seperate garage / outhouse).
+
+The nbn technician will attempt to accommodate your requests, however you should have an alternate location in mind incase your first choice is unsuitable.
+ 
 ## nbn Fixed Wireless
 
 ::: tip
