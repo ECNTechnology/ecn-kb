@@ -4,6 +4,14 @@ date: 2020-07-15T06:42:19.572Z
 ---
 # nbn Frequently Asked Questions
 
+# When can I connect to the nbn?
+
+For Residential Services, click <a href="https://ecn.net.au/home-solutions/">here</a> to check availability and connect to the nbn with ECN.
+
+For Business Services, please call 1300 790 111 or email <a href="mailto:sales@ecn.net.au?&subject=New%20NBN%20Enquiry" target="_top">sales@ecn.net.au</a> and our friendly team will be happy to answer any questions you may have.
+
+
+
 # Types of nbn available
 
 There are many different types of nbn available. The difference between each connection type comes down the the underlying network technology connecting to the nearest available fibre node.
@@ -25,7 +33,16 @@ Image coming soon!
 
 ### What speeds can I expect from FTTB?
 
-Fibre to the Building services can be delivered 
+Fibre to the Building services can be delivered at a range of speeds to your buildings communications room.
+
+Your actual speeds can be affected by a number of factors including:
+
+* Cabling throughout your building.
+* Modem quality and performance.
+* WiFi signal strength.
+* Your nbn tier selected.
+
+
 
 ## nbn Fixed Wireless
 ::: tip
