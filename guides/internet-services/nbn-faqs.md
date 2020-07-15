@@ -10,8 +10,6 @@ For Residential Services, click <a href="https://ecn.net.au/home-solutions/">her
 
 For Business Services, please call 1300 790 111 or email <a href="mailto:sales@ecn.net.au?&subject=New%20NBN%20Enquiry" target="_top">sales@ecn.net.au</a> and our friendly team will be happy to answer any questions you may have.
 
-
-
 # Types of nbn available
 
 There are many different types of nbn available. The difference between each connection type comes down the the underlying network technology connecting to the nearest available fibre node.
