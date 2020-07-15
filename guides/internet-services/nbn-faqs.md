@@ -4,7 +4,7 @@ date: 2020-07-15T06:42:19.572Z
 ---
 # nbn Frequently Asked Questions
 
-# When can I connect to the nbn?
+## When can I connect to the nbn?
 
 For Residential Services, click <a href="https://ecn.net.au/home-solutions/">here</a> to check availability and connect to the nbn with ECN.
 
