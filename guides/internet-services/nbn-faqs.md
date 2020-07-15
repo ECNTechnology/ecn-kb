@@ -29,11 +29,11 @@ If you elect to supply your own modem, it simply has to be VDSL2 compatible.
 Image Coming Soon! - Typical FTTB setup
 :::
 
-Your modem will connect into the existing telephone wall socket. This should be the _first telephone socket_ in the property and is typically closest to the door.
+Your modem will connect into the existing telephone wall socket. This should be the *first telephone socket* in the property and is typically closest to the door.
 
 **Note:** If you have more than one socket within the premises or have old telephones / adsl modems plugged in, this will likely degrade the performance of the new nbn connection.
 
-If you have installed a _new line_ specifically for the nbn, then you may need additional cabling performed from the MDF to the desired location within your premises.
+If you have installed a *new line* specifically for the nbn, then you may need additional cabling performed from the MDF to the desired location within your premises.
 
 ### What speeds can I expect from FTTB?
 
@@ -46,25 +46,36 @@ Your actual speeds can be affected by a number of factors including:
 * WiFi signal strength.
 * Your nbn tier selected.
 
+## Fibre to the Premises (FTTP)
+
+Fibre to the Premises (FTTP) connections will have a fibre optic line connecting from the nearest fibre node, directly to your premises.
+
+An FTTP connection will require additional hardware to be installed by nbn within your premises.
+
+<img style="width: 500px; height: auto;" src="/images/nbn_fttp_stock.png">
+
 
 
 ## nbn Fixed Wireless
+
 ::: tip
 Coming Soon!
 :::
+
 ## Hybrid Fibre Coaxial (HFC)
+
 ::: tip
 Coming Soon!
 :::
+
 ## Fibre to the Node (FTTN)
+
 ::: tip
 Coming Soon!
 :::
+
 ## Fibre to the Curb (FTTC)
-::: tip
-Coming Soon!
-:::
-## Fibre to the Premises (FTTP)
+
 ::: tip
 Coming Soon!
 :::
