@@ -33,7 +33,7 @@ Your modem will connect into the existing telephone wall socket. This should be 
 
 **Note:** If you have more than one socket within the premises or have old telephones / adsl modems plugged in, this will likely degrade the performance of the new nbn connection.
 
-If you have installed a *new line* specifically for the nbn, then you may need additional cabling performed from the MDF to the desired location within your premises.
+If you have installed a *new line* specifically for the nbn, then you may need additional cabling performed from the MDF to the desired location within your premises - This will need to be performed by a licensed cabler arranged by the building management.
 
 ### What speeds can I expect from FTTB?
 
