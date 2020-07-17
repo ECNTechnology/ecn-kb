@@ -193,3 +193,11 @@ On this screen you will be prompted to configure the following:
 ::: tip 
 Pro Tip: When using 'all devices offline', add in your IT departments email address and they will automatically be notified in the event there is an issue. 
 :::
+
+## Hardware
+
+ECNs Business SIP product is compatible with any device that is fully SIP compliant.
+
+We cannot however provide configuration steps for every device type.
+
+For configuration of the Grandstream HT802 please click **[here](https://kb.mycloudpbx.com.au/guides/mycloudpbx/device-configuration.html#grandstream-ht802)**
