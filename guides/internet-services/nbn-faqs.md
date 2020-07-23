@@ -44,6 +44,7 @@ Fibre to the Building services can be delivered at a range of speeds to your bui
 Your actual speeds can be affected by a number of factors including:
 
 * Cabling throughout your building.
+
 * Modem quality and performance.
 * WiFi signal strength.
 * Your nbn tier selected.
@@ -71,6 +72,7 @@ Prior to your nbn installation, you will need to decide where you want your nbn 
 Use the following checklist to pick your preferred location:
 
 * Close to a convenient power point with two available sockets.
+
 * The area must be cool, dry and well ventilated. (no kitchens, bathrooms, under an open window etc.)
 * Not in a high traffic area where it may be bumped or damaged.
 * It should be easily accessible to see and check the indicator lights.
@@ -98,10 +100,22 @@ nbn aims to connect a premises to the Fixed Wireless network within 28 days of a
 
 * Your modem will then need to be plugged into the connection box. 
 
-
 ::: tip
 Image Coming Soon!
 :::
+
+### What speed can I expect from nbn Fixed Wireless?
+
+There are many factors that can affect the performance of nbn Fixed Wireless.
+
+* **Network Equipment:** A quality router can perform significantly better than some cheaper alternatives. ECN have a range of supported devices we can supply with your new connection - Just ask your sales person.
+
+* **WiFi Signal Strength:** Try and place the WiFi router in an elevated location with minimal obstructions between it and your devices. nbn have a good guide for getting the most out of your WiFi connection available <a href="https://www.nbnco.com.au/blog/connected-homes/how-to-get-the-most-out-of-your-wifi-connection">here</a>:
+
+* **The number of devices / users connected** actively to the Internet at the same time can have a significant impact on the speed of your connection. Streaming Netflix, youtube & online gaming can all have a big impact to the speed of the connection for others in the same household.
+
+* **Network congestion:** During busy periods, such as evenings when more people are online, nbn's Fixed Wireless Network can be congested which may impact speeds.
+
 
 ## Hybrid Fibre Coaxial (HFC)
 
