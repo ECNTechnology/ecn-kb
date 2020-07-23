@@ -29,6 +29,8 @@ If you elect to supply your own modem, it simply has to be VDSL2 compatible.
 <img style="width: 750px; height: auto;" src="/images/nbn_fttb.jpg">
 
 
+
+
 Your modem will connect into the existing telephone wall socket. This should be the *first telephone socket* in the property and is typically closest to the door.
 
 **Note:** If you have more than one socket within the premises or have old telephones / adsl modems plugged in, this will likely degrade the performance of the new nbn connection.
@@ -59,8 +61,6 @@ A licensed nbn contractor will install the nbn utility box to the outside of you
 The internal nbn connection box will be powered by a battery backup system allowing the Internet to function during minor power outages.
 
 <img style="width: 750px; height: auto;" src="/images/nbn_fttp.jpg">
-
-
 
 Once your FTTP order has completed ECN will tell you which "UNI-D" port to plug your router into on the nbn connection box. (These ports will be labelled clearly and allow for up to four data services to be run at a time).
 
