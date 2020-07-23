@@ -110,7 +110,7 @@ There are many factors that can affect the performance of nbn Fixed Wireless.
 
 * **Network Equipment:** A quality router can perform significantly better than some cheaper alternatives. ECN have a range of supported devices we can supply with your new connection - Just ask your sales person.
 
-* **WiFi Signal Strength:** Try and place the WiFi router in an elevated location with minimal obstructions between it and your devices. nbn have a good guide for getting the most out of your WiFi connection available <a href="https://www.nbnco.com.au/blog/connected-homes/how-to-get-the-most-out-of-your-wifi-connection">here</a>:
+* **WiFi Signal Strength:** Try and place the WiFi router in an elevated location with minimal obstructions between it and your devices. nbn have a good guide for getting the most out of your WiFi connection available <a href="https://www.nbnco.com.au/learn/optimisation/in-home-optimisation">here</a>:
 
 * **The number of devices / users connected** actively to the Internet at the same time can have a significant impact on the speed of your connection. Streaming Netflix, youtube & online gaming can all have a big impact to the speed of the connection for others in the same household.
 
