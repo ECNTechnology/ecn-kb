@@ -25,9 +25,11 @@ In this instance nbn will run a fibre optic line to the fibre node in the buildi
 **Note:** You will require a VDSL2 compatible modem. ECN can pre-configure and ship a modem to your door, simply click the option when prompted on our online ordering form <a href="https://ecn.net.au/home-solutions/">here</a>.
 
 If you elect to supply your own modem, it simply has to be VDSL2 compatible.
-::: tip
-Image Coming Soon! - Typical FTTB setup
-:::
+
+<img style="width: 750px; height: auto;" src="/images/nbn_fttb.jpg">
+
+
+
 
 Your modem will connect into the existing telephone wall socket. This should be the *first telephone socket* in the property and is typically closest to the door.
 
@@ -58,7 +60,7 @@ A licensed nbn contractor will install the nbn utility box to the outside of you
 
 The internal nbn connection box will be powered by a battery backup system allowing the Internet to function during minor power outages.
 
-<img style="width: 750px; height: auto;" src="/images/nbn_fttp_stock.png">
+<img style="width: 750px; height: auto;" src="/images/nbn_fttp.jpg">
 
 Once your FTTP order has completed ECN will tell you which "UNI-D" port to plug your router into on the nbn connection box. (These ports will be labelled clearly and allow for up to four data services to be run at a time).
 
@@ -75,7 +77,7 @@ Use the following checklist to pick your preferred location:
 * Not in a seperate garage / outhouse).
 
 The nbn technician will attempt to accommodate your requests, however you should have an alternate location in mind incase your first choice is unsuitable.
- 
+
 ## nbn Fixed Wireless
 
 ::: tip
