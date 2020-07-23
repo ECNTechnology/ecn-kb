@@ -26,7 +26,7 @@ In this instance nbn will run a fibre optic line to the fibre node in the buildi
 
 If you elect to supply your own modem, it simply has to be VDSL2 compatible.
 
-<img style="width: 750px; height: auto;" src="/images/nbn_fttb.jpg">
+<img style="width: 900px; height: auto;" src="/images/nbn_fttb.jpg">
 
 
 
@@ -61,7 +61,7 @@ A licensed nbn contractor will install the nbn utility box to the outside of you
 
 The internal nbn connection box will be powered by a battery backup system allowing the Internet to function during minor power outages.
 
-<img style="width: 750px; height: auto;" src="/images/nbn_fttp.jpg">
+<img style="width: 900px; height: auto;" src="/images/nbn_fttp.jpg">
 
 Once your FTTP order has completed ECN will tell you which "UNI-D" port to plug your router into on the nbn connection box. (These ports will be labelled clearly and allow for up to four data services to be run at a time).
 
