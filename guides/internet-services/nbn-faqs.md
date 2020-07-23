@@ -80,8 +80,27 @@ The nbn technician will attempt to accommodate your requests, however you should
 
 ## nbn Fixed Wireless
 
+nbn Fixed Wireless uses data transmitted over radio signals to connect to the nbn network.
+
+nbn Fixed Wireless is typically only used where each property is a significant distance from the next as data can travel up to 14 kilometres from the transmission tower to an nbn outdoor antenna installed on a premises.
+
+### Installation Process
+
+nbn aims to connect a premises to the Fixed Wireless network within 28 days of an order being placed. This will depend on where the premises is located to the Fixed Wireless Tower.
+
+* nbn order is placed with ECN.
+
+* ECN arrange an appointment for an nbn technician to visit the premises and confirm suitable Fixed Wireless Signal is attainable.
+
+* Once confirmed, the technician will install an outdoor antenna on the roof, on a wall, or under the soffit of the premises.
+
+* The nbn technician will then connect the outdoor antenna to an nbn connection box inside the premises.
+
+* Your modem will then need to be plugged into the connection box. 
+
+
 ::: tip
-Coming Soon!
+Image Coming Soon!
 :::
 
 ## Hybrid Fibre Coaxial (HFC)
