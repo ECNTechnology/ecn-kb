@@ -36,8 +36,8 @@ Make sure you have the following information filled in:
 * **Username:** This is everything before the @ sign on your email address. For example, if your email is bobjohnson@ecn.net.au, your username is *bobjohnson*.
 * **Password:** Your password.
 * **Account Type:** Choose IMAP.
-* **Incoming Mail Server:** mail.webconnect.com.au
-* **Outgoing Mail Server:** mail.webconnect.com.au
+* **Incoming Mail Server:** mail.ecn.net.au
+* **Outgoing Mail Server:** mail.ecn.net.au
 
 Click '***Sign In***'.
 
