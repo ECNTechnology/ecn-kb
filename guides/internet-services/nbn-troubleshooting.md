@@ -79,8 +79,12 @@ If the above troubleshooting has not resolved your problems, please use the foll
 
 #### Fault logging template: VDSL Slow Speeds
 
-**Name of person logging fault:
-Contact Mobile Number:** 
+Please use the following template when logging faults as this will greatly speed up the fault logging and troubleshooting process.
+
+
+**Name of person logging fault:**
+
+**Contact Mobile Number:** 
 
 * **Modem LEDs:**
 * **Power:** (RED, GREEN, OFF)
@@ -129,6 +133,9 @@ Check the status page for any outages: <https://status.ecn.net.au/> 
 If the above troubleshooting has not resolved your problems, please use the following fault logging template to log a ticket with the support team.
 
 #### Fault logging template: VDSL Slow Speeds
+
+Please use the following template when logging faults as this will greatly speed up the fault logging and troubleshooting process.
+
 
 **Name of person logging fault:** 
 
