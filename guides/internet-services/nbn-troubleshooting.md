@@ -6,7 +6,7 @@ date: 2021-07-12T08:53:08.571Z
 
 ## Fibre To The Node (FTTN, VDSL)
 
-- - -
+
 
 ### VDSL: Service Offline
 
