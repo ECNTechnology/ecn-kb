@@ -39,7 +39,6 @@ Please use the following template when logging faults as this will greatly speed
 * **DSL/Sync:** (Red, Green, Off)
 * **DSL behaviour:** (Flashing, Solid)
 
-**Troubleshooting:** 
 
 **Does the modem have power?:** (yes, no)
 
@@ -89,7 +88,6 @@ Contact Mobile Number:**
 * **DSL/Sync:** (Red, Green, Off)
 * **DSL behaviour:** (Flashing, Solid)
 
-**Troubleshooting:** 
 
 **Has the modem been rebooted?:** (yes, no)
 
