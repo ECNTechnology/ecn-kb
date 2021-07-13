@@ -9,6 +9,8 @@ date: 2021-07-12T08:53:08.571Z
 - - -
 
 ### VDSL: Service Offline
+#### Troubleshooting Steps
+
 
 Check the status page for any outages: <https://status.ecn.net.au/> 
 
@@ -63,6 +65,7 @@ Please use the following template when logging faults as this will greatly speed
 
 ### VDSL: Slow Speeds
 
+#### Troubleshooting Steps
 Check the status page for any outages: <https://status.ecn.net.au/> 
 
 * Turn the modem off for 5 minutes
