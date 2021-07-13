@@ -6,9 +6,9 @@ date: 2021-07-12T08:53:08.571Z
 
 ## Fibre To The Node (FTTN, VDSL)
 
-- - - 
+- - -
 
-### Service Offline
+### VDSL: Service Offline
 
 Check the status page for any outages: <https://status.ecn.net.au/> 
 
@@ -22,7 +22,7 @@ Check the status page for any outages: <https://status.ecn.net.au/> 
 
 If the above troubleshooting has not resolved your problems, please use the following fault logging template to log a ticket with the support team.
 
-#### Fault logging template
+#### Fault logging template: VDSL Service Offline
 
 Please use the following template when logging faults as this will greatly speed up the fault logging and troubleshooting process.
 
@@ -58,9 +58,10 @@ Please use the following template when logging faults as this will greatly speed
 **Has the status page been checked for any outages?:** <https://status.ecn.net.au/> 
 
 **Any additional information that may be helpful:**
+
 - - -
 
-### Slow Speeds
+### VDSL: Slow Speeds
 
 Check the status page for any outages: <https://status.ecn.net.au/> 
 
@@ -74,11 +75,12 @@ Check the status page for any outages: <https://status.ecn.net.au/> 
 
 If the above troubleshooting has not resolved your problems, please use the following fault logging template to log a ticket with the support team.
 
+#### Fault logging template: VDSL Slow Speeds
+
 **Name of person logging fault:
 Contact Mobile Number:** 
 
 * **Modem LEDs:**
-
 * **Power:** (RED, GREEN, OFF)
 * **Power behaviour:** (Flashing , Solid)
 * **DSL/Sync:** (Red, Green, Off)
