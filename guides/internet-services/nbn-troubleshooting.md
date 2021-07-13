@@ -18,6 +18,12 @@ Check the status page for any outages: <https://status.ecn.net.au/> 
 
 * Allow 5 minutes for the modem to power on completely
 
+::: tip
+**Pro Tip:** Try connecting directly to the modem using an Ethernet cable.
+:::
+
+If the above troubleshooting has not resolved your problems, please use the following fault logging template to log a ticket with the support team.
+
 
 
 
